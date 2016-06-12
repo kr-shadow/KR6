@@ -1,0 +1,24 @@
+#TITLE: KR6 佛部
+* KR6 佛部
+KR6a 阿含部類
+KR6b 本緣部類
+KR6c 般若部類
+KR6d 法華部類
+KR6e 華嚴部類
+KR6f 寶積部類
+KR6g 涅槃部類
+KR6h 大集部類
+KR6i 經集部類
+KR6j 密教部類
+KR6k 律部類
+KR6l 毘曇部類
+KR6m 中觀部類
+KR6n 瑜伽部類
+KR6o 論集部類
+KR6p 淨土宗部類
+KR6q 禪宗部類
+KR6r 史傳部類
+KR6s 事彙部類
+KR6t 續諸宗(日本)
+KR6u 敦煌寫本部類
+KR6v 新編部類

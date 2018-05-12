@@ -1,5 +1,5 @@
 #+TITLE: 古尊宿語錄目錄-日本-道忠
-#+DATE: 2016-06-11 12:30:17
+#+DATE: 2018-05-12 10:25:04
 #+SOURCE: github.com/kanripo/KR6q0260 master cf620c82                
 No. 1314
 今刊古尊宿語錄目錄

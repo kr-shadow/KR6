@@ -1,5 +1,5 @@
 #+TITLE: 觀所緣緣論-唐-陳那菩薩
-#+DATE: 2016-06-11 12:29:48
+#+DATE: 2018-05-12 10:24:35
 #+SOURCE: github.com/kanripo/KR6n0112 master 636210b7                
 
 No. 1624 [cf. No. 1625]

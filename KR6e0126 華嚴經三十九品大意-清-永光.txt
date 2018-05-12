@@ -1,5 +1,5 @@
 #+TITLE: 華嚴經三十九品大意-清-永光
-#+DATE: 2016-06-11 12:28:22
+#+DATE: 2018-05-12 10:23:13
 #+SOURCE: github.com/kanripo/KR6e0126 master b80b09e4                
 No. 242
 大方廣佛華嚴經三十九品大意

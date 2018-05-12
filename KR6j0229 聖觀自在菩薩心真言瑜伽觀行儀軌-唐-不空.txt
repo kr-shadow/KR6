@@ -1,5 +1,5 @@
 #+TITLE: 聖觀自在菩薩心真言瑜伽觀行儀軌-唐-不空
-#+DATE: 2016-06-11 12:28:59
+#+DATE: 2018-05-12 10:23:48
 #+SOURCE: github.com/kanripo/KR6j0229 master 332bc69b                
 
 

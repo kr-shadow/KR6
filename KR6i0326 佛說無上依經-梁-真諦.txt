@@ -1,5 +1,5 @@
 #+TITLE: 佛說無上依經-梁-真諦
-#+DATE: 2016-06-11 12:28:45
+#+DATE: 2018-05-12 10:23:35
 #+SOURCE: github.com/kanripo/KR6i0326 master e3c604aa                
 
 

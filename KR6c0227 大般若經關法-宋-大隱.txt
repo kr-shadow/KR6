@@ -1,5 +1,5 @@
 #+TITLE: 大般若經關法-宋-大隱
-#+DATE: 2016-06-11 12:27:54
+#+DATE: 2018-05-12 10:22:44
 #+SOURCE: github.com/kanripo/KR6c0227 master 76798e23                
 
 * No. 448-A

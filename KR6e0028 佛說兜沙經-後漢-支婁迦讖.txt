@@ -1,5 +1,5 @@
 #+TITLE: 佛說兜沙經-後漢-支婁迦讖
-#+DATE: 2016-06-11 12:28:16
+#+DATE: 2018-05-12 10:23:07
 #+SOURCE: github.com/kanripo/KR6e0028 master 9b5d8a4c                
 No. 280 [Nos. 278(3, 5), 279(7, 9)]
 《佛說兜沙經》一卷

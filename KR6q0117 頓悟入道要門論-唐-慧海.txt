@@ -1,5 +1,5 @@
 #+TITLE: 頓悟入道要門論-唐-慧海
-#+DATE: 2016-06-11 12:30:09
+#+DATE: 2018-05-12 10:24:55
 #+SOURCE: github.com/kanripo/KR6q0117 master 8c5de656                
 
 * No. 1223-A

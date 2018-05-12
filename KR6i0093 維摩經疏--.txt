@@ -1,5 +1,5 @@
 #+TITLE: 維摩經疏--
-#+DATE: 2016-06-11 12:28:37
+#+DATE: 2018-05-12 10:23:28
 #+SOURCE: github.com/kanripo/KR6i0093 master 576dee61                
 
 No. 2774 [cf. No. 475]

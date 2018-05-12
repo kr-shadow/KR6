@@ -1,5 +1,5 @@
 #+TITLE: 佛說無崖際總持法門經-西秦-聖堅
-#+DATE: 2016-06-11 12:29:06
+#+DATE: 2018-05-12 10:23:55
 #+SOURCE: github.com/kanripo/KR6j0572 master fe108b26                
 
 No. 1342

@@ -1,5 +1,5 @@
 #+TITLE: 二十八藥叉大將名號-唐-不空
-#+DATE: 2016-06-11 12:29:07
+#+DATE: 2018-05-12 10:23:56
 #+SOURCE: github.com/kanripo/KR6j0652 master 6d376902                
 No. 184
 二十八藥叉大將名號

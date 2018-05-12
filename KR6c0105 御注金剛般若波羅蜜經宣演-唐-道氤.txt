@@ -1,5 +1,5 @@
 #+TITLE: 御注金剛般若波羅蜜經宣演-唐-道氤
-#+DATE: 2016-06-11 12:27:51
+#+DATE: 2018-05-12 10:22:41
 #+SOURCE: github.com/kanripo/KR6c0105 master dc04a10c                
 
 

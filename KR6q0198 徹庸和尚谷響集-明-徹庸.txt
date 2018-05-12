@@ -1,5 +1,5 @@
 #+TITLE: 徹庸和尚谷響集-明-徹庸
-#+DATE: 2016-06-11 12:30:12
+#+DATE: 2018-05-12 10:24:59
 #+SOURCE: github.com/kanripo/KR6q0198 master cef115a6                
 
 * 妙峰山開山善知識徹庸禪

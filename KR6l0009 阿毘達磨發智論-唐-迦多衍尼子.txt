@@ -1,5 +1,5 @@
 #+TITLE: 阿毘達磨發智論-唐-迦多衍尼子
-#+DATE: 2016-06-11 12:29:32
+#+DATE: 2018-05-12 10:24:19
 #+SOURCE: github.com/kanripo/KR6l0009 master be298234                
 
 No. 1544 [No. 1543]

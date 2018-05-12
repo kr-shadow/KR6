@@ -1,5 +1,5 @@
 #+TITLE: 提婆菩薩破楞伽經中外道小乘四宗論-後魏-提波菩薩
-#+DATE: 2016-06-11 12:29:50
+#+DATE: 2018-05-12 10:24:37
 #+SOURCE: github.com/kanripo/KR6o0043 master e5ebb023                
 
 

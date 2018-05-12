@@ -1,5 +1,5 @@
 #+TITLE: 續貞元釋教錄-南唐-恒安
-#+DATE: 2016-06-11 12:30:57
+#+DATE: 2018-05-12 10:25:45
 #+SOURCE: github.com/kanripo/KR6s0098 master fa775dab                
 
 

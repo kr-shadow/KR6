@@ -1,5 +1,5 @@
 #+TITLE: 持世陀羅尼經-唐-玄奘
-#+DATE: 2016-06-11 12:29:02
+#+DATE: 2018-05-12 10:23:51
 #+SOURCE: github.com/kanripo/KR6j0384 master 3696f369                
 
 No. 1162 [Nos. 1163-1165]

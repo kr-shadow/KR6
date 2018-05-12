@@ -1,5 +1,5 @@
 #+TITLE: 最上大乘金剛大教寶王經-宋-法天
-#+DATE: 2016-06-11 12:29:01
+#+DATE: 2018-05-12 10:23:51
 #+SOURCE: github.com/kanripo/KR6j0343 master e991e7f9                
 
 No. 1128

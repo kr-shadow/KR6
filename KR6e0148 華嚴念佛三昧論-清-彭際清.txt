@@ -1,5 +1,5 @@
 #+TITLE: 華嚴念佛三昧論-清-彭際清
-#+DATE: 2016-06-11 12:28:23
+#+DATE: 2018-05-12 10:23:14
 #+SOURCE: github.com/kanripo/KR6e0148 master 92600f59                
 
 * No. 1030-A

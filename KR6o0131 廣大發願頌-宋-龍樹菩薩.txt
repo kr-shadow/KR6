@@ -1,5 +1,5 @@
 #+TITLE: 廣大發願頌-宋-龍樹菩薩
-#+DATE: 2016-06-11 12:29:53
+#+DATE: 2018-05-12 10:24:40
 #+SOURCE: github.com/kanripo/KR6o0131 master 5c79d485                
 
 No. 1676

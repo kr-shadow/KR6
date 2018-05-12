@@ -1,5 +1,5 @@
 #+TITLE: 淨土生無生論-明-傳燈
-#+DATE: 2016-06-11 12:29:56
+#+DATE: 2018-05-12 10:24:42
 #+SOURCE: github.com/kanripo/KR6p0056 master a23afd36                
 
 

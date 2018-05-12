@@ -1,5 +1,5 @@
 #+TITLE: 佛說五十頌聖般若波羅蜜經-宋-施護
-#+DATE: 2016-06-11 12:27:54
+#+DATE: 2018-05-12 10:22:44
 #+SOURCE: github.com/kanripo/KR6c0221 master a63f84f2                
 
 

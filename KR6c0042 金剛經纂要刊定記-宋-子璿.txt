@@ -1,5 +1,5 @@
 #+TITLE: 金剛經纂要刊定記-宋-子璿
-#+DATE: 2016-06-11 12:27:48
+#+DATE: 2018-05-12 10:22:38
 #+SOURCE: github.com/kanripo/KR6c0042 master 8bfd348b                
 
 No. 1702 [cf. Nos. 235, 1701]

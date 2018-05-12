@@ -1,5 +1,5 @@
 #+TITLE: 十門辯惑論-唐-復禮
-#+DATE: 2016-06-11 12:30:44
+#+DATE: 2018-05-12 10:25:33
 #+SOURCE: github.com/kanripo/KR6r0144 master 46ad43ec                
 
 No. 2111

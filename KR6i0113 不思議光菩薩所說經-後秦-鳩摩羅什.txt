@@ -1,5 +1,5 @@
 #+TITLE: 不思議光菩薩所說經-後秦-鳩摩羅什
-#+DATE: 2016-06-11 12:28:38
+#+DATE: 2018-05-12 10:23:29
 #+SOURCE: github.com/kanripo/KR6i0113 master d38e03fe                
 
 

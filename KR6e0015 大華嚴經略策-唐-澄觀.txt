@@ -1,5 +1,5 @@
 #+TITLE: 大華嚴經略策-唐-澄觀
-#+DATE: 2016-06-11 12:28:13
+#+DATE: 2018-05-12 10:23:02
 #+SOURCE: github.com/kanripo/KR6e0015 master 09bd5524                
 
 No. 1737 [cf. No. 279]

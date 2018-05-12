@@ -1,5 +1,5 @@
 #+TITLE: 三支比量義鈔-唐-玄奘
-#+DATE: 2016-06-11 12:29:50
+#+DATE: 2018-05-12 10:24:37
 #+SOURCE: github.com/kanripo/KR6o0035 master 7f3f84f3                
 No. 861
 三支比量義鈔

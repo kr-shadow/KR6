@@ -1,5 +1,5 @@
 #+TITLE: 超宗慧方禪師語錄（黃龍四家錄第四）--
-#+DATE: 2016-06-11 12:30:18
+#+DATE: 2018-05-12 10:25:05
 #+SOURCE: github.com/kanripo/KR6q0280 master 6db046b4                
 No. 1345
 禾山超宗方禪師語錄

@@ -1,5 +1,5 @@
 #+TITLE: 金剛經註正訛-清-仲之屏
-#+DATE: 2016-06-11 12:27:50
+#+DATE: 2018-05-12 10:22:40
 #+SOURCE: github.com/kanripo/KR6c0077 master 993dc0e9                
 
 * No. 489-A

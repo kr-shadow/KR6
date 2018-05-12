@@ -1,5 +1,5 @@
 #+TITLE: 無幻禪師語錄-明-性沖
-#+DATE: 2016-06-11 12:30:24
+#+DATE: 2018-05-12 10:25:13
 #+SOURCE: github.com/kanripo/KR6q0395 master 190612d4                
 
 * 無幻禪師語錄序

@@ -1,5 +1,5 @@
 #+TITLE: 淨土必求-清-古崑
-#+DATE: 2016-06-11 12:29:58
+#+DATE: 2018-05-12 10:24:44
 #+SOURCE: github.com/kanripo/KR6p0107 master 8f79629f                
 
 * No. 1188-A

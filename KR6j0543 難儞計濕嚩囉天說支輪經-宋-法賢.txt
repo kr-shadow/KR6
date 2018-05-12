@@ -1,5 +1,5 @@
 #+TITLE: 難儞計濕嚩囉天說支輪經-宋-法賢
-#+DATE: 2016-06-11 12:29:05
+#+DATE: 2018-05-12 10:23:54
 #+SOURCE: github.com/kanripo/KR6j0543 master 52dce0b5                
 
 No. 1312

@@ -1,5 +1,5 @@
 #+TITLE: 大乘起信論內義略探記-新羅-太賢
-#+DATE: 2016-06-11 12:29:52
+#+DATE: 2018-05-12 10:24:39
 #+SOURCE: github.com/kanripo/KR6o0108 master 988ca263                
 
 

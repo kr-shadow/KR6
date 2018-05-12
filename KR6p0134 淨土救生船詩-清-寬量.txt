@@ -1,5 +1,5 @@
 #+TITLE: 淨土救生船詩-清-寬量
-#+DATE: 2016-06-11 12:29:58
+#+DATE: 2018-05-12 10:24:45
 #+SOURCE: github.com/kanripo/KR6p0134 master bbdb144a                
 
 * No. 1216-A

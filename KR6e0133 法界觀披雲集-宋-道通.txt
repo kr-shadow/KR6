@@ -1,5 +1,5 @@
 #+TITLE: 法界觀披雲集-宋-道通
-#+DATE: 2016-06-11 12:28:22
+#+DATE: 2018-05-12 10:23:13
 #+SOURCE: github.com/kanripo/KR6e0133 master a47887e1                
 No. 1014
 法界觀披雲集

@@ -1,5 +1,5 @@
 #+TITLE: 白雲象林本真禪師語錄-清-本真
-#+DATE: 2016-06-11 12:30:34
+#+DATE: 2018-05-12 10:25:23
 #+SOURCE: github.com/kanripo/KR6q0571 master 7a168f3b                
 
 * 序

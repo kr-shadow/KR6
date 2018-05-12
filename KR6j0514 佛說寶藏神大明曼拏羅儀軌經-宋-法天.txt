@@ -1,5 +1,5 @@
 #+TITLE: 佛說寶藏神大明曼拏羅儀軌經-宋-法天
-#+DATE: 2016-06-11 12:29:04
+#+DATE: 2018-05-12 10:23:54
 #+SOURCE: github.com/kanripo/KR6j0514 master b41ba3fc                
 
 

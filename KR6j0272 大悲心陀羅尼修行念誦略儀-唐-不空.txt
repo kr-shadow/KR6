@@ -1,5 +1,5 @@
 #+TITLE: 大悲心陀羅尼修行念誦略儀-唐-不空
-#+DATE: 2016-06-11 12:29:00
+#+DATE: 2018-05-12 10:23:49
 #+SOURCE: github.com/kanripo/KR6j0272 master 99a7d298                
 
 

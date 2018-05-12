@@ -1,5 +1,5 @@
 #+TITLE: 芝巖秀禪師語錄-清-秀
-#+DATE: 2016-06-11 12:30:27
+#+DATE: 2018-05-12 10:25:17
 #+SOURCE: github.com/kanripo/KR6q0431 master 3b66462c                
 
 * 芝巖秀和尚語錄序

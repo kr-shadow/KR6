@@ -1,5 +1,5 @@
 #+TITLE: 阿毘曇心論經-高齊-法勝
-#+DATE: 2016-06-11 12:29:35
+#+DATE: 2018-05-12 10:24:21
 #+SOURCE: github.com/kanripo/KR6l0016 master bf46b2d6                
 
 

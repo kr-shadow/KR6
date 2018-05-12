@@ -1,5 +1,5 @@
 #+TITLE: 阿闍梨大曼荼攞灌頂儀軌--
-#+DATE: 2016-06-11 12:28:54
+#+DATE: 2018-05-12 10:23:44
 #+SOURCE: github.com/kanripo/KR6j0020 master dfb945b4                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 蓮月禪師語錄-清-道正
-#+DATE: 2016-06-11 12:30:28
+#+DATE: 2018-05-12 10:25:18
 #+SOURCE: github.com/kanripo/KR6q0445 master 369c24e1                
 
 * 蓮月禪師語錄序

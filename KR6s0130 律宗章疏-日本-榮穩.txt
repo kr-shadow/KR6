@@ -1,5 +1,5 @@
 #+TITLE: 律宗章疏-日本-榮穩
-#+DATE: 2016-06-11 12:30:58
+#+DATE: 2018-05-12 10:25:46
 #+SOURCE: github.com/kanripo/KR6s0130 master 621fb13a                
 
 

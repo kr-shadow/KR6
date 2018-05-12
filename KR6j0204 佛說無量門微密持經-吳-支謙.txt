@@ -1,5 +1,5 @@
 #+TITLE: 佛說無量門微密持經-吳-支謙
-#+DATE: 2016-06-11 12:28:58
+#+DATE: 2018-05-12 10:23:48
 #+SOURCE: github.com/kanripo/KR6j0204 master b94d5cce                
 
 No. 1011 [Nos. 1009, 1012-1018]

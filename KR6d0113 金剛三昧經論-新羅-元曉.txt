@@ -1,5 +1,5 @@
 #+TITLE: 金剛三昧經論-新羅-元曉
-#+DATE: 2016-06-11 12:28:05
+#+DATE: 2018-05-12 10:22:54
 #+SOURCE: github.com/kanripo/KR6d0113 master a927bc14                
 
 No. 1730 [cf. No. 273]

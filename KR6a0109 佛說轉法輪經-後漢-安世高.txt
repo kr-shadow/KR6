@@ -1,5 +1,5 @@
 #+TITLE: 佛說轉法輪經-後漢-安世高
-#+DATE: 2016-06-11 12:27:36
+#+DATE: 2018-05-12 10:22:26
 #+SOURCE: github.com/kanripo/KR6a0109 master d3e8f020                
 No. 109 [No. 99(379), No. 110]
 《佛說轉法輪經》

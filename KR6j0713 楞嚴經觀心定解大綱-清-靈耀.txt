@@ -1,5 +1,5 @@
 #+TITLE: 楞嚴經觀心定解大綱-清-靈耀
-#+DATE: 2016-06-11 12:29:12
+#+DATE: 2018-05-12 10:24:01
 #+SOURCE: github.com/kanripo/KR6j0713 master 6d2594cb                
 
 * No. 305-A

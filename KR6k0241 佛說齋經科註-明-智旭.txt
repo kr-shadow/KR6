@@ -1,5 +1,5 @@
 #+TITLE: 佛說齋經科註-明-智旭
-#+DATE: 2016-06-11 12:29:31
+#+DATE: 2018-05-12 10:24:18
 #+SOURCE: github.com/kanripo/KR6k0241 master e4739848                
 No. 749
 佛說齋經科註

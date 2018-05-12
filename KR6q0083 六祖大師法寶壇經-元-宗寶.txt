@@ -1,5 +1,5 @@
 #+TITLE: 六祖大師法寶壇經-元-宗寶
-#+DATE: 2016-06-11 12:30:07
+#+DATE: 2018-05-12 10:24:54
 #+SOURCE: github.com/kanripo/KR6q0083 master 2503f903                
 
 

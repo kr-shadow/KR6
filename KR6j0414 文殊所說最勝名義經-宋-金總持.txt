@@ -1,5 +1,5 @@
 #+TITLE: 文殊所說最勝名義經-宋-金總持
-#+DATE: 2016-06-11 12:29:02
+#+DATE: 2018-05-12 10:23:52
 #+SOURCE: github.com/kanripo/KR6j0414 master 3742bc80                
 
 No. 1188 [Nos. 1189, 1190]

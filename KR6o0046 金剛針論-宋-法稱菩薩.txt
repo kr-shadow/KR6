@@ -1,5 +1,5 @@
 #+TITLE: 金剛針論-宋-法稱菩薩
-#+DATE: 2016-06-11 12:29:51
+#+DATE: 2018-05-12 10:24:37
 #+SOURCE: github.com/kanripo/KR6o0046 master 266bb0a8                
 No. 1642
 《金剛針論》

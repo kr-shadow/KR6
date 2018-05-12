@@ -1,5 +1,5 @@
 #+TITLE: 大乘五蘊論-唐-世親菩薩
-#+DATE: 2016-06-11 12:29:48
+#+DATE: 2018-05-12 10:24:34
 #+SOURCE: github.com/kanripo/KR6n0094 master 50f80b74                
 No. 1612 [cf. No. 1613]
 《大乘五蘊論》一卷

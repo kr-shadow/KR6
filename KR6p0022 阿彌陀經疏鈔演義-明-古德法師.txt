@@ -1,5 +1,5 @@
 #+TITLE: 阿彌陀經疏鈔演義-明-古德法師
-#+DATE: 2016-06-11 12:29:55
+#+DATE: 2018-05-12 10:24:41
 #+SOURCE: github.com/kanripo/KR6p0022 master 575f8742                
 No. 427
 彌陀經疏鈔演義定本卷一

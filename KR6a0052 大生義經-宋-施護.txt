@@ -1,5 +1,5 @@
 #+TITLE: 大生義經-宋-施護
-#+DATE: 2016-06-11 12:27:34
+#+DATE: 2018-05-12 10:22:25
 #+SOURCE: github.com/kanripo/KR6a0052 master 574bf322                
 
 No. 52 [No. 26(97), cf. No. 1(13), No. 14]

@@ -1,5 +1,5 @@
 #+TITLE: 郁迦羅越問菩薩行經-西晉-竺法護
-#+DATE: 2016-06-11 12:28:25
+#+DATE: 2018-05-12 10:23:16
 #+SOURCE: github.com/kanripo/KR6f0015 master 151b7b4c                
 
 

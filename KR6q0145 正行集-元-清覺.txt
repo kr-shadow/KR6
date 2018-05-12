@@ -1,5 +1,5 @@
 #+TITLE: 正行集-元-清覺
-#+DATE: 2016-06-11 12:30:10
+#+DATE: 2018-05-12 10:24:56
 #+SOURCE: github.com/kanripo/KR6q0145 master 608c0ff8                
 No. 1254
 正行集

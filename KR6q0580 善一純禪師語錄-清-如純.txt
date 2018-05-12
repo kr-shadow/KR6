@@ -1,5 +1,5 @@
 #+TITLE: 善一純禪師語錄-清-如純
-#+DATE: 2016-06-11 12:30:34
+#+DATE: 2018-05-12 10:25:24
 #+SOURCE: github.com/kanripo/KR6q0580 master 3c9b04fa                
 
 ** 序

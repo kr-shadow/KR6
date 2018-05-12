@@ -1,5 +1,5 @@
 #+TITLE: 佛祖心燈--
-#+DATE: 2016-06-11 12:30:45
+#+DATE: 2018-05-12 10:25:34
 #+SOURCE: github.com/kanripo/KR6r0172 master a5dc1bb8                
 No. 1666
 佛祖心燈

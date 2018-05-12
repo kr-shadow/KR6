@@ -1,5 +1,5 @@
 #+TITLE: 靈樹遠禪師雲嵒集-清-僧遠
-#+DATE: 2016-06-11 12:30:14
+#+DATE: 2018-05-12 10:25:01
 #+SOURCE: github.com/kanripo/KR6q0220 master aa85d6a4                
 
 * 敘

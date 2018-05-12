@@ -1,5 +1,5 @@
 #+TITLE: 大佛頂大陀羅尼--
-#+DATE: 2016-06-11 12:28:57
+#+DATE: 2018-05-12 10:23:46
 #+SOURCE: github.com/kanripo/KR6j0117 master 5e2e2f05                
 
 

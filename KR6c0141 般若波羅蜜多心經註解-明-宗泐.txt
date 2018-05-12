@@ -1,5 +1,5 @@
 #+TITLE: 般若波羅蜜多心經註解-明-宗泐
-#+DATE: 2016-06-11 12:27:51
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0141 master 38dd69e6                
 
 No. 1714 [cf. No. 251]

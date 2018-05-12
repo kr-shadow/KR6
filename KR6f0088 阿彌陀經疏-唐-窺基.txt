@@ -1,5 +1,5 @@
 #+TITLE: 阿彌陀經疏-唐-窺基
-#+DATE: 2016-06-11 12:28:27
+#+DATE: 2018-05-12 10:23:18
 #+SOURCE: github.com/kanripo/KR6f0088 master 4b0568dc                
 
 No. 1757 [cf. No. 366]

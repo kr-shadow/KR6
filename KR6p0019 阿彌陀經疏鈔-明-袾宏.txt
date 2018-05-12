@@ -1,5 +1,5 @@
 #+TITLE: 阿彌陀經疏鈔-明-袾宏
-#+DATE: 2016-06-11 12:29:54
+#+DATE: 2018-05-12 10:24:41
 #+SOURCE: github.com/kanripo/KR6p0019 master 3d911035                
 
 * No. 424-A

@@ -1,5 +1,5 @@
 #+TITLE: 大明太宗文皇帝御製文殊讚-明-太宗
-#+DATE: 2016-06-11 12:30:55
+#+DATE: 2018-05-12 10:25:43
 #+SOURCE: github.com/kanripo/KR6s0066 master 720d134c                
 大明太宗文皇帝御製文殊讚
 

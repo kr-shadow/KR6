@@ -1,5 +1,5 @@
 #+TITLE: 般若心經如是經義-清-行敏
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:43
 #+SOURCE: github.com/kanripo/KR6c0186 master a530a060                
 No. 567
 摩訶般若波羅蜜多心經

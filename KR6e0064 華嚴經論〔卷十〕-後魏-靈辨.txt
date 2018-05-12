@@ -1,5 +1,5 @@
 #+TITLE: 華嚴經論〔卷十〕-後魏-靈辨
-#+DATE: 2016-06-11 12:28:18
+#+DATE: 2018-05-12 10:23:09
 #+SOURCE: github.com/kanripo/KR6e0064 master 43694932                
 No. 208
 華嚴經論(卷第十)

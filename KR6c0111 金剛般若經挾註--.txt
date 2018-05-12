@@ -1,5 +1,5 @@
 #+TITLE: 金剛般若經挾註--
-#+DATE: 2016-06-11 12:27:51
+#+DATE: 2018-05-12 10:22:41
 #+SOURCE: github.com/kanripo/KR6c0111 master 9af8137d                
 
 No. 2739 [cf. No. 235]

@@ -1,5 +1,5 @@
 #+TITLE: 虛空藏菩薩能滿諸願最勝心陀羅尼求聞持法-唐-善無畏
-#+DATE: 2016-06-11 12:29:01
+#+DATE: 2018-05-12 10:23:51
 #+SOURCE: github.com/kanripo/KR6j0362 master 5c4ec742                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 法華經擊節-明-德清
-#+DATE: 2016-06-11 12:28:02
+#+DATE: 2018-05-12 10:22:52
 #+SOURCE: github.com/kanripo/KR6d0076 master 68d676d1                
 No. 610
 妙法蓮華經擊節

@@ -1,5 +1,5 @@
 #+TITLE: 虛舟禪師註八識規矩頌-清-行省
-#+DATE: 2016-06-11 12:30:14
+#+DATE: 2018-05-12 10:25:01
 #+SOURCE: github.com/kanripo/KR6q0215 master 162d845f                
 虛舟禪師註八識規矩頌
 ** 小序

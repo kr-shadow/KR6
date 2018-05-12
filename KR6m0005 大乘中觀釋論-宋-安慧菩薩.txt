@@ -1,5 +1,5 @@
 #+TITLE: 大乘中觀釋論-宋-安慧菩薩
-#+DATE: 2016-06-11 12:29:38
+#+DATE: 2018-05-12 10:24:24
 #+SOURCE: github.com/kanripo/KR6m0005 master 6d4f3906                
 
 

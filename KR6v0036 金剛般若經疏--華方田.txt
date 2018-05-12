@@ -1,5 +1,5 @@
 #+TITLE: 金剛般若經疏--華方田
-#+DATE: 2016-06-11 12:31:00
+#+DATE: 2018-05-12 10:25:48
 #+SOURCE: github.com/kanripo/KR6v0036 master bc6bbcb4                
 
 

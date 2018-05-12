@@ -1,5 +1,5 @@
 #+TITLE: 寧夏西夏方塔出土漢文佛典敘錄--方廣錩
-#+DATE: 2016-06-11 12:31:01
+#+DATE: 2018-05-12 10:25:50
 #+SOURCE: github.com/kanripo/KR6v0085 master 4e064bef                
 
 寧夏西夏方塔出土漢文佛典敘錄

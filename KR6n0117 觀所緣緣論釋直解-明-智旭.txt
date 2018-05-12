@@ -1,5 +1,5 @@
 #+TITLE: 觀所緣緣論釋直解-明-智旭
-#+DATE: 2016-06-11 12:29:48
+#+DATE: 2018-05-12 10:24:35
 #+SOURCE: github.com/kanripo/KR6n0117 master c7d5e051                
 No. 833
 觀所緣緣論釋直解

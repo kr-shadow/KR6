@@ -1,5 +1,5 @@
 #+TITLE: 入法界體性經-隋-闍那崛多
-#+DATE: 2016-06-11 12:28:26
+#+DATE: 2018-05-12 10:23:17
 #+SOURCE: github.com/kanripo/KR6f0047 master a8a10ebd                
 
 

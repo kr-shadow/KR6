@@ -1,5 +1,5 @@
 #+TITLE: 西藏剌麻溯源-清-守一
-#+DATE: 2016-06-11 12:30:38
+#+DATE: 2018-05-12 10:25:27
 #+SOURCE: github.com/kanripo/KR6r0023 master 415697b2                
 No. 1668
 摘錄聖武記之卷五溯查西藏剌麻

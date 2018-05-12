@@ -1,5 +1,5 @@
 #+TITLE: 大唐青龍寺三朝供奉大德行狀--
-#+DATE: 2016-06-11 12:30:39
+#+DATE: 2018-05-12 10:25:28
 #+SOURCE: github.com/kanripo/KR6r0047 master 78c9799c                
 
 

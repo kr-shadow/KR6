@@ -1,5 +1,5 @@
 #+TITLE: 觀自在如意輪菩薩瑜伽法要-唐-金剛智
-#+DATE: 2016-06-11 12:29:00
+#+DATE: 2018-05-12 10:23:50
 #+SOURCE: github.com/kanripo/KR6j0294 master 4c68089a                
 
 

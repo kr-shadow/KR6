@@ -1,5 +1,5 @@
 #+TITLE: 香王菩薩陀羅尼呪經-唐-義淨
-#+DATE: 2016-06-11 12:29:02
+#+DATE: 2018-05-12 10:23:51
 #+SOURCE: github.com/kanripo/KR6j0378 master d25494d2                
 
 

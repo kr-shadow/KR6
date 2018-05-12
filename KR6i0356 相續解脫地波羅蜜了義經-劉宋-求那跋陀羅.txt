@@ -1,5 +1,5 @@
 #+TITLE: 相續解脫地波羅蜜了義經-劉宋-求那跋陀羅
-#+DATE: 2016-06-11 12:28:47
+#+DATE: 2018-05-12 10:23:37
 #+SOURCE: github.com/kanripo/KR6i0356 master 2ea1c9f3                
 
 

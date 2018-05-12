@@ -1,5 +1,5 @@
 #+TITLE: 拔陂菩薩經--失譯
-#+DATE: 2016-06-11 12:28:33
+#+DATE: 2018-05-12 10:23:24
 #+SOURCE: github.com/kanripo/KR6h0028 master f167c8ff                
 
 No. 419 [Nos. 416-418]

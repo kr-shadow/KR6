@@ -1,5 +1,5 @@
 #+TITLE: 不可剎那無此君-宋-義銛
-#+DATE: 2016-06-11 12:28:10
+#+DATE: 2018-05-12 10:22:59
 #+SOURCE: github.com/kanripo/KR6d0238 master 74da7bff                
 No. 962
 不可剎那無此君

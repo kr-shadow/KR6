@@ -1,5 +1,5 @@
 #+TITLE: 蓮華部心念誦儀軌--失譯
-#+DATE: 2016-06-11 12:28:55
+#+DATE: 2018-05-12 10:23:44
 #+SOURCE: github.com/kanripo/KR6j0042 master 48a2551d                
 
 

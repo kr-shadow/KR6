@@ -1,5 +1,5 @@
 #+TITLE: 木人剩稿-清-弘贊
-#+DATE: 2016-06-11 12:30:14
+#+DATE: 2018-05-12 10:25:01
 #+SOURCE: github.com/kanripo/KR6q0223 master 4bec2a38                
 
 * 本人剩稿序

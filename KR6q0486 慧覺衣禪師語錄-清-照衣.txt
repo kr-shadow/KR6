@@ -1,5 +1,5 @@
 #+TITLE: 慧覺衣禪師語錄-清-照衣
-#+DATE: 2016-06-11 12:30:30
+#+DATE: 2018-05-12 10:25:20
 #+SOURCE: github.com/kanripo/KR6q0486 master 950e8829                
 
 * 慧覺衣禪師語錄目次

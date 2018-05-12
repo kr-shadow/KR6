@@ -1,5 +1,5 @@
 #+TITLE: 佛說甘露經陀羅尼呪--
-#+DATE: 2016-06-11 12:29:05
+#+DATE: 2018-05-12 10:23:54
 #+SOURCE: github.com/kanripo/KR6j0547 master d739cbaf                
 
 

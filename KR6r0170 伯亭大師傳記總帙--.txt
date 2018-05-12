@@ -1,5 +1,5 @@
 #+TITLE: 伯亭大師傳記總帙--
-#+DATE: 2016-06-11 12:30:45
+#+DATE: 2018-05-12 10:25:34
 #+SOURCE: github.com/kanripo/KR6r0170 master 0db3f9bd                
 No. 1656
 伯亭大師傳記總帙

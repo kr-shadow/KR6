@@ -1,5 +1,5 @@
 #+TITLE: 寶髻大王菩薩本緣--任遠
-#+DATE: 2016-06-11 12:31:02
+#+DATE: 2018-05-12 10:25:50
 #+SOURCE: github.com/kanripo/KR6v0101 master 3e430614                
 
 

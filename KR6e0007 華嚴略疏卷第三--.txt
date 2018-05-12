@@ -1,5 +1,5 @@
 #+TITLE: 華嚴略疏卷第三--
-#+DATE: 2016-06-11 12:28:11
+#+DATE: 2018-05-12 10:23:00
 #+SOURCE: github.com/kanripo/KR6e0007 master d93c2c12                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 佛說不自守意經-吳-支謙
-#+DATE: 2016-06-11 12:27:36
+#+DATE: 2018-05-12 10:22:26
 #+SOURCE: github.com/kanripo/KR6a0107 master 5df572be                
 
 

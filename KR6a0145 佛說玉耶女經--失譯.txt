@@ -1,5 +1,5 @@
 #+TITLE: 佛說玉耶女經--失譯
-#+DATE: 2016-06-11 12:27:37
+#+DATE: 2018-05-12 10:22:28
 #+SOURCE: github.com/kanripo/KR6a0145 master 424b284e                
 
 

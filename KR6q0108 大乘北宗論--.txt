@@ -1,5 +1,5 @@
 #+TITLE: 大乘北宗論--
-#+DATE: 2016-06-11 12:30:09
+#+DATE: 2018-05-12 10:24:55
 #+SOURCE: github.com/kanripo/KR6q0108 master b4523f7a                
 
 No. 2836

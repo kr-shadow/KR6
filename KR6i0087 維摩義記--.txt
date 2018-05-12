@@ -1,5 +1,5 @@
 #+TITLE: 維摩義記--
-#+DATE: 2016-06-11 12:28:37
+#+DATE: 2018-05-12 10:23:27
 #+SOURCE: github.com/kanripo/KR6i0087 master e2a27c13                
 
 No. 2768 [cf. No. 475]

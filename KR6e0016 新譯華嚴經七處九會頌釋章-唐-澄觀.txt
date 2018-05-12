@@ -1,5 +1,5 @@
 #+TITLE: 新譯華嚴經七處九會頌釋章-唐-澄觀
-#+DATE: 2016-06-11 12:28:13
+#+DATE: 2018-05-12 10:23:02
 #+SOURCE: github.com/kanripo/KR6e0016 master 0a70597c                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 虛空孕菩薩經-隋-闍那崛多
-#+DATE: 2016-06-11 12:28:32
+#+DATE: 2018-05-12 10:23:23
 #+SOURCE: github.com/kanripo/KR6h0012 master 2bd37000                
 
 No. 408 [Nos. 405-407]

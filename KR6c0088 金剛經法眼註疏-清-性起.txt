@@ -1,5 +1,5 @@
 #+TITLE: 金剛經法眼註疏-清-性起
-#+DATE: 2016-06-11 12:27:50
+#+DATE: 2018-05-12 10:22:40
 #+SOURCE: github.com/kanripo/KR6c0088 master 1457576d                
 
 * No. 500-A

@@ -1,5 +1,5 @@
 #+TITLE: 成唯識論-唐-護法菩薩
-#+DATE: 2016-06-11 12:29:42
+#+DATE: 2018-05-12 10:24:29
 #+SOURCE: github.com/kanripo/KR6n0016 master 859f884b                
 
 No. 1585 [cf. Nos. 1586, 1587]

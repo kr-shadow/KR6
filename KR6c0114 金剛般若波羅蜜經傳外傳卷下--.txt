@@ -1,5 +1,5 @@
 #+TITLE: 金剛般若波羅蜜經傳外傳卷下--
-#+DATE: 2016-06-11 12:27:51
+#+DATE: 2018-05-12 10:22:41
 #+SOURCE: github.com/kanripo/KR6c0114 master 3d1e5bfc                
 
 

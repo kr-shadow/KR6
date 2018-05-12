@@ -1,5 +1,5 @@
 #+TITLE: 大樂金剛薩埵修行成就儀軌-唐-不空
-#+DATE: 2016-06-11 12:29:01
+#+DATE: 2018-05-12 10:23:50
 #+SOURCE: github.com/kanripo/KR6j0333 master 66088c54                
 
 No. 1119

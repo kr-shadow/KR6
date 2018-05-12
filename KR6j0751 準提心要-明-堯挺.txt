@@ -1,5 +1,5 @@
 #+TITLE: 準提心要-明-堯挺
-#+DATE: 2016-06-11 12:29:15
+#+DATE: 2018-05-12 10:24:03
 #+SOURCE: github.com/kanripo/KR6j0751 master 78df87bf                
 
 * No. 1078-A

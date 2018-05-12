@@ -1,5 +1,5 @@
 #+TITLE: 皇明名僧輯略-明-袾宏
-#+DATE: 2016-06-11 12:30:05
+#+DATE: 2018-05-12 10:24:52
 #+SOURCE: github.com/kanripo/KR6q0043 master ab32e59c                
 
 

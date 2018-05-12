@@ -1,5 +1,5 @@
 #+TITLE: 虛空藏菩薩經-姚秦-佛陀耶舍
-#+DATE: 2016-06-11 12:28:32
+#+DATE: 2018-05-12 10:23:23
 #+SOURCE: github.com/kanripo/KR6h0009 master 0effc4d6                
 
 

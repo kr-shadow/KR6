@@ -1,5 +1,5 @@
 #+TITLE: 奇然智禪師語錄-清-超智
-#+DATE: 2016-06-11 12:30:30
+#+DATE: 2018-05-12 10:25:20
 #+SOURCE: github.com/kanripo/KR6q0495 master 017df572                
 
 ** 奇然智和尚語錄序

@@ -1,5 +1,5 @@
 #+TITLE: 受持七佛名號所生功德經-唐-玄奘
-#+DATE: 2016-06-11 12:28:34
+#+DATE: 2018-05-12 10:23:24
 #+SOURCE: github.com/kanripo/KR6i0012 master add47188                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 般若心經彙纂-清-孫念劬
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:43
 #+SOURCE: github.com/kanripo/KR6c0185 master 2b33e18c                
 No. 566
 般若心經彙纂

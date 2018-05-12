@@ -1,5 +1,5 @@
 #+TITLE: 諸佛境界攝真實經-唐-般若
-#+DATE: 2016-06-11 12:28:55
+#+DATE: 2018-05-12 10:23:44
 #+SOURCE: github.com/kanripo/KR6j0034 master 3ccea6b2                
 
 No. 868

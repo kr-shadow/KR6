@@ -1,5 +1,5 @@
 #+TITLE: 金剛經采微科-宋-曇應
-#+DATE: 2016-06-11 12:27:49
+#+DATE: 2018-05-12 10:22:39
 #+SOURCE: github.com/kanripo/KR6c0051 master 9f0414f6                
 No. 463
 金剛般若經釆微科

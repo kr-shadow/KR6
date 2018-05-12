@@ -1,5 +1,5 @@
 #+TITLE: 伽耶山頂經-元魏-菩提流支
-#+DATE: 2016-06-11 12:28:36
+#+DATE: 2018-05-12 10:23:26
 #+SOURCE: github.com/kanripo/KR6i0066 master 80f8bc4c                
 
 No. 465 [Nos. 464, 466, 467]

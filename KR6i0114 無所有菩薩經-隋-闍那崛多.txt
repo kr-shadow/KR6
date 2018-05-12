@@ -1,5 +1,5 @@
 #+TITLE: 無所有菩薩經-隋-闍那崛多
-#+DATE: 2016-06-11 12:28:38
+#+DATE: 2018-05-12 10:23:29
 #+SOURCE: github.com/kanripo/KR6i0114 master 67a9d6e8                
 
 

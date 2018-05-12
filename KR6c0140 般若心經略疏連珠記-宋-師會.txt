@@ -1,5 +1,5 @@
 #+TITLE: 般若心經略疏連珠記-宋-師會
-#+DATE: 2016-06-11 12:27:51
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0140 master 3646c1e0                
 
 

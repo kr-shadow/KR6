@@ -1,5 +1,5 @@
 #+TITLE: 三根坐禪說-日本-瑩山
-#+DATE: 2016-06-11 12:30:15
+#+DATE: 2018-05-12 10:25:02
 #+SOURCE: github.com/kanripo/KR6q0242 master 6619ce49                
 三根坐禪說
 總持圓明國師瑩山撰

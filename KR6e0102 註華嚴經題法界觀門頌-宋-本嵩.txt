@@ -1,5 +1,5 @@
 #+TITLE: 註華嚴經題法界觀門頌-宋-本嵩
-#+DATE: 2016-06-11 12:28:20
+#+DATE: 2018-05-12 10:23:11
 #+SOURCE: github.com/kanripo/KR6e0102 master 89c852a3                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 眾事分阿毘曇論-劉宋-尊者世友
-#+DATE: 2016-06-11 12:29:32
+#+DATE: 2018-05-12 10:24:19
 #+SOURCE: github.com/kanripo/KR6l0006 master fe9cee27                
 
 No. 1541 [No. 1542]

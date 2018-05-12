@@ -1,5 +1,5 @@
 #+TITLE: 橫川行珙禪師語錄--(門人)本光
-#+DATE: 2016-06-11 12:30:21
+#+DATE: 2018-05-12 10:25:08
 #+SOURCE: github.com/kanripo/KR6q0344 master 97c4f2f4                
 
 

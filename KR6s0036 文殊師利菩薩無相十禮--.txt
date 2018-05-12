@@ -1,5 +1,5 @@
 #+TITLE: 文殊師利菩薩無相十禮--
-#+DATE: 2016-06-11 12:30:53
+#+DATE: 2018-05-12 10:25:42
 #+SOURCE: github.com/kanripo/KR6s0036 master 4c9f9ffd                
 
 

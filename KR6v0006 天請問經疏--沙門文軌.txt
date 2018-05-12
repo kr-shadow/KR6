@@ -1,5 +1,5 @@
 #+TITLE: 天請問經疏--沙門文軌
-#+DATE: 2016-06-11 12:30:59
+#+DATE: 2018-05-12 10:25:48
 #+SOURCE: github.com/kanripo/KR6v0006 master 0c9298a4                
 
 

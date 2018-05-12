@@ -1,5 +1,5 @@
 #+TITLE: 鶴林天樹植禪師語錄-清-行植
-#+DATE: 2016-06-11 12:30:32
+#+DATE: 2018-05-12 10:25:22
 #+SOURCE: github.com/kanripo/KR6q0522 master 6ec5ec78                
 
 ** 鶴林天樹植和尚語錄序

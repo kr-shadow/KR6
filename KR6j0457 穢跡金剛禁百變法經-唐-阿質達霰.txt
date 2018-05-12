@@ -1,5 +1,5 @@
 #+TITLE: 穢跡金剛禁百變法經-唐-阿質達霰
-#+DATE: 2016-06-11 12:29:03
+#+DATE: 2018-05-12 10:23:53
 #+SOURCE: github.com/kanripo/KR6j0457 master ce28810d                
 
 

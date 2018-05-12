@@ -1,5 +1,5 @@
 #+TITLE: 續大唐內典錄-唐-道宣
-#+DATE: 2016-06-11 12:30:56
+#+DATE: 2018-05-12 10:25:45
 #+SOURCE: github.com/kanripo/KR6s0089 master 62a27e47                
 
 

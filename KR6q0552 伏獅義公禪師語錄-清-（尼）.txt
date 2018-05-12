@@ -1,5 +1,5 @@
 #+TITLE: 伏獅義公禪師語錄-清-（尼）
-#+DATE: 2016-06-11 12:30:33
+#+DATE: 2018-05-12 10:25:23
 #+SOURCE: github.com/kanripo/KR6q0552 master 1a066ed9                
 
 * 伏獅義公禪師語錄序

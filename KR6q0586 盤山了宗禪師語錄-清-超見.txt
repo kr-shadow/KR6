@@ -1,5 +1,5 @@
 #+TITLE: 盤山了宗禪師語錄-清-超見
-#+DATE: 2016-06-11 12:30:34
+#+DATE: 2018-05-12 10:25:24
 #+SOURCE: github.com/kanripo/KR6q0586 master ac32419c                
 
 ** 敘

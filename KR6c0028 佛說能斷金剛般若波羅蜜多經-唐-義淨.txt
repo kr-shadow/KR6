@@ -1,5 +1,5 @@
 #+TITLE: 佛說能斷金剛般若波羅蜜多經-唐-義淨
-#+DATE: 2016-06-11 12:27:48
+#+DATE: 2018-05-12 10:22:38
 #+SOURCE: github.com/kanripo/KR6c0028 master 0c8b582b                
 
 No. 239 [Nos. 220(9), 235-238]

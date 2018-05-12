@@ -1,5 +1,5 @@
 #+TITLE: 犍稚梵讚-宋-法賢
-#+DATE: 2016-06-11 12:29:54
+#+DATE: 2018-05-12 10:24:40
 #+SOURCE: github.com/kanripo/KR6o0138 master 8e9b368b                
 
 No. 1683

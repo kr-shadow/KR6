@@ -1,5 +1,5 @@
 #+TITLE: 勸發菩提心文-唐-裴休
-#+DATE: 2016-06-11 12:28:22
+#+DATE: 2018-05-12 10:23:13
 #+SOURCE: github.com/kanripo/KR6e0131 master f347e2de                
 
 * No. 1010-A

@@ -1,5 +1,5 @@
 #+TITLE: 提婆菩薩傳-姚秦-鳩摩羅什
-#+DATE: 2016-06-11 12:30:38
+#+DATE: 2018-05-12 10:25:28
 #+SOURCE: github.com/kanripo/KR6r0038 master 36257ed6                
 
 

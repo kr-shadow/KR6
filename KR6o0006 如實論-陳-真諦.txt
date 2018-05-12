@@ -1,5 +1,5 @@
 #+TITLE: 如實論-陳-真諦
-#+DATE: 2016-06-11 12:29:50
+#+DATE: 2018-05-12 10:24:36
 #+SOURCE: github.com/kanripo/KR6o0006 master 0a5b72c2                
 
 

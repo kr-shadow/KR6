@@ -1,5 +1,5 @@
 #+TITLE: 測海集節鈔-清-彭紹升
-#+DATE: 2016-06-11 12:29:58
+#+DATE: 2018-05-12 10:24:45
 #+SOURCE: github.com/kanripo/KR6p0130 master cb568a22                
 No. 1212
 測海集節鈔

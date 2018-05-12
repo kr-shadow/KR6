@@ -1,5 +1,5 @@
 #+TITLE: 初學記-元-清覺
-#+DATE: 2016-06-11 12:30:10
+#+DATE: 2018-05-12 10:24:56
 #+SOURCE: github.com/kanripo/KR6q0144 master 95874724                
 
 * No. 1253-A

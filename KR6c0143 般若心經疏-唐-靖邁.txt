@@ -1,5 +1,5 @@
 #+TITLE: 般若心經疏-唐-靖邁
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0143 master dcfeb1ba                
 No. 522
 般若波羅蜜多心經疏

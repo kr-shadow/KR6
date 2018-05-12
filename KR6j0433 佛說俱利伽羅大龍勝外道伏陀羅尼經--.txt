@@ -1,5 +1,5 @@
 #+TITLE: 佛說俱利伽羅大龍勝外道伏陀羅尼經--
-#+DATE: 2016-06-11 12:29:03
+#+DATE: 2018-05-12 10:23:52
 #+SOURCE: github.com/kanripo/KR6j0433 master 0dec5cf5                
 
 No. 1206

@@ -1,5 +1,5 @@
 #+TITLE: 十六大羅漢因果識見頌-唐-闍那多迦
-#+DATE: 2016-06-11 12:30:36
+#+DATE: 2018-05-12 10:25:26
 #+SOURCE: github.com/kanripo/KR6r0006 master f789b3cd                
 
 * No. 207-A

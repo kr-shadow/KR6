@@ -1,5 +1,5 @@
 #+TITLE: 調實居士證源錄-清-陸瑛
-#+DATE: 2016-06-11 12:30:15
+#+DATE: 2018-05-12 10:25:01
 #+SOURCE: github.com/kanripo/KR6q0230 master 78bb1735                
 
 ** 證源錄序

@@ -1,5 +1,5 @@
 #+TITLE: 佛滅度後棺斂葬送經--失譯
-#+DATE: 2016-06-11 12:28:31
+#+DATE: 2018-05-12 10:23:22
 #+SOURCE: github.com/kanripo/KR6g0037 master 8626f964                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 大乘唯識論-陳-天親菩薩
-#+DATE: 2016-06-11 12:29:46
+#+DATE: 2018-05-12 10:24:32
 #+SOURCE: github.com/kanripo/KR6n0054 master 47af1601                
 
 

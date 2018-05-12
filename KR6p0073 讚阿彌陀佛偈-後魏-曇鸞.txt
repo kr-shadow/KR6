@@ -1,5 +1,5 @@
 #+TITLE: 讚阿彌陀佛偈-後魏-曇鸞
-#+DATE: 2016-06-11 12:29:56
+#+DATE: 2018-05-12 10:24:43
 #+SOURCE: github.com/kanripo/KR6p0073 master 157613e6                
 
 No. 1978

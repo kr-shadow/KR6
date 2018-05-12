@@ -1,5 +1,5 @@
 #+TITLE: 慶忠鐵壁機禪師語錄-明-慧機
-#+DATE: 2016-06-11 12:30:28
+#+DATE: 2018-05-12 10:25:18
 #+SOURCE: github.com/kanripo/KR6q0450 master 535db19e                
 
 ** 序

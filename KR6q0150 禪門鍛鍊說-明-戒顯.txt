@@ -1,5 +1,5 @@
 #+TITLE: 禪門鍛鍊說-明-戒顯
-#+DATE: 2016-06-11 12:30:10
+#+DATE: 2018-05-12 10:24:57
 #+SOURCE: github.com/kanripo/KR6q0150 master 2c37921c                
 
 * No. 1259-A

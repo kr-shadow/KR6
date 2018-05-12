@@ -1,5 +1,5 @@
 #+TITLE: 淨土十疑論-隋-智顗
-#+DATE: 2016-06-11 12:29:55
+#+DATE: 2018-05-12 10:24:41
 #+SOURCE: github.com/kanripo/KR6p0040 master ce467bb8                
 
 No. 1961

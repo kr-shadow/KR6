@@ -1,5 +1,5 @@
 #+TITLE: 釋摩訶般若波羅蜜經覺意三昧-隋-智顗
-#+DATE: 2016-06-11 12:28:07
+#+DATE: 2018-05-12 10:22:56
 #+SOURCE: github.com/kanripo/KR6d0150 master 51b136e8                
 
 No. 1922

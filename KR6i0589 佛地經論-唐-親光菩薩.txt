@@ -1,5 +1,5 @@
 #+TITLE: 佛地經論-唐-親光菩薩
-#+DATE: 2016-06-11 12:28:54
+#+DATE: 2018-05-12 10:23:43
 #+SOURCE: github.com/kanripo/KR6i0589 master 1142cd70                
 
 No. 1530

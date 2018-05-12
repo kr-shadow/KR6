@@ -1,5 +1,5 @@
 #+TITLE: 大乘百法明門論開宗義記序釋--
-#+DATE: 2016-06-11 12:29:48
+#+DATE: 2018-05-12 10:24:34
 #+SOURCE: github.com/kanripo/KR6n0108 master 9d27e914                
 
 

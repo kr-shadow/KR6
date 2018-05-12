@@ -1,5 +1,5 @@
 #+TITLE: 大部妙玄格言-宋-善月
-#+DATE: 2016-06-11 12:28:00
+#+DATE: 2018-05-12 10:22:50
 #+SOURCE: github.com/kanripo/KR6d0064 master e3b0b14b                
 No. 587
 大部妙玄格言卷上

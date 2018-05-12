@@ -1,5 +1,5 @@
 #+TITLE: 手杖論-唐-釋迦稱
-#+DATE: 2016-06-11 12:29:51
+#+DATE: 2018-05-12 10:24:38
 #+SOURCE: github.com/kanripo/KR6o0062 master 5980c00c                
 
 

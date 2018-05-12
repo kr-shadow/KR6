@@ -1,5 +1,5 @@
 #+TITLE: 阿毘曇心論-晉-尊者法勝
-#+DATE: 2016-06-11 12:29:35
+#+DATE: 2018-05-12 10:24:21
 #+SOURCE: github.com/kanripo/KR6l0015 master 48c65efc                
 
 No. 1550 [cf. Nos. 1551, 1552]

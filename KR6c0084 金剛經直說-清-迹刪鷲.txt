@@ -1,5 +1,5 @@
 #+TITLE: 金剛經直說-清-迹刪鷲
-#+DATE: 2016-06-11 12:27:50
+#+DATE: 2018-05-12 10:22:40
 #+SOURCE: github.com/kanripo/KR6c0084 master 9bcdc7b5                
 
 * No. 496-A

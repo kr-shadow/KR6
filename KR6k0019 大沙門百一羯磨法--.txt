@@ -1,5 +1,5 @@
 #+TITLE: 大沙門百一羯磨法--
-#+DATE: 2016-06-11 12:29:17
+#+DATE: 2018-05-12 10:24:06
 #+SOURCE: github.com/kanripo/KR6k0019 master 5bcbe764                
 
 No. 1438

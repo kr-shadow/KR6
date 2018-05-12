@@ -1,5 +1,5 @@
 #+TITLE: 佛說五蘊皆空經-唐-義淨
-#+DATE: 2016-06-11 12:27:36
+#+DATE: 2018-05-12 10:22:26
 #+SOURCE: github.com/kanripo/KR6a0102 master 44c980f7                
 
 

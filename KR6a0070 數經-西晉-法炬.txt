@@ -1,5 +1,5 @@
 #+TITLE: 數經-西晉-法炬
-#+DATE: 2016-06-11 12:27:34
+#+DATE: 2018-05-12 10:22:25
 #+SOURCE: github.com/kanripo/KR6a0070 master a59b1fcb                
 
 No. 70 [No. 26(144)]

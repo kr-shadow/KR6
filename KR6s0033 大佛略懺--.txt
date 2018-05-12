@@ -1,5 +1,5 @@
 #+TITLE: 大佛略懺--
-#+DATE: 2016-06-11 12:30:53
+#+DATE: 2018-05-12 10:25:42
 #+SOURCE: github.com/kanripo/KR6s0033 master 0a7000b2                
 
 No. 2841

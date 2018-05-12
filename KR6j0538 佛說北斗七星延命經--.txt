@@ -1,5 +1,5 @@
 #+TITLE: 佛說北斗七星延命經--
-#+DATE: 2016-06-11 12:29:05
+#+DATE: 2018-05-12 10:23:54
 #+SOURCE: github.com/kanripo/KR6j0538 master dd076e1a                
 
 No. 1307

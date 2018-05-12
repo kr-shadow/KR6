@@ -1,5 +1,5 @@
 #+TITLE: 般若心經添足-明-弘贊
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0172 master 93d6f65d                
 
 * No. 553-A

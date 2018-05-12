@@ -1,5 +1,5 @@
 #+TITLE: 大溈五峰學禪師語錄-明-如學
-#+DATE: 2016-06-11 12:30:24
+#+DATE: 2018-05-12 10:25:13
 #+SOURCE: github.com/kanripo/KR6q0400 master 81200364                
 
 * 五峰禪師語錄敘

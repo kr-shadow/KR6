@@ -1,5 +1,5 @@
 #+TITLE: 宗門寶積錄（序．凡例．目錄）-清-本晳
-#+DATE: 2016-06-11 12:30:24
+#+DATE: 2018-05-12 10:25:12
 #+SOURCE: github.com/kanripo/KR6q0388 master 92556b88                
 
 * No. 1458-A

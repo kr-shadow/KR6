@@ -1,5 +1,5 @@
 #+TITLE: 起信論義疏-隋-曇延
-#+DATE: 2016-06-11 12:29:53
+#+DATE: 2018-05-12 10:24:39
 #+SOURCE: github.com/kanripo/KR6o0111 master f8786595                
 No. 755
 大乘起信論義疏卷上

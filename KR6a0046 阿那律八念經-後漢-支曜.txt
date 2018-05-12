@@ -1,5 +1,5 @@
 #+TITLE: 阿那律八念經-後漢-支曜
-#+DATE: 2016-06-11 12:27:34
+#+DATE: 2018-05-12 10:22:24
 #+SOURCE: github.com/kanripo/KR6a0046 master 63a7ea74                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 圓頓宗眼-宋-法登
-#+DATE: 2016-06-11 12:28:10
+#+DATE: 2018-05-12 10:22:59
 #+SOURCE: github.com/kanripo/KR6d0234 master f8f0ca4a                
 
 * No. 958-A

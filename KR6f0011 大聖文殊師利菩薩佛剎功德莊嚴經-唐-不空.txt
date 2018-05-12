@@ -1,5 +1,5 @@
 #+TITLE: 大聖文殊師利菩薩佛剎功德莊嚴經-唐-不空
-#+DATE: 2016-06-11 12:28:25
+#+DATE: 2018-05-12 10:23:16
 #+SOURCE: github.com/kanripo/KR6f0011 master 7c718fc5                
 
 No. 319 [Nos. 310(15), 318]

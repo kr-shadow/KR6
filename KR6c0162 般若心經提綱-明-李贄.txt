@@ -1,5 +1,5 @@
 #+TITLE: 般若心經提綱-明-李贄
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0162 master faff2b6c                
 No. 543
 心經提綱

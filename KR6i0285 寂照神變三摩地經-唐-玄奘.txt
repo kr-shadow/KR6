@@ -1,5 +1,5 @@
 #+TITLE: 寂照神變三摩地經-唐-玄奘
-#+DATE: 2016-06-11 12:28:42
+#+DATE: 2018-05-12 10:23:32
 #+SOURCE: github.com/kanripo/KR6i0285 master 80725b36                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 佛說玄師颰陀所說神呪經-東晉-曇無蘭
-#+DATE: 2016-06-11 12:29:06
+#+DATE: 2018-05-12 10:23:56
 #+SOURCE: github.com/kanripo/KR6j0609 master 00325f57                
 
 No. 1378

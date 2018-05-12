@@ -1,5 +1,5 @@
 #+TITLE: 楞嚴經正脉疏科-明-真鑑
-#+DATE: 2016-06-11 12:29:09
+#+DATE: 2018-05-12 10:23:58
 #+SOURCE: github.com/kanripo/KR6j0681 master eb956777                
 No. 273
 大佛頂首楞嚴正脉科

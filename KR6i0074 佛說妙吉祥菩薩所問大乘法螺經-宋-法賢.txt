@@ -1,5 +1,5 @@
 #+TITLE: 佛說妙吉祥菩薩所問大乘法螺經-宋-法賢
-#+DATE: 2016-06-11 12:28:36
+#+DATE: 2018-05-12 10:23:26
 #+SOURCE: github.com/kanripo/KR6i0074 master 8b1590ad                
 
 

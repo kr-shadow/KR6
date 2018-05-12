@@ -1,5 +1,5 @@
 #+TITLE: 佛三身讚-宋-西土賢聖
-#+DATE: 2016-06-11 12:29:54
+#+DATE: 2018-05-12 10:24:40
 #+SOURCE: github.com/kanripo/KR6o0133 master 6c45402f                
 
 No. 1678

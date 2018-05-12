@@ -1,5 +1,5 @@
 #+TITLE: 大乘起信論裂網疏-明-智旭
-#+DATE: 2016-06-11 12:29:52
+#+DATE: 2018-05-12 10:24:39
 #+SOURCE: github.com/kanripo/KR6o0109 master dcb29561                
 
 

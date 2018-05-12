@@ -1,5 +1,5 @@
 #+TITLE: 普賢菩薩發願文-隋-智顗
-#+DATE: 2016-06-11 12:28:09
+#+DATE: 2018-05-12 10:22:58
 #+SOURCE: github.com/kanripo/KR6d0213 master dad77264                
 No. 914
 普賢菩薩發願文

@@ -1,5 +1,5 @@
 #+TITLE: 受菩薩戒法-宋-延壽
-#+DATE: 2016-06-11 12:29:31
+#+DATE: 2018-05-12 10:24:18
 #+SOURCE: github.com/kanripo/KR6k0251 master 9e09add7                
 No. 1088
 受菩薩戒法并序

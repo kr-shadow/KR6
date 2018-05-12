@@ -1,5 +1,5 @@
 #+TITLE: 寶髻經四法憂波提舍-元魏-天親菩薩
-#+DATE: 2016-06-11 12:28:33
+#+DATE: 2018-05-12 10:23:24
 #+SOURCE: github.com/kanripo/KR6h0035 master 9a45ae2c                
 
 No. 1526

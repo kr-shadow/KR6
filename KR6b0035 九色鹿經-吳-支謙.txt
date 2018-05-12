@@ -1,5 +1,5 @@
 #+TITLE: 九色鹿經-吳-支謙
-#+DATE: 2016-06-11 12:27:39
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0035 master f9f0d662                
 
 No. 181 [No. 152(58)]

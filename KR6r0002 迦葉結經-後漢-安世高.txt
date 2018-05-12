@@ -1,5 +1,5 @@
 #+TITLE: 迦葉結經-後漢-安世高
-#+DATE: 2016-06-11 12:30:36
+#+DATE: 2018-05-12 10:25:26
 #+SOURCE: github.com/kanripo/KR6r0002 master 391c1d15                
 
 No. 2027

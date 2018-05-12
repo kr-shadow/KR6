@@ -1,5 +1,5 @@
 #+TITLE: 天台傳佛心印記-元-懷則
-#+DATE: 2016-06-11 12:28:08
+#+DATE: 2018-05-12 10:22:57
 #+SOURCE: github.com/kanripo/KR6d0187 master ce97f901                
 
 

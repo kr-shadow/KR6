@@ -1,5 +1,5 @@
 #+TITLE: 釋迦如來降生禮讚文-宋-仁岳
-#+DATE: 2016-06-11 12:28:09
+#+DATE: 2018-05-12 10:22:58
 #+SOURCE: github.com/kanripo/KR6d0204 master f5e81fa5                
 No. 1501
 釋迦降生禮讚文(并序)

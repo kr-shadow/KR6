@@ -1,5 +1,5 @@
 #+TITLE: 唯識三十論直解-明-智旭
-#+DATE: 2016-06-11 12:29:46
+#+DATE: 2018-05-12 10:24:32
 #+SOURCE: github.com/kanripo/KR6n0051 master 0eddfb44                
 No. 828
 唯識三十論直解

@@ -1,5 +1,5 @@
 #+TITLE: 別牧純禪師語錄-清-純
-#+DATE: 2016-06-11 12:30:34
+#+DATE: 2018-05-12 10:25:24
 #+SOURCE: github.com/kanripo/KR6q0588 master a5529ed9                
 
 * 序

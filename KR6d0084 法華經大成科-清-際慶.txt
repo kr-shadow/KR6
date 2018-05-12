@@ -1,5 +1,5 @@
 #+TITLE: 法華經大成科-清-際慶
-#+DATE: 2016-06-11 12:28:03
+#+DATE: 2018-05-12 10:22:52
 #+SOURCE: github.com/kanripo/KR6d0084 master d87dce75                
 
 * No. 618-A

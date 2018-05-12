@@ -1,5 +1,5 @@
 #+TITLE: 五教章集成記-宋-希迪
-#+DATE: 2016-06-11 12:28:20
+#+DATE: 2018-05-12 10:23:11
 #+SOURCE: github.com/kanripo/KR6e0079 master e241d0b0                
 
 * No. 999-A

@@ -1,5 +1,5 @@
 #+TITLE: 菩薩瓔珞本業經-姚秦-竺佛念
-#+DATE: 2016-06-11 12:29:22
+#+DATE: 2018-05-12 10:24:10
 #+SOURCE: github.com/kanripo/KR6k0105 master ec78936c                
 
 No. 1485

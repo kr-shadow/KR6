@@ -1,5 +1,5 @@
 #+TITLE: 法華經要解科--
-#+DATE: 2016-06-11 12:28:00
+#+DATE: 2018-05-12 10:22:50
 #+SOURCE: github.com/kanripo/KR6d0066 master d31c438f                
 No. 601
 法華經要解科

@@ -1,5 +1,5 @@
 #+TITLE: 大乘止觀法門-陳-慧思
-#+DATE: 2016-06-11 12:28:07
+#+DATE: 2018-05-12 10:22:56
 #+SOURCE: github.com/kanripo/KR6d0152 master 3a7fbfe4                
 
 No. 1924

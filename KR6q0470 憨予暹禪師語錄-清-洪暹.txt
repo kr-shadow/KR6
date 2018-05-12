@@ -1,5 +1,5 @@
 #+TITLE: 憨予暹禪師語錄-清-洪暹
-#+DATE: 2016-06-11 12:30:29
+#+DATE: 2018-05-12 10:25:19
 #+SOURCE: github.com/kanripo/KR6q0470 master dfd63437                
 
 ** 憨予禪師語錄序

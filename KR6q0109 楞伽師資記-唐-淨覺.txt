@@ -1,5 +1,5 @@
 #+TITLE: 楞伽師資記-唐-淨覺
-#+DATE: 2016-06-11 12:30:09
+#+DATE: 2018-05-12 10:24:55
 #+SOURCE: github.com/kanripo/KR6q0109 master 17e50308                
 
 No. 2837

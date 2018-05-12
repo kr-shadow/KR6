@@ -1,5 +1,5 @@
 #+TITLE: 圓覺經大疏鈔科-唐-宗密
-#+DATE: 2016-06-11 12:28:52
+#+DATE: 2018-05-12 10:23:41
 #+SOURCE: github.com/kanripo/KR6i0556 master fc76ed2f                
 No. 244
 大方廣圓覺經大疏鈔科中

@@ -1,5 +1,5 @@
 #+TITLE: 體仁要術-清-彭紹升
-#+DATE: 2016-06-11 12:29:32
+#+DATE: 2018-05-12 10:24:19
 #+SOURCE: github.com/kanripo/KR6k0263 master 416aa11e                
 No. 1139
 體仁要術一卷

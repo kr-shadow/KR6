@@ -1,5 +1,5 @@
 #+TITLE: 法華經科拾科-清-佛閑
-#+DATE: 2016-06-11 12:28:04
+#+DATE: 2018-05-12 10:22:53
 #+SOURCE: github.com/kanripo/KR6d0093 master 1b2476e6                
 No. 627
 妙法蓮華經科拾科文

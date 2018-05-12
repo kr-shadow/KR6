@@ -1,5 +1,5 @@
 #+TITLE: 教乘法數（選錄序文）-明-圓瀞
-#+DATE: 2016-06-11 12:30:48
+#+DATE: 2018-05-12 10:25:37
 #+SOURCE: github.com/kanripo/KR6s0008 master c04bdeb9                
 教乘法數序　　　　　　　　　　穡一
 

@@ -1,5 +1,5 @@
 #+TITLE: 五百羅漢尊號-明-高道素手
-#+DATE: 2016-06-11 12:28:35
+#+DATE: 2018-05-12 10:23:25
 #+SOURCE: github.com/kanripo/KR6i0030 master dcc7baea                
 
 * 題羅漢尊號碑　　　　　　　　鑑十

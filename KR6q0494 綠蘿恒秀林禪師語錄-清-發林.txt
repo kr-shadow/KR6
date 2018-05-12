@@ -1,5 +1,5 @@
 #+TITLE: 綠蘿恒秀林禪師語錄-清-發林
-#+DATE: 2016-06-11 12:30:30
+#+DATE: 2018-05-12 10:25:20
 #+SOURCE: github.com/kanripo/KR6q0494 master 2f222583                
 
 ** 序

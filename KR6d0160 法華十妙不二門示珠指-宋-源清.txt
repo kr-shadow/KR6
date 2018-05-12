@@ -1,5 +1,5 @@
 #+TITLE: 法華十妙不二門示珠指-宋-源清
-#+DATE: 2016-06-11 12:28:07
+#+DATE: 2018-05-12 10:22:56
 #+SOURCE: github.com/kanripo/KR6d0160 master 83187e2b                
 No. 926
 法華十妙不二門示珠指卷上

@@ -1,5 +1,5 @@
 #+TITLE: 息除中夭陀羅尼經-宋-施護
-#+DATE: 2016-06-11 12:29:06
+#+DATE: 2018-05-12 10:23:55
 #+SOURCE: github.com/kanripo/KR6j0577 master 641fb774                
 
 No. 1347 [No. 1346]

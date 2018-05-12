@@ -1,5 +1,5 @@
 #+TITLE: 佛說目連問戒律中五百輕重事經--失譯
-#+DATE: 2016-06-11 12:29:20
+#+DATE: 2018-05-12 10:24:09
 #+SOURCE: github.com/kanripo/KR6k0073 master 77450a2c                
 
 

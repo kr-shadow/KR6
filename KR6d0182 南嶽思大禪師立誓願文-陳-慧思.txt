@@ -1,5 +1,5 @@
 #+TITLE: 南嶽思大禪師立誓願文-陳-慧思
-#+DATE: 2016-06-11 12:28:08
+#+DATE: 2018-05-12 10:22:57
 #+SOURCE: github.com/kanripo/KR6d0182 master 117ead48                
 
 

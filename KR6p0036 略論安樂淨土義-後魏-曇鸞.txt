@@ -1,5 +1,5 @@
 #+TITLE: 略論安樂淨土義-後魏-曇鸞
-#+DATE: 2016-06-11 12:29:55
+#+DATE: 2018-05-12 10:24:41
 #+SOURCE: github.com/kanripo/KR6p0036 master a58a3bbf                
 No. 1957
 略論安樂淨土義

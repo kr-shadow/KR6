@@ -1,5 +1,5 @@
 #+TITLE: 梵網經菩薩戒本疏-唐-知周
-#+DATE: 2016-06-11 12:29:21
+#+DATE: 2018-05-12 10:24:09
 #+SOURCE: github.com/kanripo/KR6k0092 master 95d807fb                
 No. 687
 梵網經疏卷第二(頭起佛坐菩提樹尾盡不婬戒)

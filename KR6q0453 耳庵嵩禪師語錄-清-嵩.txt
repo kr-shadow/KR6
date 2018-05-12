@@ -1,5 +1,5 @@
 #+TITLE: 耳庵嵩禪師語錄-清-嵩
-#+DATE: 2016-06-11 12:30:28
+#+DATE: 2018-05-12 10:25:18
 #+SOURCE: github.com/kanripo/KR6q0453 master dae0a414                
 
 * 耳庵禪師語錄序

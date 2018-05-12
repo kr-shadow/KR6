@@ -1,5 +1,5 @@
 #+TITLE: 普賢菩薩說證明經--
-#+DATE: 2016-06-11 12:30:59
+#+DATE: 2018-05-12 10:25:47
 #+SOURCE: github.com/kanripo/KR6u0015 master f41a9678                
 
 No. 2879

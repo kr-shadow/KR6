@@ -1,5 +1,5 @@
 #+TITLE: 阿彌陀經略註-清-續法
-#+DATE: 2016-06-11 12:29:55
+#+DATE: 2018-05-12 10:24:41
 #+SOURCE: github.com/kanripo/KR6p0026 master 4b414438                
 
 * No. 431-A

@@ -1,5 +1,5 @@
 #+TITLE: 佛說鬼子母經--失譯
-#+DATE: 2016-06-11 12:29:04
+#+DATE: 2018-05-12 10:23:53
 #+SOURCE: github.com/kanripo/KR6j0492 master 753f6d8b                
 
 No. 1262

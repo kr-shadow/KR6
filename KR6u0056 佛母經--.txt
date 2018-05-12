@@ -1,5 +1,5 @@
 #+TITLE: 佛母經--
-#+DATE: 2016-06-11 12:30:59
+#+DATE: 2018-05-12 10:25:48
 #+SOURCE: github.com/kanripo/KR6u0056 master c68a4437                
 
 

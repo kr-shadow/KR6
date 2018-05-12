@@ -1,5 +1,5 @@
 #+TITLE: 安樂集-唐-道綽
-#+DATE: 2016-06-11 12:29:55
+#+DATE: 2018-05-12 10:24:41
 #+SOURCE: github.com/kanripo/KR6p0037 master a313a480                
 
 No. 1958

@@ -1,5 +1,5 @@
 #+TITLE: 大梵天王問佛決疑經--
-#+DATE: 2016-06-11 12:28:41
+#+DATE: 2018-05-12 10:23:31
 #+SOURCE: github.com/kanripo/KR6i0238 master 08d73da7                
 
 

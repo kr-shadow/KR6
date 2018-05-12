@@ -1,5 +1,5 @@
 #+TITLE: 相宗八要-明-洪恩
-#+DATE: 2016-06-11 12:29:50
+#+DATE: 2018-05-12 10:24:36
 #+SOURCE: github.com/kanripo/KR6n0143 master 5f1143b3                
 
 * No. 899-A

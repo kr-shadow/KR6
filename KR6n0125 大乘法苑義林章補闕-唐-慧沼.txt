@@ -1,5 +1,5 @@
 #+TITLE: 大乘法苑義林章補闕-唐-慧沼
-#+DATE: 2016-06-11 12:29:49
+#+DATE: 2018-05-12 10:24:35
 #+SOURCE: github.com/kanripo/KR6n0125 master 5ba8fab6                
 No. 882
 大乘法苑林章補闕卷第四

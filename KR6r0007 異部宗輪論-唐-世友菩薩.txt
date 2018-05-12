@@ -1,5 +1,5 @@
 #+TITLE: 異部宗輪論-唐-世友菩薩
-#+DATE: 2016-06-11 12:30:36
+#+DATE: 2018-05-12 10:25:26
 #+SOURCE: github.com/kanripo/KR6r0007 master e38c0025                
 
 No. 2031 [cf. Nos. 2032, 2033]

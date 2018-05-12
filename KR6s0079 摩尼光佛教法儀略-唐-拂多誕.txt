@@ -1,5 +1,5 @@
 #+TITLE: 摩尼光佛教法儀略-唐-拂多誕
-#+DATE: 2016-06-11 12:30:56
+#+DATE: 2018-05-12 10:25:44
 #+SOURCE: github.com/kanripo/KR6s0079 master da7e1a55                
 
 

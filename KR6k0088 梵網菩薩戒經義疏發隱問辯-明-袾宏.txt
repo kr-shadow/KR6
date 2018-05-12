@@ -1,5 +1,5 @@
 #+TITLE: 梵網菩薩戒經義疏發隱問辯-明-袾宏
-#+DATE: 2016-06-11 12:29:21
+#+DATE: 2018-05-12 10:24:09
 #+SOURCE: github.com/kanripo/KR6k0088 master 9f291a97                
 No. 681
 菩薩戒問辯

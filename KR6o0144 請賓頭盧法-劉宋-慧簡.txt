@@ -1,5 +1,5 @@
 #+TITLE: 請賓頭盧法-劉宋-慧簡
-#+DATE: 2016-06-11 12:29:54
+#+DATE: 2018-05-12 10:24:40
 #+SOURCE: github.com/kanripo/KR6o0144 master 680e2b68                
 
 No. 1689

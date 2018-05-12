@@ -1,5 +1,5 @@
 #+TITLE: 金剛經演古-清-寂燄
-#+DATE: 2016-06-11 12:27:50
+#+DATE: 2018-05-12 10:22:40
 #+SOURCE: github.com/kanripo/KR6c0083 master d1a5e6d0                
 
 * No. 495-A

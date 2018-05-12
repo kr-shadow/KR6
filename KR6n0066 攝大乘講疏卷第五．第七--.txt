@@ -1,5 +1,5 @@
 #+TITLE: 攝大乘講疏卷第五．第七--
-#+DATE: 2016-06-11 12:29:46
+#+DATE: 2018-05-12 10:24:33
 #+SOURCE: github.com/kanripo/KR6n0066 master d62a3202                
 
 

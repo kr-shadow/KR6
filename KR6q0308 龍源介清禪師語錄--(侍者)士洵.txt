@@ -1,5 +1,5 @@
 #+TITLE: 龍源介清禪師語錄--(侍者)士洵
-#+DATE: 2016-06-11 12:30:19
+#+DATE: 2018-05-12 10:25:06
 #+SOURCE: github.com/kanripo/KR6q0308 master ee0ed313                
 No. 1374
 龍源清禪師語錄

@@ -1,5 +1,5 @@
 #+TITLE: 釋家觀化還愚經--
-#+DATE: 2016-06-11 12:30:59
+#+DATE: 2018-05-12 10:25:48
 #+SOURCE: github.com/kanripo/KR6u0055 master 8ec8a8f3                
 
 No. 2918

@@ -1,5 +1,5 @@
 #+TITLE: 彌勒上生經宗要-新羅-元曉
-#+DATE: 2016-06-11 12:28:35
+#+DATE: 2018-05-12 10:23:25
 #+SOURCE: github.com/kanripo/KR6i0039 master a5dfe180                
 
 

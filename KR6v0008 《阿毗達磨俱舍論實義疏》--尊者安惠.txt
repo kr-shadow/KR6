@@ -1,5 +1,5 @@
 #+TITLE: 《阿毗達磨俱舍論實義疏》--尊者安惠
-#+DATE: 2016-06-11 12:30:59
+#+DATE: 2018-05-12 10:25:48
 #+SOURCE: github.com/kanripo/KR6v0008 master cc85bc62                
 
 

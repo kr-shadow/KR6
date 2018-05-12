@@ -1,5 +1,5 @@
 #+TITLE: 因緣心論頌因緣心論釋--猛龍菩薩
-#+DATE: 2016-06-11 12:29:51
+#+DATE: 2018-05-12 10:24:37
 #+SOURCE: github.com/kanripo/KR6o0058 master ff73da4d                
 
 

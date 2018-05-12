@@ -1,5 +1,5 @@
 #+TITLE: 羯磨儀式-清-書玉
-#+DATE: 2016-06-11 12:29:30
+#+DATE: 2018-05-12 10:24:17
 #+SOURCE: github.com/kanripo/KR6k0230 master 8b1767af                
 
 * No. 1135-A

@@ -1,5 +1,5 @@
 #+TITLE: 佛說彌勒菩薩發願王偈-清-工布查布
-#+DATE: 2016-06-11 12:29:01
+#+DATE: 2018-05-12 10:23:51
 #+SOURCE: github.com/kanripo/KR6j0361 master 5a67a88d                
 
 

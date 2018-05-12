@@ -1,5 +1,5 @@
 #+TITLE: 信佛功德經-宋-法賢
-#+DATE: 2016-06-11 12:27:33
+#+DATE: 2018-05-12 10:22:23
 #+SOURCE: github.com/kanripo/KR6a0018 master 8b68cae3                
 
 No. 18 [No. 1(18)]

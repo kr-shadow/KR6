@@ -1,5 +1,5 @@
 #+TITLE: 文殊師利問菩提經-姚秦-鳩摩羅什
-#+DATE: 2016-06-11 12:28:36
+#+DATE: 2018-05-12 10:23:26
 #+SOURCE: github.com/kanripo/KR6i0065 master d4502359                
 
 

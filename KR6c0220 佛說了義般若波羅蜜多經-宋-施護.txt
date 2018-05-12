@@ -1,5 +1,5 @@
 #+TITLE: 佛說了義般若波羅蜜多經-宋-施護
-#+DATE: 2016-06-11 12:27:54
+#+DATE: 2018-05-12 10:22:44
 #+SOURCE: github.com/kanripo/KR6c0220 master e1117cb6                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 請觀音經疏-隋-智顗
-#+DATE: 2016-06-11 12:29:14
+#+DATE: 2018-05-12 10:24:03
 #+SOURCE: github.com/kanripo/KR6j0729 master d06e957e                
 
 No. 1800 [cf. Nos. 1043, 1801]

@@ -1,5 +1,5 @@
 #+TITLE: 佛說父母恩難報經-後漢-安世高
-#+DATE: 2016-06-11 12:28:47
+#+DATE: 2018-05-12 10:23:37
 #+SOURCE: github.com/kanripo/KR6i0363 master 064cf595                
 
 

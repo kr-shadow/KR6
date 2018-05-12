@@ -1,5 +1,5 @@
 #+TITLE: 金剛頂菩提心論略記-唐-遍滿
-#+DATE: 2016-06-11 12:29:51
+#+DATE: 2018-05-12 10:24:38
 #+SOURCE: github.com/kanripo/KR6o0071 master e9c649d5                
 No. 777
 金剛頂菩提心論略記

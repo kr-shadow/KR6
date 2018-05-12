@@ -1,5 +1,5 @@
 #+TITLE: 興善南明廣禪師語錄-明-慧廣
-#+DATE: 2016-06-11 12:30:28
+#+DATE: 2018-05-12 10:25:19
 #+SOURCE: github.com/kanripo/KR6q0461 master 340202a4                
 
 * 南明禪師語錄序

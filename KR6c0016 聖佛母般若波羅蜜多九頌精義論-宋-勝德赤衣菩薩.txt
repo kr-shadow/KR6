@@ -1,5 +1,5 @@
 #+TITLE: 聖佛母般若波羅蜜多九頌精義論-宋-勝德赤衣菩薩
-#+DATE: 2016-06-11 12:27:48
+#+DATE: 2018-05-12 10:22:38
 #+SOURCE: github.com/kanripo/KR6c0016 master 194bcfd5                
 
 No. 1516

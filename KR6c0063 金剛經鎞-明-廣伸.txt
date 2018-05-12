@@ -1,5 +1,5 @@
 #+TITLE: 金剛經鎞-明-廣伸
-#+DATE: 2016-06-11 12:27:49
+#+DATE: 2018-05-12 10:22:39
 #+SOURCE: github.com/kanripo/KR6c0063 master 81dcbdbd                
 
 * No. 475-A

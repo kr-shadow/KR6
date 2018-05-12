@@ -1,5 +1,5 @@
 #+TITLE: 成唯識論義蘊-唐-道邑
-#+DATE: 2016-06-11 12:29:43
+#+DATE: 2018-05-12 10:24:30
 #+SOURCE: github.com/kanripo/KR6n0037 master cb0a14fe                
 No. 814
 成唯識論義蘊卷第一

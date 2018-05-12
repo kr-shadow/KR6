@@ -1,5 +1,5 @@
 #+TITLE: 大乘伽耶山頂經-唐-菩提流志
-#+DATE: 2016-06-11 12:28:36
+#+DATE: 2018-05-12 10:23:26
 #+SOURCE: github.com/kanripo/KR6i0068 master 807fd401                
 
 

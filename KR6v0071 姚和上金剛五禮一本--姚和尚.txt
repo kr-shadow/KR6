@@ -1,5 +1,5 @@
 #+TITLE: 姚和上金剛五禮一本--姚和尚
-#+DATE: 2016-06-11 12:31:01
+#+DATE: 2018-05-12 10:25:49
 #+SOURCE: github.com/kanripo/KR6v0071 master effe8d70                
 
 

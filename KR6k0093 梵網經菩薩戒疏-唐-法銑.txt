@@ -1,5 +1,5 @@
 #+TITLE: 梵網經菩薩戒疏-唐-法銑
-#+DATE: 2016-06-11 12:29:21
+#+DATE: 2018-05-12 10:24:09
 #+SOURCE: github.com/kanripo/KR6k0093 master 5db2e797                
 No. 690
 梵網經疏上

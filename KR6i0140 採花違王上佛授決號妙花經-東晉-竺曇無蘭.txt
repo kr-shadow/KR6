@@ -1,5 +1,5 @@
 #+TITLE: 採花違王上佛授決號妙花經-東晉-竺曇無蘭
-#+DATE: 2016-06-11 12:28:39
+#+DATE: 2018-05-12 10:23:29
 #+SOURCE: github.com/kanripo/KR6i0140 master 3c8dbddb                
 
 

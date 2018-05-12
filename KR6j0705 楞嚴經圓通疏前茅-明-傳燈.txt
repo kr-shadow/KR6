@@ -1,5 +1,5 @@
 #+TITLE: 楞嚴經圓通疏前茅-明-傳燈
-#+DATE: 2016-06-11 12:29:11
+#+DATE: 2018-05-12 10:24:00
 #+SOURCE: github.com/kanripo/KR6j0705 master 7d619cee                
 No. 297
 楞嚴圓通疏前茅卷之上

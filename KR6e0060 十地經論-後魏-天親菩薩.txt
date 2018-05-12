@@ -1,5 +1,5 @@
 #+TITLE: 十地經論-後魏-天親菩薩
-#+DATE: 2016-06-11 12:28:18
+#+DATE: 2018-05-12 10:23:09
 #+SOURCE: github.com/kanripo/KR6e0060 master c73cd1ec                
 No. 1522
 

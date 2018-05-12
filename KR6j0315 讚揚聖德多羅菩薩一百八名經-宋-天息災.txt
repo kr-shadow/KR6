@@ -1,5 +1,5 @@
 #+TITLE: 讚揚聖德多羅菩薩一百八名經-宋-天息災
-#+DATE: 2016-06-11 12:29:01
+#+DATE: 2018-05-12 10:23:50
 #+SOURCE: github.com/kanripo/KR6j0315 master e878bbb6                
 
 

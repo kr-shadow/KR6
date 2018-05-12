@@ -1,5 +1,5 @@
 #+TITLE: 阿毘達磨法蘊足論-唐-尊者大目乾連
-#+DATE: 2016-06-11 12:29:32
+#+DATE: 2018-05-12 10:24:19
 #+SOURCE: github.com/kanripo/KR6l0002 master 683797d0                
 
 

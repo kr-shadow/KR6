@@ -1,5 +1,5 @@
 #+TITLE: 肇論疏科-宋-遵式
-#+DATE: 2016-06-11 12:29:39
+#+DATE: 2018-05-12 10:24:26
 #+SOURCE: github.com/kanripo/KR6m0042 master be75fcf3                
 
 * No. 868-A

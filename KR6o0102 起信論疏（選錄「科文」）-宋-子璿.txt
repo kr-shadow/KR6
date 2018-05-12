@@ -1,5 +1,5 @@
 #+TITLE: 起信論疏（選錄「科文」）-宋-子璿
-#+DATE: 2016-06-11 12:29:52
+#+DATE: 2018-05-12 10:24:38
 #+SOURCE: github.com/kanripo/KR6o0102 master e3b2b536                
 起信論疏科長水沙門子璿脩定
 

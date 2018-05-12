@@ -1,5 +1,5 @@
 #+TITLE: 四分律含注戒本疏科-宋-元照
-#+DATE: 2016-06-11 12:29:23
+#+DATE: 2018-05-12 10:24:11
 #+SOURCE: github.com/kanripo/KR6k0145 master fbd1430b                
 No. 713
 釋四分律含注戒本疏科卷一之上

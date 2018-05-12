@@ -1,5 +1,5 @@
 #+TITLE: 金剛經解義-唐-慧能
-#+DATE: 2016-06-11 12:27:48
+#+DATE: 2018-05-12 10:22:39
 #+SOURCE: github.com/kanripo/KR6c0047 master 740a92c2                
 
 * No. 459-A

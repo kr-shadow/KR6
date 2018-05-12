@@ -1,5 +1,5 @@
 #+TITLE: 八大人覺經疏-清-續法
-#+DATE: 2016-06-11 12:28:50
+#+DATE: 2018-05-12 10:23:40
 #+SOURCE: github.com/kanripo/KR6i0478 master 54beb336                
 
 * No. 673-A

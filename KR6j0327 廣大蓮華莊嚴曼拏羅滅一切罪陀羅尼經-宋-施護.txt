@@ -1,5 +1,5 @@
 #+TITLE: 廣大蓮華莊嚴曼拏羅滅一切罪陀羅尼經-宋-施護
-#+DATE: 2016-06-11 12:29:01
+#+DATE: 2018-05-12 10:23:50
 #+SOURCE: github.com/kanripo/KR6j0327 master 5e3df686                
 
 

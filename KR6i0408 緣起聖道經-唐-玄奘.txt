@@ -1,5 +1,5 @@
 #+TITLE: 緣起聖道經-唐-玄奘
-#+DATE: 2016-06-11 12:28:48
+#+DATE: 2018-05-12 10:23:38
 #+SOURCE: github.com/kanripo/KR6i0408 master f27c0a1a                
 
 

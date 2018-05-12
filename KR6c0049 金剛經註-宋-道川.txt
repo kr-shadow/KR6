@@ -1,5 +1,5 @@
 #+TITLE: 金剛經註-宋-道川
-#+DATE: 2016-06-11 12:27:49
+#+DATE: 2018-05-12 10:22:39
 #+SOURCE: github.com/kanripo/KR6c0049 master 65ee433d                
 
 * No. 461-A

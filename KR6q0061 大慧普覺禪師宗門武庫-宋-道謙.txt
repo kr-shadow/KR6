@@ -1,5 +1,5 @@
 #+TITLE: 大慧普覺禪師宗門武庫-宋-道謙
-#+DATE: 2016-06-11 12:30:06
+#+DATE: 2018-05-12 10:24:53
 #+SOURCE: github.com/kanripo/KR6q0061 master 813f595c                
 
 

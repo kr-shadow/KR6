@@ -1,5 +1,5 @@
 #+TITLE: 古林清茂禪師拾遺偈頌-日本-海壽
-#+DATE: 2016-06-11 12:30:21
+#+DATE: 2018-05-12 10:25:08
 #+SOURCE: github.com/kanripo/KR6q0346 master 45ab7913                
 
 * No. 1413-A

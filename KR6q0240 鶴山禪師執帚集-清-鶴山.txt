@@ -1,5 +1,5 @@
 #+TITLE: 鶴山禪師執帚集-清-鶴山
-#+DATE: 2016-06-11 12:30:15
+#+DATE: 2018-05-12 10:25:02
 #+SOURCE: github.com/kanripo/KR6q0240 master 5bed9700                
 鶴山禪師執帚集卷上
 

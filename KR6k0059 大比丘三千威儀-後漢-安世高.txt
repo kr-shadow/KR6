@@ -1,5 +1,5 @@
 #+TITLE: 大比丘三千威儀-後漢-安世高
-#+DATE: 2016-06-11 12:29:20
+#+DATE: 2018-05-12 10:24:08
 #+SOURCE: github.com/kanripo/KR6k0059 master 13a3c242                
 
 

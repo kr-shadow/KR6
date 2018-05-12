@@ -1,5 +1,5 @@
 #+TITLE: 金剛頂瑜伽三十七尊禮-唐-不空
-#+DATE: 2016-06-11 12:28:55
+#+DATE: 2018-05-12 10:23:44
 #+SOURCE: github.com/kanripo/KR6j0046 master 02cb90e2                
 
 

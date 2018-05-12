@@ -1,5 +1,5 @@
 #+TITLE: 淨業痛策-清-照瑩
-#+DATE: 2016-06-11 12:29:58
+#+DATE: 2018-05-12 10:24:45
 #+SOURCE: github.com/kanripo/KR6p0118 master 371c3dd7                
 
 * No. 1199-A

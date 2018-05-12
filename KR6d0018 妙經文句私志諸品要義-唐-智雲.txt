@@ -1,5 +1,5 @@
 #+TITLE: 妙經文句私志諸品要義-唐-智雲
-#+DATE: 2016-06-11 12:27:56
+#+DATE: 2018-05-12 10:22:46
 #+SOURCE: github.com/kanripo/KR6d0018 master df5951bc                
 No. 595
 妙經文句私志諸品要義卷上

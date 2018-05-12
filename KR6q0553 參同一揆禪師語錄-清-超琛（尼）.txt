@@ -1,5 +1,5 @@
 #+TITLE: 參同一揆禪師語錄-清-超琛（尼）
-#+DATE: 2016-06-11 12:30:33
+#+DATE: 2018-05-12 10:25:23
 #+SOURCE: github.com/kanripo/KR6q0553 master 4582ab64                
 
 * 一揆禪師像贊

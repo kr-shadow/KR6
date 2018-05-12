@@ -1,5 +1,5 @@
 #+TITLE: 施食獲五福報經--失譯
-#+DATE: 2016-06-11 12:27:37
+#+DATE: 2018-05-12 10:22:27
 #+SOURCE: github.com/kanripo/KR6a0135 master 47d94f88                
 
 

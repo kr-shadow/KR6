@@ -1,5 +1,5 @@
 #+TITLE: 大唐西域求法高僧傳-唐-義淨
-#+DATE: 2016-06-11 12:30:40
+#+DATE: 2018-05-12 10:25:29
 #+SOURCE: github.com/kanripo/KR6r0059 master 6e44f0a8                
 
 No. 2066

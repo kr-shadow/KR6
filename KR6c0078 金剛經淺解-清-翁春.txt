@@ -1,5 +1,5 @@
 #+TITLE: 金剛經淺解-清-翁春
-#+DATE: 2016-06-11 12:27:50
+#+DATE: 2018-05-12 10:22:40
 #+SOURCE: github.com/kanripo/KR6c0078 master 31e52dc9                
 No. 490
 金剛般若波羅蜜經淺解

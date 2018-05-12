@@ -1,5 +1,5 @@
 #+TITLE: 三階教文獻綜述--西本照真
-#+DATE: 2016-06-11 12:31:02
+#+DATE: 2018-05-12 10:25:50
 #+SOURCE: github.com/kanripo/KR6v0103 master c86f861d                
 
 三階教文獻綜述

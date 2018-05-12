@@ -1,5 +1,5 @@
 #+TITLE: 能斷金剛般若波羅蜜多經論釋-唐-無著菩薩
-#+DATE: 2016-06-11 12:27:48
+#+DATE: 2018-05-12 10:22:38
 #+SOURCE: github.com/kanripo/KR6c0034 master 98515c3f                
 
 No. 1513 [No. 1511, cf. Nos. 1514, 1512]

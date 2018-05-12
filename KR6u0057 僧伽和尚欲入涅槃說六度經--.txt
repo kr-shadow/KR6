@@ -1,5 +1,5 @@
 #+TITLE: 僧伽和尚欲入涅槃說六度經--
-#+DATE: 2016-06-11 12:30:59
+#+DATE: 2018-05-12 10:25:48
 #+SOURCE: github.com/kanripo/KR6u0057 master 007d4138                
 
 

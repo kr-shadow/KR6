@@ -1,5 +1,5 @@
 #+TITLE: 法句譬喻經-西晉-法炬
-#+DATE: 2016-06-11 12:27:41
+#+DATE: 2018-05-12 10:22:31
 #+SOURCE: github.com/kanripo/KR6b0068 master e34a8d10                
 
 

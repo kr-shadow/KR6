@@ -1,5 +1,5 @@
 #+TITLE: 因果本起經-宋-求那跋陀羅
-#+DATE: 2016-06-11 12:27:39
+#+DATE: 2018-05-12 10:22:30
 #+SOURCE: github.com/kanripo/KR6b0046 master 368cb88a                
 因果本起經卷第一
 

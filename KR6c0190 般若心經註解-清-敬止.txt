@@ -1,5 +1,5 @@
 #+TITLE: 般若心經註解-清-敬止
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:43
 #+SOURCE: github.com/kanripo/KR6c0190 master 2738e714                
 No. 571
 般若波羅蜜多心經註解

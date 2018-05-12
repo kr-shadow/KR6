@@ -1,5 +1,5 @@
 #+TITLE: 文殊師利所說般若波羅蜜經-梁-僧伽婆羅
-#+DATE: 2016-06-11 12:27:48
+#+DATE: 2018-05-12 10:22:38
 #+SOURCE: github.com/kanripo/KR6c0021 master fcc4c782                
 
 No. 233 [Nos. 220(7), 232]

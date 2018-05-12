@@ -1,5 +1,5 @@
 #+TITLE: 般若心經直談-明-真可
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0156 master 1ea4d8d3                
 No. 537
 般若波羅蜜多心經直談

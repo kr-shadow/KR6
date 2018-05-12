@@ -1,5 +1,5 @@
 #+TITLE: 諦義證得經-古印度-烏瑪斯伐蒂
-#+DATE: 2016-06-11 12:31:00
+#+DATE: 2018-05-12 10:25:48
 #+SOURCE: github.com/kanripo/KR6v0028 master ccfacca6                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 說罪要行法-唐-義淨
-#+DATE: 2016-06-11 12:29:28
+#+DATE: 2018-05-12 10:24:16
 #+SOURCE: github.com/kanripo/KR6k0190 master 99ad8309                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 佛說四不可得經-西晉-竺法護
-#+DATE: 2016-06-11 12:28:50
+#+DATE: 2018-05-12 10:23:40
 #+SOURCE: github.com/kanripo/KR6i0467 master 4ab57503                
 
 No. 770

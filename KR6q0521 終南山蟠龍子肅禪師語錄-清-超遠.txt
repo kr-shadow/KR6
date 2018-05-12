@@ -1,5 +1,5 @@
 #+TITLE: 終南山蟠龍子肅禪師語錄-清-超遠
-#+DATE: 2016-06-11 12:30:31
+#+DATE: 2018-05-12 10:25:22
 #+SOURCE: github.com/kanripo/KR6q0521 master 401c0edd                
 
 * 子肅禪師語錄序

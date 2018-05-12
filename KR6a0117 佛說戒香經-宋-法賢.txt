@@ -1,5 +1,5 @@
 #+TITLE: 佛說戒香經-宋-法賢
-#+DATE: 2016-06-11 12:27:36
+#+DATE: 2018-05-12 10:22:26
 #+SOURCE: github.com/kanripo/KR6a0117 master 9d774478                
 
 

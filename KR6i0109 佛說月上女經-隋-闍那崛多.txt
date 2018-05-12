@@ -1,5 +1,5 @@
 #+TITLE: 佛說月上女經-隋-闍那崛多
-#+DATE: 2016-06-11 12:28:38
+#+DATE: 2018-05-12 10:23:28
 #+SOURCE: github.com/kanripo/KR6i0109 master 768b623c                
 
 No. 480

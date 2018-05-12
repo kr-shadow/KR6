@@ -1,5 +1,5 @@
 #+TITLE: 西方確指-清-覺明菩薩
-#+DATE: 2016-06-11 12:29:58
+#+DATE: 2018-05-12 10:24:44
 #+SOURCE: github.com/kanripo/KR6p0110 master 9c54f48b                
 
 * No. 1191-A

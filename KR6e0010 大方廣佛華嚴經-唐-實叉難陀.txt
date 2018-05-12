@@ -1,5 +1,5 @@
 #+TITLE: 大方廣佛華嚴經-唐-實叉難陀
-#+DATE: 2016-06-11 12:28:11
+#+DATE: 2018-05-12 10:23:00
 #+SOURCE: github.com/kanripo/KR6e0010 master 5524a97c                
 
 No. 279 [No. 278]

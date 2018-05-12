@@ -1,5 +1,5 @@
 #+TITLE: 觀無量壽佛經約論-清-彭際清
-#+DATE: 2016-06-11 12:29:54
+#+DATE: 2018-05-12 10:24:40
 #+SOURCE: github.com/kanripo/KR6p0013 master 092aa3f2                
 No. 414
 觀無量壽佛經約論

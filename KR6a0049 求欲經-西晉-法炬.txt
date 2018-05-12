@@ -1,5 +1,5 @@
 #+TITLE: 求欲經-西晉-法炬
-#+DATE: 2016-06-11 12:27:34
+#+DATE: 2018-05-12 10:22:25
 #+SOURCE: github.com/kanripo/KR6a0049 master 0f583cdf                
 
 

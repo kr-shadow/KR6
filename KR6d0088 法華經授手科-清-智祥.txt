@@ -1,5 +1,5 @@
 #+TITLE: 法華經授手科-清-智祥
-#+DATE: 2016-06-11 12:28:03
+#+DATE: 2018-05-12 10:22:53
 #+SOURCE: github.com/kanripo/KR6d0088 master f636eadd                
 No. 622
 法華授手科

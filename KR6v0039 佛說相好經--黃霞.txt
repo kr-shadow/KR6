@@ -1,5 +1,5 @@
 #+TITLE: 佛說相好經--黃霞
-#+DATE: 2016-06-11 12:31:00
+#+DATE: 2018-05-12 10:25:49
 #+SOURCE: github.com/kanripo/KR6v0039 master 91a5d3dc                
 
 

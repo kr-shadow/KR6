@@ -1,5 +1,5 @@
 #+TITLE: 佛頂尊勝陀羅尼經-唐-杜行顗
-#+DATE: 2016-06-11 12:28:57
+#+DATE: 2018-05-12 10:23:47
 #+SOURCE: github.com/kanripo/KR6j0145 master aaaee172                
 
 No. 968

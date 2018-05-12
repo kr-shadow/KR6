@@ -1,5 +1,5 @@
 #+TITLE: 地藏菩薩十齋日--
-#+DATE: 2016-06-11 12:30:54
+#+DATE: 2018-05-12 10:25:42
 #+SOURCE: github.com/kanripo/KR6s0042 master 91c9e4a8                
 
 

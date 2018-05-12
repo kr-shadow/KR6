@@ -1,5 +1,5 @@
 #+TITLE: 註同教問答-宋-師會
-#+DATE: 2016-06-11 12:28:22
+#+DATE: 2018-05-12 10:23:13
 #+SOURCE: github.com/kanripo/KR6e0136 master 4730abc2                
 No. 1017
 注同教問答

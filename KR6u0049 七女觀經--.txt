@@ -1,5 +1,5 @@
 #+TITLE: 七女觀經--
-#+DATE: 2016-06-11 12:30:59
+#+DATE: 2018-05-12 10:25:47
 #+SOURCE: github.com/kanripo/KR6u0049 master f03cf1eb                
 
 

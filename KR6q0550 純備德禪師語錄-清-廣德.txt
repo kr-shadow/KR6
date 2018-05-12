@@ -1,5 +1,5 @@
 #+TITLE: 純備德禪師語錄-清-廣德
-#+DATE: 2016-06-11 12:30:33
+#+DATE: 2018-05-12 10:25:23
 #+SOURCE: github.com/kanripo/KR6q0550 master 9804be03                
 
 * 純備德禪師語錄序

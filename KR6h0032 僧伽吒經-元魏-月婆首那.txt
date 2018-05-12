@@ -1,5 +1,5 @@
 #+TITLE: 僧伽吒經-元魏-月婆首那
-#+DATE: 2016-06-11 12:28:33
+#+DATE: 2018-05-12 10:23:24
 #+SOURCE: github.com/kanripo/KR6h0032 master 830f7a70                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 十二禮--龍樹菩薩
-#+DATE: 2016-06-11 12:29:57
+#+DATE: 2018-05-12 10:24:43
 #+SOURCE: github.com/kanripo/KR6p0080 master 7fcece05                
 No. 57
 十二禮(禪那啒多三藏別譯龍樹菩薩讚禮阿彌陀佛文)

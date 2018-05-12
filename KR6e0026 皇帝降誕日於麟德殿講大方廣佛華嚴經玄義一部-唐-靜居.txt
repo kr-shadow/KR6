@@ -1,5 +1,5 @@
 #+TITLE: 皇帝降誕日於麟德殿講大方廣佛華嚴經玄義一部-唐-靜居
-#+DATE: 2016-06-11 12:28:16
+#+DATE: 2018-05-12 10:23:06
 #+SOURCE: github.com/kanripo/KR6e0026 master c286f219                
 
 

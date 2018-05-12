@@ -1,5 +1,5 @@
 #+TITLE: 大乘開心顯性頓悟真宗論-唐-慧光
-#+DATE: 2016-06-11 12:30:09
+#+DATE: 2018-05-12 10:24:55
 #+SOURCE: github.com/kanripo/KR6q0107 master 22098554                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 十不二門指要鈔-宋-知禮
-#+DATE: 2016-06-11 12:28:07
+#+DATE: 2018-05-12 10:22:56
 #+SOURCE: github.com/kanripo/KR6d0158 master 583f3db0                
 
 

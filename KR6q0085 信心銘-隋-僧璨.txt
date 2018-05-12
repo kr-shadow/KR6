@@ -1,5 +1,5 @@
 #+TITLE: 信心銘-隋-僧璨
-#+DATE: 2016-06-11 12:30:07
+#+DATE: 2018-05-12 10:24:54
 #+SOURCE: github.com/kanripo/KR6q0085 master bed3ce89                
 
 

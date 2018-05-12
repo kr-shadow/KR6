@@ -1,5 +1,5 @@
 #+TITLE: 復宗集-宋-與咸
-#+DATE: 2016-06-11 12:28:10
+#+DATE: 2018-05-12 10:22:58
 #+SOURCE: github.com/kanripo/KR6d0231 master e50c0067                
 No. 955
 復宗集下

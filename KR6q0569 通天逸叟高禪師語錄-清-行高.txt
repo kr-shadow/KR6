@@ -1,5 +1,5 @@
 #+TITLE: 通天逸叟高禪師語錄-清-行高
-#+DATE: 2016-06-11 12:30:34
+#+DATE: 2018-05-12 10:25:23
 #+SOURCE: github.com/kanripo/KR6q0569 master 088a915b                
 
 * 通天逸叟高禪師語錄目錄

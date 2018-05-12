@@ -1,5 +1,5 @@
 #+TITLE: 解深密經-唐-玄奘
-#+DATE: 2016-06-11 12:28:47
+#+DATE: 2018-05-12 10:23:36
 #+SOURCE: github.com/kanripo/KR6i0353 master 2c326d82                
 
 No. 676 [Nos. 675, 677-679]

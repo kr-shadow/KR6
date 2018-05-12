@@ -1,5 +1,5 @@
 #+TITLE: 阿彌陀經疏鈔擷-明-徐槐廷
-#+DATE: 2016-06-11 12:29:55
+#+DATE: 2018-05-12 10:24:41
 #+SOURCE: github.com/kanripo/KR6p0023 master bb4551c6                
 
 * No. 428-A

@@ -1,5 +1,5 @@
 #+TITLE: 新歲經-東晉-竺曇無蘭
-#+DATE: 2016-06-11 12:27:34
+#+DATE: 2018-05-12 10:22:25
 #+SOURCE: github.com/kanripo/KR6a0062 master f38c2e16                
 
 No. 62 [No. 26(121), Nos. 61, 63 No. 99(1212),

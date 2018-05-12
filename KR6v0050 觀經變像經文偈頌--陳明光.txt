@@ -1,5 +1,5 @@
 #+TITLE: 觀經變像經文偈頌--陳明光
-#+DATE: 2016-06-11 12:31:00
+#+DATE: 2018-05-12 10:25:49
 #+SOURCE: github.com/kanripo/KR6v0050 master af0f7790                
 
 

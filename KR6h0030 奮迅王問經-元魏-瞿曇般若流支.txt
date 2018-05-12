@@ -1,5 +1,5 @@
 #+TITLE: 奮迅王問經-元魏-瞿曇般若流支
-#+DATE: 2016-06-11 12:28:33
+#+DATE: 2018-05-12 10:23:24
 #+SOURCE: github.com/kanripo/KR6h0030 master a821f88c                
 
 No. 421 [No. 420]

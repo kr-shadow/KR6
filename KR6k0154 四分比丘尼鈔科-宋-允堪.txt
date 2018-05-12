@@ -1,5 +1,5 @@
 #+TITLE: 四分比丘尼鈔科-宋-允堪
-#+DATE: 2016-06-11 12:29:24
+#+DATE: 2018-05-12 10:24:12
 #+SOURCE: github.com/kanripo/KR6k0154 master 4f217d74                
 No. 723
 釋四分律比丘尼鈔科文

@@ -1,5 +1,5 @@
 #+TITLE: 關中創立戒壇圖經-唐-道宣
-#+DATE: 2016-06-11 12:29:28
+#+DATE: 2018-05-12 10:24:16
 #+SOURCE: github.com/kanripo/KR6k0178 master 3ee98ccf                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 金剛頂瑜伽他化自在天理趣會普賢修行念誦儀軌-唐-不空
-#+DATE: 2016-06-11 12:29:01
+#+DATE: 2018-05-12 10:23:51
 #+SOURCE: github.com/kanripo/KR6j0337 master 1eaa5ae7                
 
 

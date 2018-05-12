@@ -1,5 +1,5 @@
 #+TITLE: 佛說出生無量門持經-東晉-佛陀跋陀羅
-#+DATE: 2016-06-11 12:28:58
+#+DATE: 2018-05-12 10:23:48
 #+SOURCE: github.com/kanripo/KR6j0205 master 39d6cb43                
 
 

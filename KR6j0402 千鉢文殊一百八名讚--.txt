@@ -1,5 +1,5 @@
 #+TITLE: 千鉢文殊一百八名讚--
-#+DATE: 2016-06-11 12:29:02
+#+DATE: 2018-05-12 10:23:52
 #+SOURCE: github.com/kanripo/KR6j0402 master 1f90e4b1                
 
 No. 1177B

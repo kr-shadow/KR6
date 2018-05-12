@@ -1,5 +1,5 @@
 #+TITLE: 金剛經略談-明-觀衡
-#+DATE: 2016-06-11 12:27:49
+#+DATE: 2018-05-12 10:22:39
 #+SOURCE: github.com/kanripo/KR6c0069 master 304680c8                
 No. 481
 金剛般若經略談

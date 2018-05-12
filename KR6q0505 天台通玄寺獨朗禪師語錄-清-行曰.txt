@@ -1,5 +1,5 @@
 #+TITLE: 天台通玄寺獨朗禪師語錄-清-行曰
-#+DATE: 2016-06-11 12:30:30
+#+DATE: 2018-05-12 10:25:21
 #+SOURCE: github.com/kanripo/KR6q0505 master fb677c05                
 
 * 獨朗禪師語錄序

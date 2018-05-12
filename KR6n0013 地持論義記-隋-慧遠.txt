@@ -1,5 +1,5 @@
 #+TITLE: 地持論義記-隋-慧遠
-#+DATE: 2016-06-11 12:29:42
+#+DATE: 2018-05-12 10:24:28
 #+SOURCE: github.com/kanripo/KR6n0013 master cf1de872                
 
 

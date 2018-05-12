@@ -1,5 +1,5 @@
 #+TITLE: 佛說四人出現世間經-劉宋-求那跋陀羅
-#+DATE: 2016-06-11 12:27:37
+#+DATE: 2018-05-12 10:22:27
 #+SOURCE: github.com/kanripo/KR6a0128 master e2bdb48c                
 
 No. 127 [No. 125(26.5)]

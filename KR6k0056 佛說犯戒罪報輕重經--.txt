@@ -1,5 +1,5 @@
 #+TITLE: 佛說犯戒罪報輕重經--
-#+DATE: 2016-06-11 12:29:20
+#+DATE: 2018-05-12 10:24:08
 #+SOURCE: github.com/kanripo/KR6k0056 master 49f1179c                
 
 《佛說犯戒罪報輕重經》

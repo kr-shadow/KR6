@@ -1,5 +1,5 @@
 #+TITLE: 八曼荼羅經--失譯
-#+DATE: 2016-06-11 12:29:02
+#+DATE: 2018-05-12 10:23:51
 #+SOURCE: github.com/kanripo/KR6j0392 master d0f9876c                
 
 No. 1168B [No. 1167]

@@ -1,5 +1,5 @@
 #+TITLE: 天童山景德寺如淨禪師續語錄-宋-義遠
-#+DATE: 2016-06-11 12:30:07
+#+DATE: 2018-05-12 10:24:53
 #+SOURCE: github.com/kanripo/KR6q0072 master 27d706c8                
 
 No. 2002B

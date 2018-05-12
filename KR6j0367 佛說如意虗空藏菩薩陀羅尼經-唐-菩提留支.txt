@@ -1,5 +1,5 @@
 #+TITLE: 佛說如意虗空藏菩薩陀羅尼經-唐-菩提留支
-#+DATE: 2016-06-11 12:29:02
+#+DATE: 2018-05-12 10:23:51
 #+SOURCE: github.com/kanripo/KR6j0367 master e76a119c                
 No. 192
 佛說如意虗空藏菩薩陀羅尼經

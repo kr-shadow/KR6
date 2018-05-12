@@ -1,5 +1,5 @@
 #+TITLE: 一切流攝守因經-後漢-安世高
-#+DATE: 2016-06-11 12:27:34
+#+DATE: 2018-05-12 10:22:24
 #+SOURCE: github.com/kanripo/KR6a0031 master b1e1bc05                
 
 No. 31 [No. 26(10), No. 125(40.6)]

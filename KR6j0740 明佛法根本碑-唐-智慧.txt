@@ -1,5 +1,5 @@
 #+TITLE: 明佛法根本碑-唐-智慧
-#+DATE: 2016-06-11 12:29:14
+#+DATE: 2018-05-12 10:24:03
 #+SOURCE: github.com/kanripo/KR6j0740 master a28ad8c9                
 
 No. 1954

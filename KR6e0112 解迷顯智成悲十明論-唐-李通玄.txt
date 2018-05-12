@@ -1,5 +1,5 @@
 #+TITLE: 解迷顯智成悲十明論-唐-李通玄
-#+DATE: 2016-06-11 12:28:21
+#+DATE: 2018-05-12 10:23:12
 #+SOURCE: github.com/kanripo/KR6e0112 master 9fb547cb                
 
 

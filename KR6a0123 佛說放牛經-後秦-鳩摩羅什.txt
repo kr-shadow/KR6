@@ -1,5 +1,5 @@
 #+TITLE: 佛說放牛經-後秦-鳩摩羅什
-#+DATE: 2016-06-11 12:27:36
+#+DATE: 2018-05-12 10:22:26
 #+SOURCE: github.com/kanripo/KR6a0123 master 2908a93d                
 
 No. 123 [No. 99(1248), No. 125(49.1),

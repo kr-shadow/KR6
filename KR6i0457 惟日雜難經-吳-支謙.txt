@@ -1,5 +1,5 @@
 #+TITLE: 惟日雜難經-吳-支謙
-#+DATE: 2016-06-11 12:28:50
+#+DATE: 2018-05-12 10:23:39
 #+SOURCE: github.com/kanripo/KR6i0457 master a47b80bf                
 
 No. 760

@@ -1,5 +1,5 @@
 #+TITLE: 大般涅槃經-東晉-法顯
-#+DATE: 2016-06-11 12:27:33
+#+DATE: 2018-05-12 10:22:23
 #+SOURCE: github.com/kanripo/KR6a0007 master e7291c91                
 No. 7 [No. 1(2), Nos. 5, 6]
 《大般涅槃經》卷上

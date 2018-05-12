@@ -1,5 +1,5 @@
 #+TITLE: 佛遺教經論疏節要-宋-淨源
-#+DATE: 2016-06-11 12:28:31
+#+DATE: 2018-05-12 10:23:22
 #+SOURCE: github.com/kanripo/KR6g0045 master 5813c3a9                
 
 No. 1820 [cf. Nos. 389, 1529]

@@ -1,5 +1,5 @@
 #+TITLE: 前世三轉經-西晉-法炬
-#+DATE: 2016-06-11 12:27:39
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0032 master 89ca7c82                
 
 No. 178

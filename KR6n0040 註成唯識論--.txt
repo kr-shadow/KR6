@@ -1,5 +1,5 @@
 #+TITLE: 註成唯識論--
-#+DATE: 2016-06-11 12:29:44
+#+DATE: 2018-05-12 10:24:30
 #+SOURCE: github.com/kanripo/KR6n0040 master cbe57d7a                
 No. 817
 註成唯識論卷第十七

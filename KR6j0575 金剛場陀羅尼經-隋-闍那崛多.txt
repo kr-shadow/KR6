@@ -1,5 +1,5 @@
 #+TITLE: 金剛場陀羅尼經-隋-闍那崛多
-#+DATE: 2016-06-11 12:29:06
+#+DATE: 2018-05-12 10:23:55
 #+SOURCE: github.com/kanripo/KR6j0575 master b119e73f                
 
 

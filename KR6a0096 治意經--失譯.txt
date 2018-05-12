@@ -1,9 +1,9 @@
 #+TITLE: 治意經--失譯
-#+DATE: 2016-06-11 12:27:35
+#+DATE: 2018-05-12 10:22:25
 #+SOURCE: github.com/kanripo/KR6a0096 master 66556b09                
 
 
-No. 96 􂆬
+No. 96 􂌾
 佛說治意經
 
 失譯人名今附西晉錄

@@ -1,5 +1,5 @@
 #+TITLE: 金剛經疏--
-#+DATE: 2016-06-11 12:27:51
+#+DATE: 2018-05-12 10:22:41
 #+SOURCE: github.com/kanripo/KR6c0110 master d34f13a3                
 
 No. 2738 [cf. No. 235]

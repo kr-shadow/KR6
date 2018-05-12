@@ -1,6 +1,6 @@
 #+TITLE: 梁朝傅大士頌金剛經--達照
-#+DATE: 2016-06-11 12:31:02
-#+SOURCE: github.com/kanripo/KR6v0099 master 90423b23                
+#+DATE: 2018-05-12 10:25:50
+#+SOURCE: github.com/kanripo/KR6v0099 master 84ed6bbf                
 
 * 〔錄文七〕
 
@@ -112,7 +112,7 @@
 *** 法會因由分第一
 
 
-【#+BEGIN_VERSE
+【
 「　如來涅槃日，
 　娑羅雙樹間。
 　阿難沒憂海，

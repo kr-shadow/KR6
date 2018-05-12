@@ -1,5 +1,5 @@
 #+TITLE: 新受戒比丘六念五觀法-宋-允堪
-#+DATE: 2016-06-11 12:29:29
+#+DATE: 2018-05-12 10:24:17
 #+SOURCE: github.com/kanripo/KR6k0213 master 3b9a417c                
 No. 1099
 新受戒比丘六念五觀法(并序)

@@ -1,5 +1,5 @@
 #+TITLE: 誡初心學人文-高麗-知訥
-#+DATE: 2016-06-11 12:30:08
+#+DATE: 2018-05-12 10:24:55
 #+SOURCE: github.com/kanripo/KR6q0096 master f28487bf                
 
 No. 2019B

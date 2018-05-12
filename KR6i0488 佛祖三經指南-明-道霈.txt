@@ -1,5 +1,5 @@
 #+TITLE: 佛祖三經指南-明-道霈
-#+DATE: 2016-06-11 12:28:50
+#+DATE: 2018-05-12 10:23:40
 #+SOURCE: github.com/kanripo/KR6i0488 master ded75c73                
 
 * No. 675-A

@@ -1,5 +1,5 @@
 #+TITLE: 道德經順硃-清-德玉
-#+DATE: 2016-06-11 12:30:14
+#+DATE: 2018-05-12 10:25:01
 #+SOURCE: github.com/kanripo/KR6q0227 master 19b7f451                
 
 * 道德經順硃敘

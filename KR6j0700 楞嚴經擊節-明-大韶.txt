@@ -1,5 +1,5 @@
 #+TITLE: 楞嚴經擊節-明-大韶
-#+DATE: 2016-06-11 12:29:11
+#+DATE: 2018-05-12 10:24:00
 #+SOURCE: github.com/kanripo/KR6j0700 master 5510a79a                
 
 * No. 292-A

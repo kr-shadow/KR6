@@ -1,5 +1,5 @@
 #+TITLE: 金剛頂經一字頂輪王儀軌音義-唐-不空
-#+DATE: 2016-06-11 12:28:57
+#+DATE: 2018-05-12 10:23:47
 #+SOURCE: github.com/kanripo/KR6j0135 master 2e3a73ca                
 
 

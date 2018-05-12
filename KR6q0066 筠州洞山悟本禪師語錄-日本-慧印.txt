@@ -1,5 +1,5 @@
 #+TITLE: 筠州洞山悟本禪師語錄-日本-慧印
-#+DATE: 2016-06-11 12:30:06
+#+DATE: 2018-05-12 10:24:53
 #+SOURCE: github.com/kanripo/KR6q0066 master 80edad1a                
 
 No. 1986A

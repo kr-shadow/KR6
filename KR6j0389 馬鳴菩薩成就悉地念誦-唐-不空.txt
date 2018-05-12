@@ -1,5 +1,5 @@
 #+TITLE: 馬鳴菩薩成就悉地念誦-唐-不空
-#+DATE: 2016-06-11 12:29:02
+#+DATE: 2018-05-12 10:23:51
 #+SOURCE: github.com/kanripo/KR6j0389 master 8f995d4a                
 No. 206
 馬鳴菩薩成就悉地念誦一卷

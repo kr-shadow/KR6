@@ -1,5 +1,5 @@
 #+TITLE: 建州弘釋錄-明-元賢
-#+DATE: 2016-06-11 12:30:05
+#+DATE: 2018-05-12 10:24:52
 #+SOURCE: github.com/kanripo/KR6q0044 master 09e17160                
 
 * No. 1606-A

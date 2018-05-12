@@ -1,5 +1,5 @@
 #+TITLE: 法幢遠禪師語錄-清-智遠
-#+DATE: 2016-06-11 12:30:33
+#+DATE: 2018-05-12 10:25:23
 #+SOURCE: github.com/kanripo/KR6q0551 master 32ac80d9                
 
 * 法幢遠禪師語錄序

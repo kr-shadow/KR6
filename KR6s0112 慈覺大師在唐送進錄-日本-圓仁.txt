@@ -1,5 +1,5 @@
 #+TITLE: 慈覺大師在唐送進錄-日本-圓仁
-#+DATE: 2016-06-11 12:30:58
+#+DATE: 2018-05-12 10:25:46
 #+SOURCE: github.com/kanripo/KR6s0112 master 98e4f9a4                
 
 No. 2166

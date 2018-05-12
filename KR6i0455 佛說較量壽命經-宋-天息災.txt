@@ -1,5 +1,5 @@
 #+TITLE: 佛說較量壽命經-宋-天息災
-#+DATE: 2016-06-11 12:28:49
+#+DATE: 2018-05-12 10:23:39
 #+SOURCE: github.com/kanripo/KR6i0455 master 4f8fda70                
 
 No. 759

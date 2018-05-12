@@ -1,5 +1,5 @@
 #+TITLE: 瓊樓吟稿節鈔-清-陶善
-#+DATE: 2016-06-11 12:29:58
+#+DATE: 2018-05-12 10:24:45
 #+SOURCE: github.com/kanripo/KR6p0131 master 0b6e50f3                
 
 * No. 1213-A

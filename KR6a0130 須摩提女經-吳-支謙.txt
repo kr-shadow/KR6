@@ -1,5 +1,5 @@
 #+TITLE: 須摩提女經-吳-支謙
-#+DATE: 2016-06-11 12:27:37
+#+DATE: 2018-05-12 10:22:27
 #+SOURCE: github.com/kanripo/KR6a0130 master 11927a43                
 
 須摩提女經

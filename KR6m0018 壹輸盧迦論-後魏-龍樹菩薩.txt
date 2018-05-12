@@ -1,5 +1,5 @@
 #+TITLE: 壹輸盧迦論-後魏-龍樹菩薩
-#+DATE: 2016-06-11 12:29:39
+#+DATE: 2018-05-12 10:24:25
 #+SOURCE: github.com/kanripo/KR6m0018 master a464ebca                
 
 No. 1573

@@ -1,5 +1,5 @@
 #+TITLE: 顯無邊佛土功德經-唐-玄奘
-#+DATE: 2016-06-11 12:28:17
+#+DATE: 2018-05-12 10:23:07
 #+SOURCE: github.com/kanripo/KR6e0037 master d72cb3a8                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 十地論義疏卷第一．第三-北周-法上
-#+DATE: 2016-06-11 12:28:18
+#+DATE: 2018-05-12 10:23:09
 #+SOURCE: github.com/kanripo/KR6e0062 master 018cba8f                
 
 No. 2799 [cf. No. 1522]

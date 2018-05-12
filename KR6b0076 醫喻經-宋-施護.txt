@@ -1,5 +1,5 @@
 #+TITLE: 醫喻經-宋-施護
-#+DATE: 2016-06-11 12:27:41
+#+DATE: 2018-05-12 10:22:31
 #+SOURCE: github.com/kanripo/KR6b0076 master 003193be                
 
 No. 219

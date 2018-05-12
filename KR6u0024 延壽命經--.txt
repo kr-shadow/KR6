@@ -1,5 +1,5 @@
 #+TITLE: 延壽命經--
-#+DATE: 2016-06-11 12:30:59
+#+DATE: 2018-05-12 10:25:47
 #+SOURCE: github.com/kanripo/KR6u0024 master d179a5bb                
 
 

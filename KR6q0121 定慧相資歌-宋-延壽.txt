@@ -1,5 +1,5 @@
 #+TITLE: 定慧相資歌-宋-延壽
-#+DATE: 2016-06-11 12:30:09
+#+DATE: 2018-05-12 10:24:55
 #+SOURCE: github.com/kanripo/KR6q0121 master 936892bd                
 No. 1229
 定慧相資歌

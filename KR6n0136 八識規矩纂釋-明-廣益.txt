@@ -1,5 +1,5 @@
 #+TITLE: 八識規矩纂釋-明-廣益
-#+DATE: 2016-06-11 12:29:49
+#+DATE: 2018-05-12 10:24:36
 #+SOURCE: github.com/kanripo/KR6n0136 master 7eaf0448                
 
 * No. 894-A

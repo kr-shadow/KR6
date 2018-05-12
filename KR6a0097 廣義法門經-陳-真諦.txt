@@ -1,5 +1,5 @@
 #+TITLE: 廣義法門經-陳-真諦
-#+DATE: 2016-06-11 12:27:35
+#+DATE: 2018-05-12 10:22:25
 #+SOURCE: github.com/kanripo/KR6a0097 master c39daabe                
 
 

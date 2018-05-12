@@ -1,5 +1,5 @@
 #+TITLE: 金剛經正眼-明-大韻
-#+DATE: 2016-06-11 12:27:49
+#+DATE: 2018-05-12 10:22:39
 #+SOURCE: github.com/kanripo/KR6c0065 master 16ef1266                
 
 * No. 477-A

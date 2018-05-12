@@ -1,5 +1,5 @@
 #+TITLE: 註華嚴同教一乘策-宋-師會
-#+DATE: 2016-06-11 12:28:22
+#+DATE: 2018-05-12 10:23:13
 #+SOURCE: github.com/kanripo/KR6e0135 master d61fa710                
 No. 1016
 註華嚴同教一乘策一卷(并序)

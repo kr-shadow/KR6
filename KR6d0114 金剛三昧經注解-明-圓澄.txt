@@ -1,5 +1,5 @@
 #+TITLE: 金剛三昧經注解-明-圓澄
-#+DATE: 2016-06-11 12:28:05
+#+DATE: 2018-05-12 10:22:54
 #+SOURCE: github.com/kanripo/KR6d0114 master c92ac4bd                
 
 * No. 651-A

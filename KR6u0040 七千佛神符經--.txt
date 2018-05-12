@@ -1,5 +1,5 @@
 #+TITLE: 七千佛神符經--
-#+DATE: 2016-06-11 12:30:59
+#+DATE: 2018-05-12 10:25:47
 #+SOURCE: github.com/kanripo/KR6u0040 master d82adc66                
 
 No. 2904

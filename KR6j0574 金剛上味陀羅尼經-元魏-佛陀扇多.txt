@@ -1,5 +1,5 @@
 #+TITLE: 金剛上味陀羅尼經-元魏-佛陀扇多
-#+DATE: 2016-06-11 12:29:06
+#+DATE: 2018-05-12 10:23:55
 #+SOURCE: github.com/kanripo/KR6j0574 master a703f42a                
 
 

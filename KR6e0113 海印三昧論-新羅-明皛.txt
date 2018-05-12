@@ -1,5 +1,5 @@
 #+TITLE: 海印三昧論-新羅-明皛
-#+DATE: 2016-06-11 12:28:21
+#+DATE: 2018-05-12 10:23:12
 #+SOURCE: github.com/kanripo/KR6e0113 master a0c6a469                
 
 

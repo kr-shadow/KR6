@@ -1,5 +1,5 @@
 #+TITLE: 佛說聖法印經-西晉-竺法護
-#+DATE: 2016-06-11 12:27:36
+#+DATE: 2018-05-12 10:22:26
 #+SOURCE: github.com/kanripo/KR6a0103 master e7a7fb3d                
 
 

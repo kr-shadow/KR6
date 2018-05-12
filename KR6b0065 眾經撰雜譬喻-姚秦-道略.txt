@@ -1,5 +1,5 @@
 #+TITLE: 眾經撰雜譬喻-姚秦-道略
-#+DATE: 2016-06-11 12:27:40
+#+DATE: 2018-05-12 10:22:31
 #+SOURCE: github.com/kanripo/KR6b0065 master 8048741c                
 
 No. 208

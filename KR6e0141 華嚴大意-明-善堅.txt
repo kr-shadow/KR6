@@ -1,5 +1,5 @@
 #+TITLE: 華嚴大意-明-善堅
-#+DATE: 2016-06-11 12:28:22
+#+DATE: 2018-05-12 10:23:13
 #+SOURCE: github.com/kanripo/KR6e0141 master 01d95198                
 No. 1023
 華嚴大意

@@ -1,5 +1,5 @@
 #+TITLE: 大阿羅漢難提蜜多羅所說法住記-唐-玄奘
-#+DATE: 2016-06-11 12:30:36
+#+DATE: 2018-05-12 10:25:26
 #+SOURCE: github.com/kanripo/KR6r0005 master 9885aa97                
 
 

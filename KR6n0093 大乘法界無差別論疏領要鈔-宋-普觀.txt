@@ -1,5 +1,5 @@
 #+TITLE: 大乘法界無差別論疏領要鈔-宋-普觀
-#+DATE: 2016-06-11 12:29:48
+#+DATE: 2018-05-12 10:24:34
 #+SOURCE: github.com/kanripo/KR6n0093 master ae3c8dc8                
 No. 787
 法界無差別論疏領要鈔卷上

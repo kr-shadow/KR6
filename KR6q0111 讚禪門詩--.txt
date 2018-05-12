@@ -1,5 +1,5 @@
 #+TITLE: 讚禪門詩--
-#+DATE: 2016-06-11 12:30:09
+#+DATE: 2018-05-12 10:24:55
 #+SOURCE: github.com/kanripo/KR6q0111 master 1ae6c761                
 
 

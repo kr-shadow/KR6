@@ -1,5 +1,5 @@
 #+TITLE: 百丈懷海禪師廣錄（四家語錄卷三）--
-#+DATE: 2016-06-11 12:30:18
+#+DATE: 2018-05-12 10:25:05
 #+SOURCE: github.com/kanripo/KR6q0269 master 694c675a                
 No. 1323
 百丈廣錄卷三

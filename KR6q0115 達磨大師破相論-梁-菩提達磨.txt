@@ -1,5 +1,5 @@
 #+TITLE: 達磨大師破相論-梁-菩提達磨
-#+DATE: 2016-06-11 12:30:09
+#+DATE: 2018-05-12 10:24:55
 #+SOURCE: github.com/kanripo/KR6q0115 master 3dacb22e                
 No. 1220
 達磨大師破相論

@@ -1,5 +1,5 @@
 #+TITLE: 西方要決科註--
-#+DATE: 2016-06-11 12:29:57
+#+DATE: 2018-05-12 10:24:43
 #+SOURCE: github.com/kanripo/KR6p0086 master f9749d3c                
 No. 1145
 西方要決科註卷上

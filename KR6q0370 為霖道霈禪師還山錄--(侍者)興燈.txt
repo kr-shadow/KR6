@@ -1,5 +1,5 @@
 #+TITLE: 為霖道霈禪師還山錄--(侍者)興燈
-#+DATE: 2016-06-11 12:30:22
+#+DATE: 2018-05-12 10:25:11
 #+SOURCE: github.com/kanripo/KR6q0370 master c6b79da8                
 
 * No. 1440-A

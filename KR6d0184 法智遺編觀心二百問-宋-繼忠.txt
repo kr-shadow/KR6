@@ -1,5 +1,5 @@
 #+TITLE: 法智遺編觀心二百問-宋-繼忠
-#+DATE: 2016-06-11 12:28:08
+#+DATE: 2018-05-12 10:22:57
 #+SOURCE: github.com/kanripo/KR6d0184 master 41f89903                
 
 

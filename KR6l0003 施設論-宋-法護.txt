@@ -1,5 +1,5 @@
 #+TITLE: 施設論-宋-法護
-#+DATE: 2016-06-11 12:29:32
+#+DATE: 2018-05-12 10:24:19
 #+SOURCE: github.com/kanripo/KR6l0003 master be09bdba                
 
 

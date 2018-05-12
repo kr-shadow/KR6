@@ -1,5 +1,5 @@
 #+TITLE: 大悲啟請--
-#+DATE: 2016-06-11 12:30:53
+#+DATE: 2018-05-12 10:25:42
 #+SOURCE: github.com/kanripo/KR6s0035 master 6c6e579c                
 
 

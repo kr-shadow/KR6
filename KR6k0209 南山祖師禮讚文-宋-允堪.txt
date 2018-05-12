@@ -1,5 +1,5 @@
 #+TITLE: 南山祖師禮讚文-宋-允堪
-#+DATE: 2016-06-11 12:29:29
+#+DATE: 2018-05-12 10:24:17
 #+SOURCE: github.com/kanripo/KR6k0209 master 2b0ca591                
 No. 1506
 南山祖師禮讚文

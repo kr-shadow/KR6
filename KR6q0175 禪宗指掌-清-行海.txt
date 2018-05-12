@@ -1,5 +1,5 @@
 #+TITLE: 禪宗指掌-清-行海
-#+DATE: 2016-06-11 12:30:11
+#+DATE: 2018-05-12 10:24:58
 #+SOURCE: github.com/kanripo/KR6q0175 master 5a02d540                
 No. 1289
 禪宗指掌

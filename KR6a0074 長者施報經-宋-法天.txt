@@ -1,5 +1,5 @@
 #+TITLE: 長者施報經-宋-法天
-#+DATE: 2016-06-11 12:27:35
+#+DATE: 2018-05-12 10:22:25
 #+SOURCE: github.com/kanripo/KR6a0074 master 86c7b1c7                
 
 

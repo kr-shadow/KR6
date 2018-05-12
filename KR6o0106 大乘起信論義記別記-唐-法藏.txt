@@ -1,5 +1,5 @@
 #+TITLE: 大乘起信論義記別記-唐-法藏
-#+DATE: 2016-06-11 12:29:52
+#+DATE: 2018-05-12 10:24:39
 #+SOURCE: github.com/kanripo/KR6o0106 master 77a179df                
 
 

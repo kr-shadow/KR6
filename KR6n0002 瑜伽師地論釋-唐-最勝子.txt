@@ -1,5 +1,5 @@
 #+TITLE: 瑜伽師地論釋-唐-最勝子
-#+DATE: 2016-06-11 12:29:40
+#+DATE: 2018-05-12 10:24:27
 #+SOURCE: github.com/kanripo/KR6n0002 master ece20cda                
 
 No. 1580 [cf. No. 1579]

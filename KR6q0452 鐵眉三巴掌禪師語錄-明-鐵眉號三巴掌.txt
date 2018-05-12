@@ -1,5 +1,5 @@
 #+TITLE: 鐵眉三巴掌禪師語錄-明-鐵眉號三巴掌
-#+DATE: 2016-06-11 12:30:28
+#+DATE: 2018-05-12 10:25:18
 #+SOURCE: github.com/kanripo/KR6q0452 master bd3e39b7                
 鐵眉三巴掌禪師語錄
 

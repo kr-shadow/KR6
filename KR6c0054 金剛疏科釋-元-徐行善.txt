@@ -1,5 +1,5 @@
 #+TITLE: 金剛疏科釋-元-徐行善
-#+DATE: 2016-06-11 12:27:49
+#+DATE: 2018-05-12 10:22:39
 #+SOURCE: github.com/kanripo/KR6c0054 master dd436bea                
 
 * No. 466-A

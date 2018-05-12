@@ -1,5 +1,5 @@
 #+TITLE: 觀所緣緣論釋記-明-明昱
-#+DATE: 2016-06-11 12:29:48
+#+DATE: 2018-05-12 10:24:35
 #+SOURCE: github.com/kanripo/KR6n0116 master 1926bfe7                
 
 * No. 832-A

@@ -1,5 +1,5 @@
 #+TITLE: 八識規矩通說-明-德清
-#+DATE: 2016-06-11 12:29:49
+#+DATE: 2018-05-12 10:24:36
 #+SOURCE: github.com/kanripo/KR6n0135 master 27ebacd5                
 No. 893
 八識規矩通說

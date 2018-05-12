@@ -1,5 +1,5 @@
 #+TITLE: 四明十義書-宋-知禮
-#+DATE: 2016-06-11 12:28:08
+#+DATE: 2018-05-12 10:22:57
 #+SOURCE: github.com/kanripo/KR6d0185 master a1144bf7                
 
 No. 1936

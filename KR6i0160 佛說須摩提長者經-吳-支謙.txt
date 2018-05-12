@@ -1,5 +1,5 @@
 #+TITLE: 佛說須摩提長者經-吳-支謙
-#+DATE: 2016-06-11 12:28:39
+#+DATE: 2018-05-12 10:23:29
 #+SOURCE: github.com/kanripo/KR6i0160 master 700a5ad3                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 阿閦佛國經-後漢-支婁迦讖
-#+DATE: 2016-06-11 12:28:24
+#+DATE: 2018-05-12 10:23:15
 #+SOURCE: github.com/kanripo/KR6f0004 master 214ece34                
 
 

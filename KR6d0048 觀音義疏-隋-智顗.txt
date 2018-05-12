@@ -1,5 +1,5 @@
 #+TITLE: 觀音義疏-隋-智顗
-#+DATE: 2016-06-11 12:27:59
+#+DATE: 2018-05-12 10:22:49
 #+SOURCE: github.com/kanripo/KR6d0048 master d0a5d0b8                
 
 

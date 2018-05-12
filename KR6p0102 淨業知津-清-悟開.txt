@@ -1,5 +1,5 @@
 #+TITLE: 淨業知津-清-悟開
-#+DATE: 2016-06-11 12:29:57
+#+DATE: 2018-05-12 10:24:44
 #+SOURCE: github.com/kanripo/KR6p0102 master b456f2fa                
 No. 1183
 淨業知津

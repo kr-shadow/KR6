@@ -1,5 +1,5 @@
 #+TITLE: 佛說鴦崛髻經-西晉-法炬
-#+DATE: 2016-06-11 12:27:36
+#+DATE: 2018-05-12 10:22:26
 #+SOURCE: github.com/kanripo/KR6a0119 master 8a112b4b                
 
 

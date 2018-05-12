@@ -1,5 +1,5 @@
 #+TITLE: 海八德經-後秦-鳩摩羅什
-#+DATE: 2016-06-11 12:27:34
+#+DATE: 2018-05-12 10:22:24
 #+SOURCE: github.com/kanripo/KR6a0035 master d6b7c573                
 
 No. 35 [No. 26(37), Nos. 33, 34]

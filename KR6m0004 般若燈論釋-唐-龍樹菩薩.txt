@@ -1,5 +1,5 @@
 #+TITLE: 般若燈論釋-唐-龍樹菩薩
-#+DATE: 2016-06-11 12:29:38
+#+DATE: 2018-05-12 10:24:24
 #+SOURCE: github.com/kanripo/KR6m0004 master 6edec105                
 
 No. 1566 [cf. Nos. 1564, 1565, 1567]

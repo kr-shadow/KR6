@@ -1,5 +1,5 @@
 #+TITLE: 大乘法界無差別論疏-唐-法藏
-#+DATE: 2016-06-11 12:29:48
+#+DATE: 2018-05-12 10:24:34
 #+SOURCE: github.com/kanripo/KR6n0091 master 670bbd64                
 
 

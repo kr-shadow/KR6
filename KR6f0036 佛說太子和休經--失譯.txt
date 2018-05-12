@@ -1,5 +1,5 @@
 #+TITLE: 佛說太子和休經--失譯
-#+DATE: 2016-06-11 12:28:25
+#+DATE: 2018-05-12 10:23:16
 #+SOURCE: github.com/kanripo/KR6f0036 master a1fe9c3d                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 叢林兩序須知-明-通容
-#+DATE: 2016-06-11 12:30:10
+#+DATE: 2018-05-12 10:24:56
 #+SOURCE: github.com/kanripo/KR6q0142 master 5080a316                
 
 

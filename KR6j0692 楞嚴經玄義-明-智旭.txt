@@ -1,5 +1,5 @@
 #+TITLE: 楞嚴經玄義-明-智旭
-#+DATE: 2016-06-11 12:29:10
+#+DATE: 2018-05-12 10:23:59
 #+SOURCE: github.com/kanripo/KR6j0692 master c0cff13e                
 
 * No. 284-A

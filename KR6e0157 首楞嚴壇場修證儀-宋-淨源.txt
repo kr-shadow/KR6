@@ -1,5 +1,5 @@
 #+TITLE: 首楞嚴壇場修證儀-宋-淨源
-#+DATE: 2016-06-11 12:28:23
+#+DATE: 2018-05-12 10:23:14
 #+SOURCE: github.com/kanripo/KR6e0157 master 92cd3561                
 No. 1477
 首楞嚴壇場修證儀

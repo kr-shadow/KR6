@@ -1,5 +1,5 @@
 #+TITLE: 舍利弗摩訶目連遊四衢經-後漢-康孟詳
-#+DATE: 2016-06-11 12:27:37
+#+DATE: 2018-05-12 10:22:28
 #+SOURCE: github.com/kanripo/KR6a0140 master b4087767                
 
 

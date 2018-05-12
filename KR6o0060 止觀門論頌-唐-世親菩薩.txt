@@ -1,5 +1,5 @@
 #+TITLE: 止觀門論頌-唐-世親菩薩
-#+DATE: 2016-06-11 12:29:51
+#+DATE: 2018-05-12 10:24:37
 #+SOURCE: github.com/kanripo/KR6o0060 master f30cb7dc                
 
 

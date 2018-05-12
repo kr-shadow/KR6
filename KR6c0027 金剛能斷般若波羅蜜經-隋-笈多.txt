@@ -1,5 +1,5 @@
 #+TITLE: 金剛能斷般若波羅蜜經-隋-笈多
-#+DATE: 2016-06-11 12:27:48
+#+DATE: 2018-05-12 10:22:38
 #+SOURCE: github.com/kanripo/KR6c0027 master 653de3e9                
 
 No. 238 [Nos. 220(9), 235-237, 239]

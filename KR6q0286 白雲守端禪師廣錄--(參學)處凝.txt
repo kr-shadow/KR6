@@ -1,5 +1,5 @@
 #+TITLE: 白雲守端禪師廣錄--(參學)處凝
-#+DATE: 2016-06-11 12:30:19
+#+DATE: 2018-05-12 10:25:05
 #+SOURCE: github.com/kanripo/KR6q0286 master a528f4f9                
 
 * No. 1352-A

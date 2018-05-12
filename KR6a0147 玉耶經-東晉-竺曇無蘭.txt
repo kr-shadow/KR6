@@ -1,5 +1,5 @@
 #+TITLE: 玉耶經-東晉-竺曇無蘭
-#+DATE: 2016-06-11 12:27:37
+#+DATE: 2018-05-12 10:22:28
 #+SOURCE: github.com/kanripo/KR6a0147 master 90cee24c                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 大方廣總持寶光明經-宋-法天
-#+DATE: 2016-06-11 12:28:17
+#+DATE: 2018-05-12 10:23:08
 #+SOURCE: github.com/kanripo/KR6e0048 master f9df5851                
 
 No. 299

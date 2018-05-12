@@ -1,5 +1,5 @@
 #+TITLE: 大聖歡喜雙身毘那夜迦天形像品儀軌-唐-憬瑟
-#+DATE: 2016-06-11 12:29:04
+#+DATE: 2018-05-12 10:23:54
 #+SOURCE: github.com/kanripo/KR6j0505 master 1d345b04                
 
 No. 1274

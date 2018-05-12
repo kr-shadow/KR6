@@ -1,5 +1,5 @@
 #+TITLE: 天真毒峰善禪師要語-明-本善
-#+DATE: 2016-06-11 12:30:12
+#+DATE: 2018-05-12 10:24:59
 #+SOURCE: github.com/kanripo/KR6q0194 master f0d95c97                
 天真毒峰善禪師要語
 參學門人悟深編集

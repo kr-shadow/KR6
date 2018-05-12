@@ -1,5 +1,5 @@
 #+TITLE: 斗南暐禪師語錄-清-暐
-#+DATE: 2016-06-11 12:30:35
+#+DATE: 2018-05-12 10:25:24
 #+SOURCE: github.com/kanripo/KR6q0596 master 32cea383                
 
 * 斗南暐禪師語錄序

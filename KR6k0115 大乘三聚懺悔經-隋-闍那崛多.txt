@@ -1,5 +1,5 @@
 #+TITLE: 大乘三聚懺悔經-隋-闍那崛多
-#+DATE: 2016-06-11 12:29:22
+#+DATE: 2018-05-12 10:24:10
 #+SOURCE: github.com/kanripo/KR6k0115 master b556ae70                
 
 

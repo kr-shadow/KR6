@@ -1,5 +1,5 @@
 #+TITLE: 無上玉皇心印經--杜順法師
-#+DATE: 2016-06-11 12:30:56
+#+DATE: 2018-05-12 10:25:44
 #+SOURCE: github.com/kanripo/KR6s0077 master aad46ef6                
 
 無上玉皇心印經

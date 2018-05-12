@@ -1,5 +1,5 @@
 #+TITLE: 往生禮讚偈-唐-善導
-#+DATE: 2016-06-11 12:29:57
+#+DATE: 2018-05-12 10:24:43
 #+SOURCE: github.com/kanripo/KR6p0075 master 0662599c                
 
 

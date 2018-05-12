@@ -1,5 +1,5 @@
 #+TITLE: 博山粟如瀚禪師語錄-清-弘瀚
-#+DATE: 2016-06-11 12:30:35
+#+DATE: 2018-05-12 10:25:24
 #+SOURCE: github.com/kanripo/KR6q0597 master 02430372                
 
 * 粟如大師像

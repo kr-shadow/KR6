@@ -1,5 +1,5 @@
 #+TITLE: 六十頌如理論-宋-龍樹菩薩
-#+DATE: 2016-06-11 12:29:39
+#+DATE: 2018-05-12 10:24:25
 #+SOURCE: github.com/kanripo/KR6m0020 master 4af7677d                
 
 

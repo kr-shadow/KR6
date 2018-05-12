@@ -1,5 +1,5 @@
 #+TITLE: 佛說遍照般若波羅蜜經-宋-施護
-#+DATE: 2016-06-11 12:27:51
+#+DATE: 2018-05-12 10:22:41
 #+SOURCE: github.com/kanripo/KR6c0119 master a31db83a                
 
 No. 242 [Nos. 240, 241, 243, 244]

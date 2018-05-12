@@ -1,5 +1,5 @@
 #+TITLE: 藥師如來觀行儀軌法-唐-金剛智
-#+DATE: 2016-06-11 12:28:56
+#+DATE: 2018-05-12 10:23:46
 #+SOURCE: github.com/kanripo/KR6j0093 master e8069744                
 
 

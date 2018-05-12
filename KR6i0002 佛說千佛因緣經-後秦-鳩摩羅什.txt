@@ -1,5 +1,5 @@
 #+TITLE: 佛說千佛因緣經-後秦-鳩摩羅什
-#+DATE: 2016-06-11 12:28:33
+#+DATE: 2018-05-12 10:23:24
 #+SOURCE: github.com/kanripo/KR6i0002 master ef85732b                
 
 No. 426

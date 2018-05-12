@@ -1,5 +1,5 @@
 #+TITLE: 涅槃論-元魏-婆藪槃豆
-#+DATE: 2016-06-11 12:28:31
+#+DATE: 2018-05-12 10:23:22
 #+SOURCE: github.com/kanripo/KR6g0051 master 51df311a                
 
 

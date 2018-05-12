@@ -1,5 +1,5 @@
 #+TITLE: 佛說大輪金剛總持陀羅尼經--失譯
-#+DATE: 2016-06-11 12:29:03
+#+DATE: 2018-05-12 10:23:53
 #+SOURCE: github.com/kanripo/KR6j0458 master 65be68a9                
 
 

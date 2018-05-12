@@ -1,5 +1,5 @@
 #+TITLE: 武林西湖高僧事略-宋-元敬
-#+DATE: 2016-06-11 12:30:40
+#+DATE: 2018-05-12 10:25:29
 #+SOURCE: github.com/kanripo/KR6r0064 master 4f4d577e                
 
 * No. 1526-A

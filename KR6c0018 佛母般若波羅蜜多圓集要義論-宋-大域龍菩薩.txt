@@ -1,5 +1,5 @@
 #+TITLE: 佛母般若波羅蜜多圓集要義論-宋-大域龍菩薩
-#+DATE: 2016-06-11 12:27:48
+#+DATE: 2018-05-12 10:22:38
 #+SOURCE: github.com/kanripo/KR6c0018 master 95df1bce                
 
 

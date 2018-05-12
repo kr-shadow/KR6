@@ -1,5 +1,5 @@
 #+TITLE: 傳戒正範-清-讀體
-#+DATE: 2016-06-11 12:29:30
+#+DATE: 2018-05-12 10:24:17
 #+SOURCE: github.com/kanripo/KR6k0226 master 6e57d60f                
 
 * No. 1128-A

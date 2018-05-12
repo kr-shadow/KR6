@@ -1,5 +1,5 @@
 #+TITLE: 仁王般若陀羅尼釋-唐-不空
-#+DATE: 2016-06-11 12:28:58
+#+DATE: 2018-05-12 10:23:48
 #+SOURCE: github.com/kanripo/KR6j0185 master 20fe8389                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 解夏經-宋-法賢
-#+DATE: 2016-06-11 12:27:34
+#+DATE: 2018-05-12 10:22:25
 #+SOURCE: github.com/kanripo/KR6a0063 master 5d3d03ef                
 
 No. 63 [No. 26(121), Nos. 61, 62, No. 99(1212),

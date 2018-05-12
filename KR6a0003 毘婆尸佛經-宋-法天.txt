@@ -1,5 +1,5 @@
 #+TITLE: 毘婆尸佛經-宋-法天
-#+DATE: 2016-06-11 12:27:33
+#+DATE: 2018-05-12 10:22:23
 #+SOURCE: github.com/kanripo/KR6a0003 master 6b86979b                
 
 

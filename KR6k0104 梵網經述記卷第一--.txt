@@ -1,5 +1,5 @@
 #+TITLE: 梵網經述記卷第一--
-#+DATE: 2016-06-11 12:29:22
+#+DATE: 2018-05-12 10:24:10
 #+SOURCE: github.com/kanripo/KR6k0104 master 93257be0                
 
 

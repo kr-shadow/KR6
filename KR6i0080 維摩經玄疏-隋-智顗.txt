@@ -1,5 +1,5 @@
 #+TITLE: 維摩經玄疏-隋-智顗
-#+DATE: 2016-06-11 12:28:36
+#+DATE: 2018-05-12 10:23:27
 #+SOURCE: github.com/kanripo/KR6i0080 master a796a153                
 
 No. 1777 [cf. Nos. 475, 1778, 1779]

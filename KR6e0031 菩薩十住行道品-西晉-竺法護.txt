@@ -1,5 +1,5 @@
 #+TITLE: 菩薩十住行道品-西晉-竺法護
-#+DATE: 2016-06-11 12:28:16
+#+DATE: 2018-05-12 10:23:07
 #+SOURCE: github.com/kanripo/KR6e0031 master 39fdcff3                
 
 No. 283 [Nos. 278(11), 229(15), 281(2), 284]

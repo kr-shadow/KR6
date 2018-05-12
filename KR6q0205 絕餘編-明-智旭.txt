@@ -1,5 +1,5 @@
 #+TITLE: 絕餘編-明-智旭
-#+DATE: 2016-06-11 12:30:13
+#+DATE: 2018-05-12 10:25:00
 #+SOURCE: github.com/kanripo/KR6q0205 master 87aa87bc                
 
 * 絕餘編序

@@ -1,5 +1,5 @@
 #+TITLE: 清淨法身毘盧遮那心地法門成就一切陀羅尼三種悉地--
-#+DATE: 2016-06-11 12:28:56
+#+DATE: 2018-05-12 10:23:45
 #+SOURCE: github.com/kanripo/KR6j0070 master db5fc433                
 
 

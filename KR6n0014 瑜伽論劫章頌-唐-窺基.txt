@@ -1,5 +1,5 @@
 #+TITLE: 瑜伽論劫章頌-唐-窺基
-#+DATE: 2016-06-11 12:29:42
+#+DATE: 2018-05-12 10:24:28
 #+SOURCE: github.com/kanripo/KR6n0014 master 0834e475                
 No. 794
 劫章頌

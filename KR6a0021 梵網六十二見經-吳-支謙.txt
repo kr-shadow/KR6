@@ -1,5 +1,5 @@
 #+TITLE: 梵網六十二見經-吳-支謙
-#+DATE: 2016-06-11 12:27:33
+#+DATE: 2018-05-12 10:22:24
 #+SOURCE: github.com/kanripo/KR6a0021 master f589c332                
 
 No. 21 [No. 1(21)]

@@ -1,5 +1,5 @@
 #+TITLE: 佛說金色迦那鉢底陀羅尼經-唐-金剛智
-#+DATE: 2016-06-11 12:29:04
+#+DATE: 2018-05-12 10:23:54
 #+SOURCE: github.com/kanripo/KR6j0500 master dfcc93b2                
 
 

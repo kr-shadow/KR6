@@ -1,5 +1,5 @@
 #+TITLE: 法華經指掌疏懸示-清-通理
-#+DATE: 2016-06-11 12:28:04
+#+DATE: 2018-05-12 10:22:53
 #+SOURCE: github.com/kanripo/KR6d0096 master 97dbd384                
 No. 630
 法華指掌疏懸示

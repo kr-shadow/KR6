@@ -1,5 +1,5 @@
 #+TITLE: 牧雲和尚七會語錄-清-通門
-#+DATE: 2016-06-11 12:30:25
+#+DATE: 2018-05-12 10:25:14
 #+SOURCE: github.com/kanripo/KR6q0406 master ad7b5373                
 
 * 牧雲和尚七會餘錄目錄

@@ -1,5 +1,5 @@
 #+TITLE: 佛說摩訶衍寶嚴經--失譯
-#+DATE: 2016-06-11 12:28:25
+#+DATE: 2018-05-12 10:23:16
 #+SOURCE: github.com/kanripo/KR6f0043 master adae6420                
 
 No. 351 [Nos. 310(43), 350, 352]

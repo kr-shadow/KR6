@@ -1,5 +1,5 @@
 #+TITLE: 沙彌十戒威儀錄要-明-智旭
-#+DATE: 2016-06-11 12:29:31
+#+DATE: 2018-05-12 10:24:18
 #+SOURCE: github.com/kanripo/KR6k0242 master ad459d07                
 No. 1121
 沙彌十戒威儀錄要

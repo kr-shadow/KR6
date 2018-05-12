@@ -1,5 +1,5 @@
 #+TITLE: 楞嚴經寶鏡疏科文-清-溥畹
-#+DATE: 2016-06-11 12:29:13
+#+DATE: 2018-05-12 10:24:02
 #+SOURCE: github.com/kanripo/KR6j0722 master 5cd24c39                
 No. 314
 大佛頂首楞嚴經寶鏡疏科

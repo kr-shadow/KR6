@@ -1,5 +1,5 @@
 #+TITLE: 佛說大乘稻芉經--失譯
-#+DATE: 2016-06-11 12:28:48
+#+DATE: 2018-05-12 10:23:38
 #+SOURCE: github.com/kanripo/KR6i0404 master f1d3a29b                
 
 No. 712 [Nos. 708-711]

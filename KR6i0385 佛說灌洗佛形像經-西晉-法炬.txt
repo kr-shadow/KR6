@@ -1,5 +1,5 @@
 #+TITLE: 佛說灌洗佛形像經-西晉-法炬
-#+DATE: 2016-06-11 12:28:48
+#+DATE: 2018-05-12 10:23:37
 #+SOURCE: github.com/kanripo/KR6i0385 master f19aabed                
 
 No. 695 [No. 696]

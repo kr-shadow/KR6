@@ -1,5 +1,5 @@
 #+TITLE: 菩薩總持法--上山大峻
-#+DATE: 2016-06-11 12:31:00
+#+DATE: 2018-05-12 10:25:48
 #+SOURCE: github.com/kanripo/KR6v0030 master 6b8aeb37                
 
 

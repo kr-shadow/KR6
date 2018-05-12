@@ -1,5 +1,5 @@
 #+TITLE: 黃檗山斷際禪師傳心法要-唐-裴休
-#+DATE: 2016-06-11 12:30:07
+#+DATE: 2018-05-12 10:24:54
 #+SOURCE: github.com/kanripo/KR6q0087 master 99e71999                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 十不二門義-唐-道邃
-#+DATE: 2016-06-11 12:28:07
+#+DATE: 2018-05-12 10:22:56
 #+SOURCE: github.com/kanripo/KR6d0159 master 6b58e272                
 No. 925
 十不二門義

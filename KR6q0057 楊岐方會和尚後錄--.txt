@@ -1,5 +1,5 @@
 #+TITLE: 楊岐方會和尚後錄--
-#+DATE: 2016-06-11 12:30:06
+#+DATE: 2018-05-12 10:24:52
 #+SOURCE: github.com/kanripo/KR6q0057 master 9a6e7805                
 
 

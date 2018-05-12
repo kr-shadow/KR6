@@ -1,5 +1,5 @@
 #+TITLE: 鹿母經-西晉-竺法護
-#+DATE: 2016-06-11 12:27:39
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0037 master a7295b44                
 
 No. 182

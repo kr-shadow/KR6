@@ -1,5 +1,5 @@
 #+TITLE: 佛說幻化網大瑜伽教十忿怒明王大明觀想儀軌經-宋-法賢
-#+DATE: 2016-06-11 12:28:55
+#+DATE: 2018-05-12 10:23:45
 #+SOURCE: github.com/kanripo/KR6j0059 master 5bf269ee                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 百丈懷海禪師語錄（四家語錄卷二）--
-#+DATE: 2016-06-11 12:30:18
+#+DATE: 2018-05-12 10:25:05
 #+SOURCE: github.com/kanripo/KR6q0268 master 2f934f63                
 No. 1322
 洪州百丈山大智禪師語錄

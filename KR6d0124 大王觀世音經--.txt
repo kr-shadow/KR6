@@ -1,5 +1,5 @@
 #+TITLE: 大王觀世音經--
-#+DATE: 2016-06-11 12:28:05
+#+DATE: 2018-05-12 10:22:54
 #+SOURCE: github.com/kanripo/KR6d0124 master 1860db3c                
 大王觀世音經一卷
 

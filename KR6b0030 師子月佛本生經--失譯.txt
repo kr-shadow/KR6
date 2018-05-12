@@ -1,5 +1,5 @@
 #+TITLE: 師子月佛本生經--失譯
-#+DATE: 2016-06-11 12:27:39
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0030 master d6fa3107                
 
 No. 176

@@ -1,5 +1,5 @@
 #+TITLE: 因明入正理論直解-明-智旭
-#+DATE: 2016-06-11 12:29:50
+#+DATE: 2018-05-12 10:24:37
 #+SOURCE: github.com/kanripo/KR6o0029 master be7d43ad                
 No. 859
 因明入正理論直解

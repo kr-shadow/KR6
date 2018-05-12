@@ -1,5 +1,5 @@
 #+TITLE: 答四十八問-明-袾宏
-#+DATE: 2016-06-11 12:29:56
+#+DATE: 2018-05-12 10:24:42
 #+SOURCE: github.com/kanripo/KR6p0063 master 4967a323                
 
 * No. 1158-A

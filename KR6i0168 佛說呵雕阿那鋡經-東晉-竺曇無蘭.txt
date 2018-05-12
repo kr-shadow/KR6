@@ -1,5 +1,5 @@
 #+TITLE: 佛說呵雕阿那鋡經-東晉-竺曇無蘭
-#+DATE: 2016-06-11 12:28:39
+#+DATE: 2018-05-12 10:23:30
 #+SOURCE: github.com/kanripo/KR6i0168 master 9193ddde                
 
 

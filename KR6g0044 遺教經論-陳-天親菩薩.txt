@@ -1,5 +1,5 @@
 #+TITLE: 遺教經論-陳-天親菩薩
-#+DATE: 2016-06-11 12:28:31
+#+DATE: 2018-05-12 10:23:22
 #+SOURCE: github.com/kanripo/KR6g0044 master 1c926591                
 
 No. 1529

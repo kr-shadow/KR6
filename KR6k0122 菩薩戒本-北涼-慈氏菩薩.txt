@@ -1,5 +1,5 @@
 #+TITLE: 菩薩戒本-北涼-慈氏菩薩
-#+DATE: 2016-06-11 12:29:22
+#+DATE: 2018-05-12 10:24:10
 #+SOURCE: github.com/kanripo/KR6k0122 master 6bb6e2e1                
 
 No. 1500

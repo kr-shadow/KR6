@@ -1,5 +1,5 @@
 #+TITLE: 華嚴宗章疏并因明錄-日本-圓超
-#+DATE: 2016-06-11 12:30:58
+#+DATE: 2018-05-12 10:25:46
 #+SOURCE: github.com/kanripo/KR6s0125 master d8824607                
 
 

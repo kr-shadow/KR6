@@ -1,5 +1,5 @@
 #+TITLE: 古尊宿語要目錄-日本-道忠
-#+DATE: 2016-06-11 12:30:18
+#+DATE: 2018-05-12 10:25:04
 #+SOURCE: github.com/kanripo/KR6q0262 master 03fcb7cf                
 No. 1316
 福州鼓山寺古尊宿語要全部目錄

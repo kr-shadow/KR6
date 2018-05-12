@@ -1,5 +1,5 @@
 #+TITLE: 撫州曹山本寂禪師語錄-日本-玄契
-#+DATE: 2016-06-11 12:30:07
+#+DATE: 2018-05-12 10:24:53
 #+SOURCE: github.com/kanripo/KR6q0069 master d0bcf7bb                
 
 

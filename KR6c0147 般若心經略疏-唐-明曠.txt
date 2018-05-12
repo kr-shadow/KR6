@@ -1,5 +1,5 @@
 #+TITLE: 般若心經略疏-唐-明曠
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0147 master 2e32f201                
 No. 528
 般若心經疏

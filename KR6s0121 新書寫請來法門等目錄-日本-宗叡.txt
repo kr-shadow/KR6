@@ -1,5 +1,5 @@
 #+TITLE: 新書寫請來法門等目錄-日本-宗叡
-#+DATE: 2016-06-11 12:30:58
+#+DATE: 2018-05-12 10:25:46
 #+SOURCE: github.com/kanripo/KR6s0121 master 95c36ecc                
 
 

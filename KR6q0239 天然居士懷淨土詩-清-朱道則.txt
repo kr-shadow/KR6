@@ -1,5 +1,5 @@
 #+TITLE: 天然居士懷淨土詩-清-朱道則
-#+DATE: 2016-06-11 12:30:15
+#+DATE: 2018-05-12 10:25:02
 #+SOURCE: github.com/kanripo/KR6q0239 master 81c5f69f                
 
 ** 天然居士淨土詩敘

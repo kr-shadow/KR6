@@ -1,5 +1,5 @@
 #+TITLE: 三千有門頌略解-明-真覺
-#+DATE: 2016-06-11 12:28:10
+#+DATE: 2018-05-12 10:22:58
 #+SOURCE: github.com/kanripo/KR6d0230 master ce4e0393                
 No. 954
 三千有門頌略解

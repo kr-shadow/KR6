@@ -1,5 +1,5 @@
 #+TITLE: 觀心論-隋-智顗
-#+DATE: 2016-06-11 12:28:06
+#+DATE: 2018-05-12 10:22:56
 #+SOURCE: github.com/kanripo/KR6d0148 master 94ed97ba                
 
 No. 1920 [cf. No. 1921]

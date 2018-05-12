@@ -1,5 +1,5 @@
 #+TITLE: 佛說須賴經-前涼-支施崙
-#+DATE: 2016-06-11 12:28:25
+#+DATE: 2018-05-12 10:23:16
 #+SOURCE: github.com/kanripo/KR6f0021 master 2f09473e                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 佛說忠心經-東晉-竺曇無蘭
-#+DATE: 2016-06-11 12:28:49
+#+DATE: 2018-05-12 10:23:39
 #+SOURCE: github.com/kanripo/KR6i0437 master 82f8a200                
 
 

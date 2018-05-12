@@ -1,5 +1,5 @@
 #+TITLE: 天則能禪師語錄-清-機能
-#+DATE: 2016-06-11 12:30:32
+#+DATE: 2018-05-12 10:25:22
 #+SOURCE: github.com/kanripo/KR6q0536 master c667ce5f                
 
 ** 天則禪師語錄序

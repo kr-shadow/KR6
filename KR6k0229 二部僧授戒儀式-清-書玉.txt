@@ -1,5 +1,5 @@
 #+TITLE: 二部僧授戒儀式-清-書玉
-#+DATE: 2016-06-11 12:29:30
+#+DATE: 2018-05-12 10:24:17
 #+SOURCE: github.com/kanripo/KR6k0229 master b0820066                
 
 * No. 1134-A

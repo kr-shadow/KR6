@@ -1,5 +1,5 @@
 #+TITLE: 過去世佛分衛經-西晉-竺法護
-#+DATE: 2016-06-11 12:27:39
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0034 master c6e2f777                
 
 No. 180

@@ -1,5 +1,5 @@
 #+TITLE: 闢邪集-明-鍾始聲
-#+DATE: 2016-06-11 12:30:12
+#+DATE: 2018-05-12 10:24:59
 #+SOURCE: github.com/kanripo/KR6q0190 master e397eb90                
 
 * 刻闢邪集序

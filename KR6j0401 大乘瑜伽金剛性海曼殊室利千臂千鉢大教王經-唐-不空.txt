@@ -1,5 +1,5 @@
 #+TITLE: 大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經-唐-不空
-#+DATE: 2016-06-11 12:29:02
+#+DATE: 2018-05-12 10:23:52
 #+SOURCE: github.com/kanripo/KR6j0401 master e5cdbd2a                
 
 

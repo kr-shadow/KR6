@@ -1,5 +1,5 @@
 #+TITLE: 菩薩善戒經-劉宋-求那跋摩
-#+DATE: 2016-06-11 12:29:41
+#+DATE: 2018-05-12 10:24:27
 #+SOURCE: github.com/kanripo/KR6n0005 master ca706c2f                
 
 

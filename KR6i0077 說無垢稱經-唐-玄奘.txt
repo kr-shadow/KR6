@@ -1,5 +1,5 @@
 #+TITLE: 說無垢稱經-唐-玄奘
-#+DATE: 2016-06-11 12:28:36
+#+DATE: 2018-05-12 10:23:26
 #+SOURCE: github.com/kanripo/KR6i0077 master d3a2494d                
 
 No. 476 [Nos. 474, 475]

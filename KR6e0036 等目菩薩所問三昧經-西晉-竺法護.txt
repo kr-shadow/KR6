@@ -1,5 +1,5 @@
 #+TITLE: 等目菩薩所問三昧經-西晉-竺法護
-#+DATE: 2016-06-11 12:28:17
+#+DATE: 2018-05-12 10:23:07
 #+SOURCE: github.com/kanripo/KR6e0036 master bd289286                
 
 No. 288 [No. 279(27)]

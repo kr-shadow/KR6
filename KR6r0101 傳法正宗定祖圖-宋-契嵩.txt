@@ -1,5 +1,5 @@
 #+TITLE: 傳法正宗定祖圖-宋-契嵩
-#+DATE: 2016-06-11 12:30:42
+#+DATE: 2018-05-12 10:25:31
 #+SOURCE: github.com/kanripo/KR6r0101 master dd1230c9                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 註四十二章經-宋-真宗皇帝
-#+DATE: 2016-06-11 12:28:50
+#+DATE: 2018-05-12 10:23:40
 #+SOURCE: github.com/kanripo/KR6i0484 master 06bb1b75                
 
 No. 1794 [cf. No. 784]

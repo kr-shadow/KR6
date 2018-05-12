@@ -1,5 +1,5 @@
 #+TITLE: 瑜伽蓮華部念誦法-唐-不空
-#+DATE: 2016-06-11 12:28:59
+#+DATE: 2018-05-12 10:23:48
 #+SOURCE: github.com/kanripo/KR6j0230 master 628a9b7f                
 
 No. 1032

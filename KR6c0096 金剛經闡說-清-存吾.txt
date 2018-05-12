@@ -1,5 +1,5 @@
 #+TITLE: 金剛經闡說-清-存吾
-#+DATE: 2016-06-11 12:27:50
+#+DATE: 2018-05-12 10:22:40
 #+SOURCE: github.com/kanripo/KR6c0096 master c0164658                
 
 * No. 508-A

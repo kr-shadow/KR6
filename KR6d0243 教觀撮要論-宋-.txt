@@ -1,5 +1,5 @@
 #+TITLE: 教觀撮要論-宋-
-#+DATE: 2016-06-11 12:28:10
+#+DATE: 2018-05-12 10:22:59
 #+SOURCE: github.com/kanripo/KR6d0243 master 05251058                
 
 * No. 967-A

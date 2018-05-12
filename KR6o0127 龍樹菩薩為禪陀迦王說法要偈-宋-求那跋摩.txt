@@ -1,5 +1,5 @@
 #+TITLE: 龍樹菩薩為禪陀迦王說法要偈-宋-求那跋摩
-#+DATE: 2016-06-11 12:29:53
+#+DATE: 2018-05-12 10:24:40
 #+SOURCE: github.com/kanripo/KR6o0127 master ebdec9c4                
 
 No. 1672 [Nos. 1673, 1674]

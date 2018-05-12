@@ -1,6 +1,6 @@
 #+TITLE: 法句經-吳-法救
-#+DATE: 2016-06-11 12:27:40
-#+SOURCE: github.com/kanripo/KR6b0067 master e95f2666                
+#+DATE: 2018-05-12 10:22:31
+#+SOURCE: github.com/kanripo/KR6b0067 master 733eb5d6                
 
 No. 210
 《法句經》卷上
@@ -95,7 +95,7 @@ No. 210
 　脫之不受死。
 　是務是吾作，
 　當作令致是，
-　人為此􂈃擾，
+　人為此􂎕擾，
 　履踐老死憂。
 　知此能自淨，
 　如是見生盡，

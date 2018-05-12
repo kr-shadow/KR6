@@ -1,5 +1,5 @@
 #+TITLE: 阿毘曇甘露味論--尊者瞿沙
-#+DATE: 2016-06-11 12:29:35
+#+DATE: 2018-05-12 10:24:21
 #+SOURCE: github.com/kanripo/KR6l0018 master f9ac8645                
 
 No. 1553

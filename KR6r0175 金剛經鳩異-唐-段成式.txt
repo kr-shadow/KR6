@@ -1,5 +1,5 @@
 #+TITLE: 金剛經鳩異-唐-段成式
-#+DATE: 2016-06-11 12:30:45
+#+DATE: 2018-05-12 10:25:34
 #+SOURCE: github.com/kanripo/KR6r0175 master 4f35ccb0                
 
 

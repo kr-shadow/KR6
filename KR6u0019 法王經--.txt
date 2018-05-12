@@ -1,5 +1,5 @@
 #+TITLE: 法王經--
-#+DATE: 2016-06-11 12:30:59
+#+DATE: 2018-05-12 10:25:47
 #+SOURCE: github.com/kanripo/KR6u0019 master 68f05065                
 
 No. 2883

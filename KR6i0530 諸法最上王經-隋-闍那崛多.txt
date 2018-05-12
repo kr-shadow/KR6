@@ -1,5 +1,5 @@
 #+TITLE: 諸法最上王經-隋-闍那崛多
-#+DATE: 2016-06-11 12:28:51
+#+DATE: 2018-05-12 10:23:41
 #+SOURCE: github.com/kanripo/KR6i0530 master 6fb89f2d                
 
 No. 824 [Nos. 822, 823]

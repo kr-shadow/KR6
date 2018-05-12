@@ -1,5 +1,5 @@
 #+TITLE: 般若波羅蜜多心經-唐-玄奘
-#+DATE: 2016-06-11 12:27:51
+#+DATE: 2018-05-12 10:22:41
 #+SOURCE: github.com/kanripo/KR6c0128 master a977e939                
 
 No. 251 [Nos. 250, 252-255, 257]

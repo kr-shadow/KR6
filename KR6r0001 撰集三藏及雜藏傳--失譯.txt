@@ -1,5 +1,5 @@
 #+TITLE: 撰集三藏及雜藏傳--失譯
-#+DATE: 2016-06-11 12:30:36
+#+DATE: 2018-05-12 10:25:25
 #+SOURCE: github.com/kanripo/KR6r0001 master 963bb8b2                
 
 No. 2026

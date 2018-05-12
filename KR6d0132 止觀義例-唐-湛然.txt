@@ -1,5 +1,5 @@
 #+TITLE: 止觀義例-唐-湛然
-#+DATE: 2016-06-11 12:28:06
+#+DATE: 2018-05-12 10:22:55
 #+SOURCE: github.com/kanripo/KR6d0132 master 250b805a                
 
 No. 1913

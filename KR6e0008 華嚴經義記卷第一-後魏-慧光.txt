@@ -1,5 +1,5 @@
 #+TITLE: 華嚴經義記卷第一-後魏-慧光
-#+DATE: 2016-06-11 12:28:11
+#+DATE: 2018-05-12 10:23:00
 #+SOURCE: github.com/kanripo/KR6e0008 master c2c1a4df                
 
 

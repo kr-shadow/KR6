@@ -1,5 +1,5 @@
 #+TITLE: 法華經精解評林-明-焦竑
-#+DATE: 2016-06-11 12:28:02
+#+DATE: 2018-05-12 10:22:52
 #+SOURCE: github.com/kanripo/KR6d0078 master e1ca3737                
 
 * No. 612-A

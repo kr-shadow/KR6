@@ -1,5 +1,5 @@
 #+TITLE: 七俱胝准提陀羅尼念誦儀軌-唐-不空
-#+DATE: 2016-06-11 12:29:01
+#+DATE: 2018-05-12 10:23:50
 #+SOURCE: github.com/kanripo/KR6j0332 master 9bf80c84                
 No. 191
 七俱胝准提陀羅尼念誦儀軌

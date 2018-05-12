@@ -1,5 +1,5 @@
 #+TITLE: 過去莊嚴劫千佛名經--失譯
-#+DATE: 2016-06-11 12:28:34
+#+DATE: 2018-05-12 10:23:25
 #+SOURCE: github.com/kanripo/KR6i0022 master 98738ae8                
 
 No. 446

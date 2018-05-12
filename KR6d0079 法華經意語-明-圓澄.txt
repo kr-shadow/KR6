@@ -1,5 +1,5 @@
 #+TITLE: 法華經意語-明-圓澄
-#+DATE: 2016-06-11 12:28:02
+#+DATE: 2018-05-12 10:22:52
 #+SOURCE: github.com/kanripo/KR6d0079 master 1e461de8                
 
 * No. 613-A

@@ -1,5 +1,5 @@
 #+TITLE: 梵網經直解事義--
-#+DATE: 2016-06-11 12:29:21
+#+DATE: 2018-05-12 10:24:10
 #+SOURCE: github.com/kanripo/KR6k0101 master 427538d9                
 No. 698
 附直解事義

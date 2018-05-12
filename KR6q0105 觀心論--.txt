@@ -1,5 +1,5 @@
 #+TITLE: 觀心論--
-#+DATE: 2016-06-11 12:30:09
+#+DATE: 2018-05-12 10:24:55
 #+SOURCE: github.com/kanripo/KR6q0105 master bcbfe2b9                
 
 No. 2833

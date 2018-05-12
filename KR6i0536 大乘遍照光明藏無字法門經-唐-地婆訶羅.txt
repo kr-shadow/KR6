@@ -1,5 +1,5 @@
 #+TITLE: 大乘遍照光明藏無字法門經-唐-地婆訶羅
-#+DATE: 2016-06-11 12:28:51
+#+DATE: 2018-05-12 10:23:41
 #+SOURCE: github.com/kanripo/KR6i0536 master 0ccc08dd                
 
 

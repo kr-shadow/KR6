@@ -1,5 +1,5 @@
 #+TITLE: 文陀竭王經-北涼-曇無讖
-#+DATE: 2016-06-11 12:27:34
+#+DATE: 2018-05-12 10:22:24
 #+SOURCE: github.com/kanripo/KR6a0040 master 4d4e0046                
 
 

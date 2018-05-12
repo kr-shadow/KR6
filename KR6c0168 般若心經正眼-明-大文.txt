@@ -1,5 +1,5 @@
 #+TITLE: 般若心經正眼-明-大文
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0168 master 62721de4                
 No. 549
 般若波羅蜜多心經正眼

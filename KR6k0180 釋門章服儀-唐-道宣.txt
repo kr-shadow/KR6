@@ -1,5 +1,5 @@
 #+TITLE: 釋門章服儀-唐-道宣
-#+DATE: 2016-06-11 12:29:28
+#+DATE: 2018-05-12 10:24:16
 #+SOURCE: github.com/kanripo/KR6k0180 master ccd63fe1                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 弟子死復生經-劉宋-沮渠京聲
-#+DATE: 2016-06-11 12:28:51
+#+DATE: 2018-05-12 10:23:41
 #+SOURCE: github.com/kanripo/KR6i0532 master a3492bd7                
 
 

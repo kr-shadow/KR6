@@ -1,5 +1,5 @@
 #+TITLE: 第一義法勝經-元魏-瞿曇般若流支
-#+DATE: 2016-06-11 12:28:51
+#+DATE: 2018-05-12 10:23:41
 #+SOURCE: github.com/kanripo/KR6i0539 master 1f2470f1                
 
 No. 833 [No. 834]

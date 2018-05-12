@@ -1,5 +1,5 @@
 #+TITLE: 勝宗十句義論-唐-慧月
-#+DATE: 2016-06-11 12:30:56
+#+DATE: 2018-05-12 10:25:44
 #+SOURCE: github.com/kanripo/KR6s0073 master 2682d86f                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 四諦經-後漢-安世高
-#+DATE: 2016-06-11 12:27:34
+#+DATE: 2018-05-12 10:22:24
 #+SOURCE: github.com/kanripo/KR6a0032 master d17097f9                
 
 No. 32 [No. 26(31), No. 125(27.1)]

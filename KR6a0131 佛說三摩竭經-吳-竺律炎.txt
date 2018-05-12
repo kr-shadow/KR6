@@ -1,5 +1,5 @@
 #+TITLE: 佛說三摩竭經-吳-竺律炎
-#+DATE: 2016-06-11 12:27:37
+#+DATE: 2018-05-12 10:22:27
 #+SOURCE: github.com/kanripo/KR6a0131 master 49decc8a                
 
 

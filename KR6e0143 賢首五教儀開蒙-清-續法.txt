@@ -1,5 +1,5 @@
 #+TITLE: 賢首五教儀開蒙-清-續法
-#+DATE: 2016-06-11 12:28:23
+#+DATE: 2018-05-12 10:23:13
 #+SOURCE: github.com/kanripo/KR6e0143 master c42bb990                
 
 * No. 1025-A

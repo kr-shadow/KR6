@@ -1,5 +1,5 @@
 #+TITLE: 金光明經-北涼-曇無讖
-#+DATE: 2016-06-11 12:28:43
+#+DATE: 2018-05-12 10:23:33
 #+SOURCE: github.com/kanripo/KR6i0301 master 719ad303                
 
 No. 663 [Nos. 664, 665]

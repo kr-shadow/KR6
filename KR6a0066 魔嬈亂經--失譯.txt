@@ -1,5 +1,5 @@
 #+TITLE: 魔嬈亂經--失譯
-#+DATE: 2016-06-11 12:27:34
+#+DATE: 2018-05-12 10:22:25
 #+SOURCE: github.com/kanripo/KR6a0066 master 75647bc4                
 No. 66 [No. 26(131), No. 67]
 佛說魔嬈亂經

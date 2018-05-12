@@ -1,5 +1,5 @@
 #+TITLE: 金剛頂超勝三界經說文殊五字真言勝相-唐-不空
-#+DATE: 2016-06-11 12:29:02
+#+DATE: 2018-05-12 10:23:52
 #+SOURCE: github.com/kanripo/KR6j0396 master 447bf336                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 楞嚴經秘錄-明-一松
-#+DATE: 2016-06-11 12:29:10
+#+DATE: 2018-05-12 10:23:59
 #+SOURCE: github.com/kanripo/KR6j0691 master 89dfc3f9                
 No. 283
 大佛頂首楞嚴秘錄卷第一

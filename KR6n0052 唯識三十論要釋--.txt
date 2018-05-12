@@ -1,5 +1,5 @@
 #+TITLE: 唯識三十論要釋--
-#+DATE: 2016-06-11 12:29:46
+#+DATE: 2018-05-12 10:24:32
 #+SOURCE: github.com/kanripo/KR6n0052 master 5a530855                
 
 No. 2804 [cf. Nos. 1585, 1586]

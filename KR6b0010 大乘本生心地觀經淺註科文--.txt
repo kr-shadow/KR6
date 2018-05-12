@@ -1,5 +1,5 @@
 #+TITLE: 大乘本生心地觀經淺註科文--
-#+DATE: 2016-06-11 12:27:38
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0010 master ed095275                
 No. 366
 大乘本生心地觀經淺註科文

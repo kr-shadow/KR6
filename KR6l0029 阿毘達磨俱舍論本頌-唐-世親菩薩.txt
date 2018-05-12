@@ -1,5 +1,5 @@
 #+TITLE: 阿毘達磨俱舍論本頌-唐-世親菩薩
-#+DATE: 2016-06-11 12:29:35
+#+DATE: 2018-05-12 10:24:22
 #+SOURCE: github.com/kanripo/KR6l0029 master e209d3f8                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 金剛經頌（擬）--達照
-#+DATE: 2016-06-11 12:31:02
+#+DATE: 2018-05-12 10:25:50
 #+SOURCE: github.com/kanripo/KR6v0097 master 74e7c56f                
 
 * 〔錄文五〕

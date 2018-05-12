@@ -1,5 +1,5 @@
 #+TITLE: 金剛壽命陀羅尼念誦法-唐-不空
-#+DATE: 2016-06-11 12:29:01
+#+DATE: 2018-05-12 10:23:51
 #+SOURCE: github.com/kanripo/KR6j0348 master fecabde2                
 
 

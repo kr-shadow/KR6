@@ -1,5 +1,5 @@
 #+TITLE: 法華經科拾懸談卷首-清-佛閑
-#+DATE: 2016-06-11 12:28:04
+#+DATE: 2018-05-12 10:22:53
 #+SOURCE: github.com/kanripo/KR6d0092 master fba2b1f8                
 
 * No. 626-A

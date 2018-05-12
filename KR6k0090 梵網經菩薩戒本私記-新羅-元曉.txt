@@ -1,5 +1,5 @@
 #+TITLE: 梵網經菩薩戒本私記-新羅-元曉
-#+DATE: 2016-06-11 12:29:21
+#+DATE: 2018-05-12 10:24:09
 #+SOURCE: github.com/kanripo/KR6k0090 master ea9875b2                
 No. 683
 梵網經菩薩戒本私記卷上

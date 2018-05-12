@@ -1,5 +1,5 @@
 #+TITLE: 德光太子經-西晉-竺法護
-#+DATE: 2016-06-11 12:27:38
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0022 master 07b28c0f                
 
 No. 170

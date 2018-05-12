@@ -1,5 +1,5 @@
 #+TITLE: 佛說佛母寶德藏般若波羅蜜經-宋-法賢
-#+DATE: 2016-06-11 12:27:47
+#+DATE: 2018-05-12 10:22:38
 #+SOURCE: github.com/kanripo/KR6c0015 master 9e84b2ec                
 
 No. 229 [cf. No. 220(4 or 5) etc.]

@@ -1,5 +1,5 @@
 #+TITLE: 金剛經采微-宋-曇應
-#+DATE: 2016-06-11 12:27:49
+#+DATE: 2018-05-12 10:22:39
 #+SOURCE: github.com/kanripo/KR6c0052 master 851a8b52                
 No. 464
 金剛般若波羅蜜經釆微卷上

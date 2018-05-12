@@ -1,5 +1,5 @@
 #+TITLE: 大秦景教流行中國碑頌-唐-景淨
-#+DATE: 2016-06-11 12:30:56
+#+DATE: 2018-05-12 10:25:44
 #+SOURCE: github.com/kanripo/KR6s0083 master 4f5ed832                
 
 No. 2144

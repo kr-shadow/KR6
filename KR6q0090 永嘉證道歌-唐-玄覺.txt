@@ -1,5 +1,5 @@
 #+TITLE: 永嘉證道歌-唐-玄覺
-#+DATE: 2016-06-11 12:30:07
+#+DATE: 2018-05-12 10:24:54
 #+SOURCE: github.com/kanripo/KR6q0090 master e3fc44b4                
 
 

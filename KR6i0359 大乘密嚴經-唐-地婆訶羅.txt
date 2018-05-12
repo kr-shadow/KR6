@@ -1,5 +1,5 @@
 #+TITLE: 大乘密嚴經-唐-地婆訶羅
-#+DATE: 2016-06-11 12:28:47
+#+DATE: 2018-05-12 10:23:37
 #+SOURCE: github.com/kanripo/KR6i0359 master d4fee985                
 
 

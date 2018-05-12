@@ -1,5 +1,5 @@
 #+TITLE: 事師法五十頌-宋-馬鳴菩薩
-#+DATE: 2016-06-11 12:29:54
+#+DATE: 2018-05-12 10:24:40
 #+SOURCE: github.com/kanripo/KR6o0142 master c9c32c72                
 
 No. 1687

@@ -1,5 +1,5 @@
 #+TITLE: 方便心論-後魏-吉迦夜
-#+DATE: 2016-06-11 12:29:50
+#+DATE: 2018-05-12 10:24:36
 #+SOURCE: github.com/kanripo/KR6o0005 master 187216c3                
 
 No. 1632

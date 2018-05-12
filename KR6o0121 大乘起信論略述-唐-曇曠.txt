@@ -1,5 +1,5 @@
 #+TITLE: 大乘起信論略述-唐-曇曠
-#+DATE: 2016-06-11 12:29:53
+#+DATE: 2018-05-12 10:24:39
 #+SOURCE: github.com/kanripo/KR6o0121 master b17e349a                
 
 No. 2813 [cf. No. 1667]

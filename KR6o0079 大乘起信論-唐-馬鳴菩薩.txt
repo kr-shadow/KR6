@@ -1,5 +1,5 @@
 #+TITLE: 大乘起信論-唐-馬鳴菩薩
-#+DATE: 2016-06-11 12:29:51
+#+DATE: 2018-05-12 10:24:38
 #+SOURCE: github.com/kanripo/KR6o0079 master a999cbcf                
 
 

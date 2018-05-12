@@ -1,5 +1,5 @@
 #+TITLE: 雪堂行拾遺錄-宋-道行
-#+DATE: 2016-06-11 12:30:41
+#+DATE: 2018-05-12 10:25:30
 #+SOURCE: github.com/kanripo/KR6r0091 master dd21fb83                
 No. 1576
 雪堂行和尚拾遺錄

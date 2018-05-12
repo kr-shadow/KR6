@@ -1,5 +1,5 @@
 #+TITLE: 佛說穰麌梨童女經-唐-不空
-#+DATE: 2016-06-11 12:29:04
+#+DATE: 2018-05-12 10:23:54
 #+SOURCE: github.com/kanripo/KR6j0495 master 47d09611                
 
 

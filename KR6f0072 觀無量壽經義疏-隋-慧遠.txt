@@ -1,5 +1,5 @@
 #+TITLE: 觀無量壽經義疏-隋-慧遠
-#+DATE: 2016-06-11 12:28:26
+#+DATE: 2018-05-12 10:23:17
 #+SOURCE: github.com/kanripo/KR6f0072 master ad8f2568                
 
 No. 1749 [cf. No. 365]

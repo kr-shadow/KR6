@@ -1,5 +1,5 @@
 #+TITLE: 佛說須摩提菩薩經-姚秦-鳩摩羅什
-#+DATE: 2016-06-11 12:28:25
+#+DATE: 2018-05-12 10:23:16
 #+SOURCE: github.com/kanripo/KR6f0027 master 2d9a8d68                
 
 

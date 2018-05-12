@@ -1,5 +1,5 @@
 #+TITLE: 道餘錄-明-姚廣孝
-#+DATE: 2016-06-11 12:30:12
+#+DATE: 2018-05-12 10:24:58
 #+SOURCE: github.com/kanripo/KR6q0182 master ca2455c7                
 
 * 道餘錄序

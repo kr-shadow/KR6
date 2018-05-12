@@ -1,5 +1,5 @@
 #+TITLE: 資持記立題拾義-宋-道標
-#+DATE: 2016-06-11 12:29:27
+#+DATE: 2018-05-12 10:24:15
 #+SOURCE: github.com/kanripo/KR6k0171 master 31a6b795                
 No. 742
 資持立題拾義

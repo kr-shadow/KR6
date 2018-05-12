@@ -1,5 +1,5 @@
 #+TITLE: 西歸行儀-清-古崑
-#+DATE: 2016-06-11 12:29:57
+#+DATE: 2018-05-12 10:24:43
 #+SOURCE: github.com/kanripo/KR6p0085 master 2b4013b5                
 
 * No. 1468-A

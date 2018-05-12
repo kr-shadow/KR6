@@ -1,5 +1,5 @@
 #+TITLE: 佛說出家功德經--失譯
-#+DATE: 2016-06-11 12:28:48
+#+DATE: 2018-05-12 10:23:38
 #+SOURCE: github.com/kanripo/KR6i0399 master 7daaa6a5                
 
 

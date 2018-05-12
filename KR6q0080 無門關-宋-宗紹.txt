@@ -1,5 +1,5 @@
 #+TITLE: 無門關-宋-宗紹
-#+DATE: 2016-06-11 12:30:07
+#+DATE: 2018-05-12 10:24:54
 #+SOURCE: github.com/kanripo/KR6q0080 master 450f0c40                
 
 No. 2005

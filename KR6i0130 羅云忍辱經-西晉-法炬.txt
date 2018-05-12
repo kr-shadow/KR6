@@ -1,5 +1,5 @@
 #+TITLE: 羅云忍辱經-西晉-法炬
-#+DATE: 2016-06-11 12:28:39
+#+DATE: 2018-05-12 10:23:29
 #+SOURCE: github.com/kanripo/KR6i0130 master 8b5d323f                
 
 

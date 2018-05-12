@@ -1,5 +1,5 @@
 #+TITLE: 黃龍慧南禪師語錄-宋-惠泉
-#+DATE: 2016-06-11 12:30:06
+#+DATE: 2018-05-12 10:24:52
 #+SOURCE: github.com/kanripo/KR6q0055 master 762ab605                
 
 

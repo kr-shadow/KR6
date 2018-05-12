@@ -1,5 +1,5 @@
 #+TITLE: 圓覺經序注-宋-如山
-#+DATE: 2016-06-11 12:28:53
+#+DATE: 2018-05-12 10:23:42
 #+SOURCE: github.com/kanripo/KR6i0566 master 419e068b                
 No. 255
 大方廣圓覺修多羅了義經註序

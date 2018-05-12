@@ -1,5 +1,5 @@
 #+TITLE: 梁京寺記--
-#+DATE: 2016-06-11 12:30:43
+#+DATE: 2018-05-12 10:25:32
 #+SOURCE: github.com/kanripo/KR6r0129 master f03780d3                
 
 

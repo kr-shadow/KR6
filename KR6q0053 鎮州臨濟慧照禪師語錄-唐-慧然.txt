@@ -1,6 +1,6 @@
 #+TITLE: 鎮州臨濟慧照禪師語錄-唐-慧然
-#+DATE: 2016-06-11 12:30:06
-#+SOURCE: github.com/kanripo/KR6q0053 master 265416ea                
+#+DATE: 2018-05-12 10:24:52
+#+SOURCE: github.com/kanripo/KR6q0053 master bb061185                
 
 No. 1985
 

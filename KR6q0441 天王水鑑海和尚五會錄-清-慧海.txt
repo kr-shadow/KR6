@@ -1,5 +1,5 @@
 #+TITLE: 天王水鑑海和尚五會錄-清-慧海
-#+DATE: 2016-06-11 12:30:27
+#+DATE: 2018-05-12 10:25:18
 #+SOURCE: github.com/kanripo/KR6q0441 master 9c10fd51                
 
 ** 荊州天王水鑑海和尚五會錄序

@@ -1,5 +1,5 @@
 #+TITLE: 涅槃經本有今無偈論-陳-天親菩薩
-#+DATE: 2016-06-11 12:28:31
+#+DATE: 2018-05-12 10:23:22
 #+SOURCE: github.com/kanripo/KR6g0052 master 6d51af33                
 
 

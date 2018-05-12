@@ -1,5 +1,5 @@
 #+TITLE: 大方廣佛華嚴經中卷卷大意略敘-唐-李通玄
-#+DATE: 2016-06-11 12:28:16
+#+DATE: 2018-05-12 10:23:06
 #+SOURCE: github.com/kanripo/KR6e0023 master d4a6a7cd                
 
 No. 1740 [cf. No. 279]

@@ -1,5 +1,5 @@
 #+TITLE: 註華嚴法界觀科文-唐-宗密
-#+DATE: 2016-06-11 12:28:20
+#+DATE: 2018-05-12 10:23:11
 #+SOURCE: github.com/kanripo/KR6e0103 master 3da2f379                
 No. 1007
 註華嚴法界觀科文

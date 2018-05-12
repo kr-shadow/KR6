@@ -1,5 +1,5 @@
 #+TITLE: 佛說十二佛名神呪校量功德除障滅罪經-隋-闍那崛多
-#+DATE: 2016-06-11 12:29:06
+#+DATE: 2018-05-12 10:23:55
 #+SOURCE: github.com/kanripo/KR6j0578 master 9dad5b2d                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 部執異論-陳-天友菩薩
-#+DATE: 2016-06-11 12:30:36
+#+DATE: 2018-05-12 10:25:26
 #+SOURCE: github.com/kanripo/KR6r0010 master 8caa07b8                
 
 No. 2033 [cf. Nos. 2031, 2032]

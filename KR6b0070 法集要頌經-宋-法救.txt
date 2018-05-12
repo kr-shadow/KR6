@@ -1,6 +1,6 @@
 #+TITLE: 法集要頌經-宋-法救
-#+DATE: 2016-06-11 12:27:41
-#+SOURCE: github.com/kanripo/KR6b0070 master 5fd27de4                
+#+DATE: 2018-05-12 10:22:31
+#+SOURCE: github.com/kanripo/KR6b0070 master b605672b                
 No. 213
 《法集要頌經》有為品第一
 

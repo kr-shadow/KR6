@@ -1,5 +1,5 @@
 #+TITLE: 辯中邊論述記-唐-窺基
-#+DATE: 2016-06-11 12:29:47
+#+DATE: 2018-05-12 10:24:33
 #+SOURCE: github.com/kanripo/KR6n0075 master 3db28713                
 
 No. 1835 [cf. No. 1600]

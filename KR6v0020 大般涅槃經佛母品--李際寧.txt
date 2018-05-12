@@ -1,5 +1,5 @@
 #+TITLE: 大般涅槃經佛母品--李際寧
-#+DATE: 2016-06-11 12:31:00
+#+DATE: 2018-05-12 10:25:48
 #+SOURCE: github.com/kanripo/KR6v0020 master 2d47ea4f                
 
 

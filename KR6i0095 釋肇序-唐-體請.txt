@@ -1,5 +1,5 @@
 #+TITLE: 釋肇序-唐-體請
-#+DATE: 2016-06-11 12:28:37
+#+DATE: 2018-05-12 10:23:28
 #+SOURCE: github.com/kanripo/KR6i0095 master d39ccad6                
 
 No. 2776 [cf. No. 1775]

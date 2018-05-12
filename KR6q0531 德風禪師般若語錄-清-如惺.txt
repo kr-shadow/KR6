@@ -1,5 +1,5 @@
 #+TITLE: 德風禪師般若語錄-清-如惺
-#+DATE: 2016-06-11 12:30:32
+#+DATE: 2018-05-12 10:25:22
 #+SOURCE: github.com/kanripo/KR6q0531 master 575eef8f                
 
 * 序

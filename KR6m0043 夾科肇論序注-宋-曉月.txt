@@ -1,5 +1,5 @@
 #+TITLE: 夾科肇論序注-宋-曉月
-#+DATE: 2016-06-11 12:29:39
+#+DATE: 2018-05-12 10:24:26
 #+SOURCE: github.com/kanripo/KR6m0043 master e54122a9                
 No. 869
 夾科肇論序

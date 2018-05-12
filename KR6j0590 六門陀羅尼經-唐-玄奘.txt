@@ -1,5 +1,5 @@
 #+TITLE: 六門陀羅尼經-唐-玄奘
-#+DATE: 2016-06-11 12:29:06
+#+DATE: 2018-05-12 10:23:55
 #+SOURCE: github.com/kanripo/KR6j0590 master 3f7131d5                
 
 No. 1360 [cf. No. 1361]

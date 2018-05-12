@@ -1,5 +1,5 @@
 #+TITLE: 金剛頂瑜伽念珠經-唐-不空
-#+DATE: 2016-06-11 12:28:50
+#+DATE: 2018-05-12 10:23:40
 #+SOURCE: github.com/kanripo/KR6i0493 master 3ebe6b5f                
 
 No. 789

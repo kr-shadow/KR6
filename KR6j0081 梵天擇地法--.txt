@@ -1,5 +1,5 @@
 #+TITLE: 梵天擇地法--
-#+DATE: 2016-06-11 12:28:56
+#+DATE: 2018-05-12 10:23:46
 #+SOURCE: github.com/kanripo/KR6j0081 master ca3dba9f                
 
 

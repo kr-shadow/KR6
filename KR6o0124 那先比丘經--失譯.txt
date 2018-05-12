@@ -1,5 +1,5 @@
 #+TITLE: 那先比丘經--失譯
-#+DATE: 2016-06-11 12:29:53
+#+DATE: 2018-05-12 10:24:40
 #+SOURCE: github.com/kanripo/KR6o0124 master 4eef2d3d                
 
 No. 1670 (A)

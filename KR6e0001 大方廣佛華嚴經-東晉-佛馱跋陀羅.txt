@@ -1,5 +1,5 @@
 #+TITLE: 大方廣佛華嚴經-東晉-佛馱跋陀羅
-#+DATE: 2016-06-11 12:28:10
+#+DATE: 2018-05-12 10:22:59
 #+SOURCE: github.com/kanripo/KR6e0001 master 33afeacb                
 
 No. 278 [No. 279]

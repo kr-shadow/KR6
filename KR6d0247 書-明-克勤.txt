@@ -1,5 +1,5 @@
 #+TITLE: 書-明-克勤
-#+DATE: 2016-06-11 12:28:10
+#+DATE: 2018-05-12 10:22:59
 #+SOURCE: github.com/kanripo/KR6d0247 master 614958af                
 No. 971
 明僧克勤書

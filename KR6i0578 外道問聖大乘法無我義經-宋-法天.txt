@@ -1,5 +1,5 @@
 #+TITLE: 外道問聖大乘法無我義經-宋-法天
-#+DATE: 2016-06-11 12:28:53
+#+DATE: 2018-05-12 10:23:43
 #+SOURCE: github.com/kanripo/KR6i0578 master 165ad8f9                
 
 

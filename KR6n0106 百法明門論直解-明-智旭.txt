@@ -1,5 +1,5 @@
 #+TITLE: 百法明門論直解-明-智旭
-#+DATE: 2016-06-11 12:29:48
+#+DATE: 2018-05-12 10:24:34
 #+SOURCE: github.com/kanripo/KR6n0106 master c34be8a2                
 No. 805
 大乘百法明門論直解

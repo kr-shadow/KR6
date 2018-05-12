@@ -1,5 +1,5 @@
 #+TITLE: 百千印陀羅尼經-唐-實叉難陀
-#+DATE: 2016-06-11 12:29:06
+#+DATE: 2018-05-12 10:23:56
 #+SOURCE: github.com/kanripo/KR6j0599 master 794c8e8c                
 
 

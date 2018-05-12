@@ -1,5 +1,5 @@
 #+TITLE: 佛般泥洹經-西晉-白法祖
-#+DATE: 2016-06-11 12:27:33
+#+DATE: 2018-05-12 10:22:23
 #+SOURCE: github.com/kanripo/KR6a0005 master d137a702                
 
 

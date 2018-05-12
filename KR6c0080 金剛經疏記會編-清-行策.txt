@@ -1,5 +1,5 @@
 #+TITLE: 金剛經疏記會編-清-行策
-#+DATE: 2016-06-11 12:27:50
+#+DATE: 2018-05-12 10:22:40
 #+SOURCE: github.com/kanripo/KR6c0080 master 946e5510                
 
 * No. 492-A

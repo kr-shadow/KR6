@@ -1,5 +1,5 @@
 #+TITLE: 大蕃沙洲釋門教法和尚洪󰀃修功德記--
-#+DATE: 2016-06-11 12:30:54
+#+DATE: 2018-05-12 10:25:42
 #+SOURCE: github.com/kanripo/KR6s0054 master dbece4f5                
 
 

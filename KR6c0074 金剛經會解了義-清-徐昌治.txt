@@ -1,5 +1,5 @@
 #+TITLE: 金剛經會解了義-清-徐昌治
-#+DATE: 2016-06-11 12:27:49
+#+DATE: 2018-05-12 10:22:40
 #+SOURCE: github.com/kanripo/KR6c0074 master b0d8df80                
 
 * No. 486-A

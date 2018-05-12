@@ -1,5 +1,5 @@
 #+TITLE: 如來莊嚴智慧光明入一切佛境界經-元魏-曇摩流支
-#+DATE: 2016-06-11 12:28:26
+#+DATE: 2018-05-12 10:23:17
 #+SOURCE: github.com/kanripo/KR6f0049 master acb14eba                
 
 

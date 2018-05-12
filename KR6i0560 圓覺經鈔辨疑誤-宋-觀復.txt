@@ -1,5 +1,5 @@
 #+TITLE: 圓覺經鈔辨疑誤-宋-觀復
-#+DATE: 2016-06-11 12:28:52
+#+DATE: 2018-05-12 10:23:42
 #+SOURCE: github.com/kanripo/KR6i0560 master 1516c872                
 No. 249
 圓覺鈔辨疑誤第上(并序)

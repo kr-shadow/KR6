@@ -1,5 +1,5 @@
 #+TITLE: 楞嚴經序指味疏-清-諦閑
-#+DATE: 2016-06-11 12:29:13
+#+DATE: 2018-05-12 10:24:02
 #+SOURCE: github.com/kanripo/KR6j0721 master 72f326f0                
 
 * No. 313-A

@@ -1,5 +1,5 @@
 #+TITLE: 般若波羅蜜多心經還源述--
-#+DATE: 2016-06-11 12:27:53
+#+DATE: 2018-05-12 10:22:43
 #+SOURCE: github.com/kanripo/KR6c0197 master 2d7ebece                
 
 

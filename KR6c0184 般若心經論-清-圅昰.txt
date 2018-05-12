@@ -1,5 +1,5 @@
 #+TITLE: 般若心經論-清-圅昰
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0184 master 18cebe8e                
 No. 565
 般若心經論

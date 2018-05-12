@@ -1,5 +1,5 @@
 #+TITLE: 阿毘曇五法行經-後漢-安世高
-#+DATE: 2016-06-11 12:29:35
+#+DATE: 2018-05-12 10:24:21
 #+SOURCE: github.com/kanripo/KR6l0022 master f47e267d                
 
 No. 1557

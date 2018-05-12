@@ -1,5 +1,5 @@
 #+TITLE: 因明入正理論解-明-真界
-#+DATE: 2016-06-11 12:29:50
+#+DATE: 2018-05-12 10:24:36
 #+SOURCE: github.com/kanripo/KR6o0026 master 4ed8b123                
 
 * No. 856-A

@@ -1,5 +1,5 @@
 #+TITLE: 阿毘達磨界身足論-唐-尊者世友
-#+DATE: 2016-06-11 12:29:32
+#+DATE: 2018-05-12 10:24:19
 #+SOURCE: github.com/kanripo/KR6l0005 master b5a1a646                
 
 No. 1540

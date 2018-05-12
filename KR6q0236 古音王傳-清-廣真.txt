@@ -1,5 +1,5 @@
 #+TITLE: 古音王傳-清-廣真
-#+DATE: 2016-06-11 12:30:15
+#+DATE: 2018-05-12 10:25:02
 #+SOURCE: github.com/kanripo/KR6q0236 master 2e15d844                
 
 * 刻古音王傳引

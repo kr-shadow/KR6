@@ -1,5 +1,5 @@
 #+TITLE: 半月誦菩薩戒儀式註-明-弘贊
-#+DATE: 2016-06-11 12:29:21
+#+DATE: 2018-05-12 10:24:10
 #+SOURCE: github.com/kanripo/KR6k0099 master 538131cb                
 No. 696
 附半月誦菩薩戒儀式註

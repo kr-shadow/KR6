@@ -1,5 +1,5 @@
 #+TITLE: 金剛經會解-宋-善月
-#+DATE: 2016-06-11 12:27:49
+#+DATE: 2018-05-12 10:22:39
 #+SOURCE: github.com/kanripo/KR6c0050 master afc7c264                
 
 * No. 462-A

@@ -1,5 +1,5 @@
 #+TITLE: 播般曩結使波金剛念誦儀--
-#+DATE: 2016-06-11 12:29:03
+#+DATE: 2018-05-12 10:23:53
 #+SOURCE: github.com/kanripo/KR6j0460 master 121f426c                
 
 No. 1232

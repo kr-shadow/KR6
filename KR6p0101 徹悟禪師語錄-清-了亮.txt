@@ -1,5 +1,5 @@
 #+TITLE: 徹悟禪師語錄-清-了亮
-#+DATE: 2016-06-11 12:29:57
+#+DATE: 2018-05-12 10:24:44
 #+SOURCE: github.com/kanripo/KR6p0101 master d2a80806                
 
 * No. 1182-A

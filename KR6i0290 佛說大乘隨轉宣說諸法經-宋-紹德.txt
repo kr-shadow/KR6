@@ -1,5 +1,5 @@
 #+TITLE: 佛說大乘隨轉宣說諸法經-宋-紹德
-#+DATE: 2016-06-11 12:28:42
+#+DATE: 2018-05-12 10:23:33
 #+SOURCE: github.com/kanripo/KR6i0290 master 81c90c61                
 
 

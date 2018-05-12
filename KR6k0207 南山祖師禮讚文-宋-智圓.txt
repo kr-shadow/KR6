@@ -1,5 +1,5 @@
 #+TITLE: 南山祖師禮讚文-宋-智圓
-#+DATE: 2016-06-11 12:29:29
+#+DATE: 2018-05-12 10:24:17
 #+SOURCE: github.com/kanripo/KR6k0207 master 1afff206                
 
 * No. 1504-A

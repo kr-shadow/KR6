@@ -1,5 +1,5 @@
 #+TITLE: 佛說甚深大迴向經--失譯
-#+DATE: 2016-06-11 12:28:51
+#+DATE: 2018-05-12 10:23:41
 #+SOURCE: github.com/kanripo/KR6i0531 master 04c3caf4                
 
 

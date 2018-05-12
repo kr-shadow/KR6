@@ -1,5 +1,5 @@
 #+TITLE: 肇論-後秦-僧肇
-#+DATE: 2016-06-11 12:29:39
+#+DATE: 2018-05-12 10:24:26
 #+SOURCE: github.com/kanripo/KR6m0038 master aa023435                
 
 

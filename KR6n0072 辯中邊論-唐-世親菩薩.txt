@@ -1,5 +1,5 @@
 #+TITLE: 辯中邊論-唐-世親菩薩
-#+DATE: 2016-06-11 12:29:47
+#+DATE: 2018-05-12 10:24:33
 #+SOURCE: github.com/kanripo/KR6n0072 master 891e7605                
 
 No. 1600 [No. 1599; cf. No. 1601]

@@ -1,5 +1,5 @@
 #+TITLE: 大乘本生心地觀經淺註懸示-清-來舟
-#+DATE: 2016-06-11 12:27:38
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0009 master c0f46dd1                
 
 * No. 365-A

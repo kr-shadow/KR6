@@ -1,5 +1,5 @@
 #+TITLE: 佛說目連五百問戒律中輕重事經釋-明-永海
-#+DATE: 2016-06-11 12:29:20
+#+DATE: 2018-05-12 10:24:09
 #+SOURCE: github.com/kanripo/KR6k0075 master a3ab1be7                
 
 * No. 751-A

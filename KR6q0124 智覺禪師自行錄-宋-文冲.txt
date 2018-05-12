@@ -1,5 +1,5 @@
 #+TITLE: 智覺禪師自行錄-宋-文冲
-#+DATE: 2016-06-11 12:30:09
+#+DATE: 2018-05-12 10:24:56
 #+SOURCE: github.com/kanripo/KR6q0124 master 1f40c9c8                
 
 * No. 1232-A

@@ -1,5 +1,5 @@
 #+TITLE: 開元寺求得經疏記等目錄-日本-圓珍
-#+DATE: 2016-06-11 12:30:58
+#+DATE: 2018-05-12 10:25:46
 #+SOURCE: github.com/kanripo/KR6s0116 master 028fe823                
 
 No. 2169

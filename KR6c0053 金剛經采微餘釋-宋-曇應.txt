@@ -1,5 +1,5 @@
 #+TITLE: 金剛經采微餘釋-宋-曇應
-#+DATE: 2016-06-11 12:27:49
+#+DATE: 2018-05-12 10:22:39
 #+SOURCE: github.com/kanripo/KR6c0053 master e6542658                
 No. 465
 金剛般若波羅蜜經釆微餘釋

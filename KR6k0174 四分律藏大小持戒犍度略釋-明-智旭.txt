@@ -1,5 +1,5 @@
 #+TITLE: 四分律藏大小持戒犍度略釋-明-智旭
-#+DATE: 2016-06-11 12:29:28
+#+DATE: 2018-05-12 10:24:15
 #+SOURCE: github.com/kanripo/KR6k0174 master a79e70d2                
 No. 745
 四分律藏大小持戒犍度略釋

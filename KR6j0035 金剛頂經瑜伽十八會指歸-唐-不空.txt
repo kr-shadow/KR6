@@ -1,5 +1,5 @@
 #+TITLE: 金剛頂經瑜伽十八會指歸-唐-不空
-#+DATE: 2016-06-11 12:28:55
+#+DATE: 2018-05-12 10:23:44
 #+SOURCE: github.com/kanripo/KR6j0035 master f3001b5c                
 
 No. 869

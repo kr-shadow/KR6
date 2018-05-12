@@ -1,5 +1,5 @@
 #+TITLE: 師子莊嚴王菩薩請問經-唐-那提
-#+DATE: 2016-06-11 12:28:38
+#+DATE: 2018-05-12 10:23:29
 #+SOURCE: github.com/kanripo/KR6i0115 master 5bb03f3d                
 
 

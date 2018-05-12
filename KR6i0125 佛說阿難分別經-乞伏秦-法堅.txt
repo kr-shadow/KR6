@@ -1,5 +1,5 @@
 #+TITLE: 佛說阿難分別經-乞伏秦-法堅
-#+DATE: 2016-06-11 12:28:38
+#+DATE: 2018-05-12 10:23:29
 #+SOURCE: github.com/kanripo/KR6i0125 master 715d9a40                
 No. 495
 佛說阿難分別經

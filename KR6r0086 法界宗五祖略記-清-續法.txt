@@ -1,5 +1,5 @@
 #+TITLE: 法界宗五祖略記-清-續法
-#+DATE: 2016-06-11 12:30:41
+#+DATE: 2018-05-12 10:25:30
 #+SOURCE: github.com/kanripo/KR6r0086 master e7add7e7                
 
 * No. 1530-A

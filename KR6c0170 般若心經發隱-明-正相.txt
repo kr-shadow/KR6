@@ -1,5 +1,5 @@
 #+TITLE: 般若心經發隱-明-正相
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0170 master 73852523                
 
 * No. 551-A

@@ -1,5 +1,5 @@
 #+TITLE: 婆藪槃豆法師傳-陳-真諦
-#+DATE: 2016-06-11 12:30:38
+#+DATE: 2018-05-12 10:25:28
 #+SOURCE: github.com/kanripo/KR6r0039 master d4cf0cb6                
 
 

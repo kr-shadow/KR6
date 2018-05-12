@@ -1,5 +1,5 @@
 #+TITLE: 天尊說阿育王譬喻經--失譯
-#+DATE: 2016-06-11 12:30:38
+#+DATE: 2018-05-12 10:25:28
 #+SOURCE: github.com/kanripo/KR6r0033 master 37e7a258                
 
 

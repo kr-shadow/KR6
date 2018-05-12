@@ -1,5 +1,5 @@
 #+TITLE: 一切祕密最上名義大教王儀軌-宋-施護
-#+DATE: 2016-06-11 12:28:55
+#+DATE: 2018-05-12 10:23:45
 #+SOURCE: github.com/kanripo/KR6j0056 master 7ded9880                
 
 

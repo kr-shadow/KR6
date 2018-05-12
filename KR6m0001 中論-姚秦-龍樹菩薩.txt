@@ -1,5 +1,5 @@
 #+TITLE: 中論-姚秦-龍樹菩薩
-#+DATE: 2016-06-11 12:29:38
+#+DATE: 2018-05-12 10:24:24
 #+SOURCE: github.com/kanripo/KR6m0001 master 9b8f71e9                
 
 No. 1564 [cf. Nos. 1565-1567]

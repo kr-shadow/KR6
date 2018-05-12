@@ -1,5 +1,5 @@
 #+TITLE: 須摩提經-唐-菩提流志
-#+DATE: 2016-06-11 12:28:25
+#+DATE: 2018-05-12 10:23:16
 #+SOURCE: github.com/kanripo/KR6f0028 master 2607eb72                
 
 

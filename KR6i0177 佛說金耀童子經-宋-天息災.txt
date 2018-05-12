@@ -1,5 +1,5 @@
 #+TITLE: 佛說金耀童子經-宋-天息災
-#+DATE: 2016-06-11 12:28:39
+#+DATE: 2018-05-12 10:23:30
 #+SOURCE: github.com/kanripo/KR6i0177 master cd7bd5b5                
 
 No. 546

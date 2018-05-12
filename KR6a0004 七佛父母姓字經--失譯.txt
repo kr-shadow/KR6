@@ -1,5 +1,5 @@
 #+TITLE: 七佛父母姓字經--失譯
-#+DATE: 2016-06-11 12:27:33
+#+DATE: 2018-05-12 10:22:23
 #+SOURCE: github.com/kanripo/KR6a0004 master 159d1ccf                
 
 

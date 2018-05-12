@@ -1,5 +1,5 @@
 #+TITLE: 金剛錍科-宋-仁岳
-#+DATE: 2016-06-11 12:28:08
+#+DATE: 2018-05-12 10:22:57
 #+SOURCE: github.com/kanripo/KR6d0177 master e067c884                
 No. 933
 

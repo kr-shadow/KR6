@@ -1,5 +1,5 @@
 #+TITLE: 佛說象腋經-劉宋-曇摩蜜多
-#+DATE: 2016-06-11 12:28:51
+#+DATE: 2018-05-12 10:23:40
 #+SOURCE: github.com/kanripo/KR6i0520 master 4ee93ab9                
 
 No. 814 [No. 813]

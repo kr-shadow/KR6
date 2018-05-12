@@ -1,5 +1,5 @@
 #+TITLE: 注心要法門-唐-宗密
-#+DATE: 2016-06-11 12:31:01
+#+DATE: 2018-05-12 10:25:49
 #+SOURCE: github.com/kanripo/KR6v0070 master b0e93242                
 
 

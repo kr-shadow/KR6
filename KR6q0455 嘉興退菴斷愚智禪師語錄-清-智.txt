@@ -1,5 +1,5 @@
 #+TITLE: 嘉興退菴斷愚智禪師語錄-清-智
-#+DATE: 2016-06-11 12:30:28
+#+DATE: 2018-05-12 10:25:18
 #+SOURCE: github.com/kanripo/KR6q0455 master e95e2521                
 
 * 斷愚大師語錄序

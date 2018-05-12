@@ -1,5 +1,5 @@
 #+TITLE: 月光菩薩經-宋-法賢
-#+DATE: 2016-06-11 12:27:38
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0018 master 1aa3959e                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 涅槃經會疏解-元-師正
-#+DATE: 2016-06-11 12:28:30
+#+DATE: 2018-05-12 10:23:21
 #+SOURCE: github.com/kanripo/KR6g0021 master 542e6f30                
 
 * No. 664-A

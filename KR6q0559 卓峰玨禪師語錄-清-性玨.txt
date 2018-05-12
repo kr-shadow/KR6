@@ -1,5 +1,5 @@
 #+TITLE: 卓峰玨禪師語錄-清-性玨
-#+DATE: 2016-06-11 12:30:33
+#+DATE: 2018-05-12 10:25:23
 #+SOURCE: github.com/kanripo/KR6q0559 master 73a4c5a4                
 
 ** 卓峰和尚語錄序

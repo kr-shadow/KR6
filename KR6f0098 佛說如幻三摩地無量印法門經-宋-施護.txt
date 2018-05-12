@@ -1,5 +1,5 @@
 #+TITLE: 佛說如幻三摩地無量印法門經-宋-施護
-#+DATE: 2016-06-11 12:28:27
+#+DATE: 2018-05-12 10:23:18
 #+SOURCE: github.com/kanripo/KR6f0098 master cc65d90b                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 摩訶止觀貫義科-清-受登
-#+DATE: 2016-06-11 12:28:06
+#+DATE: 2018-05-12 10:22:56
 #+SOURCE: github.com/kanripo/KR6d0142 master 8dacb2c9                
 
 * No. 924-A

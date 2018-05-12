@@ -1,5 +1,5 @@
 #+TITLE: 俱舍論法宗原-唐-普光
-#+DATE: 2016-06-11 12:29:37
+#+DATE: 2018-05-12 10:24:24
 #+SOURCE: github.com/kanripo/KR6l0038 master 1acb4590                
 No. 837
 法宗原

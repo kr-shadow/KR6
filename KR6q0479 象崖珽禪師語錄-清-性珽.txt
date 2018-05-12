@@ -1,5 +1,5 @@
 #+TITLE: 象崖珽禪師語錄-清-性珽
-#+DATE: 2016-06-11 12:30:29
+#+DATE: 2018-05-12 10:25:20
 #+SOURCE: github.com/kanripo/KR6q0479 master 33d3aa1e                
 
 * 序

@@ -1,5 +1,5 @@
 #+TITLE: 大乘寶月童子問法經-宋-施護
-#+DATE: 2016-06-11 12:28:34
+#+DATE: 2018-05-12 10:23:24
 #+SOURCE: github.com/kanripo/KR6i0013 master 2fb07232                
 
 

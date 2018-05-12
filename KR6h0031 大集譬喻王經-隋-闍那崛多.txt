@@ -1,5 +1,5 @@
 #+TITLE: 大集譬喻王經-隋-闍那崛多
-#+DATE: 2016-06-11 12:28:33
+#+DATE: 2018-05-12 10:23:24
 #+SOURCE: github.com/kanripo/KR6h0031 master 6f9fda18                
 
 No. 422

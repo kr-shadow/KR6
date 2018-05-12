@@ -1,5 +1,5 @@
 #+TITLE: 議中興教觀-宋-法登
-#+DATE: 2016-06-11 12:28:10
+#+DATE: 2018-05-12 10:22:59
 #+SOURCE: github.com/kanripo/KR6d0235 master d1f82b3c                
 No. 959
 議中興教觀

@@ -1,5 +1,5 @@
 #+TITLE: 大溈密印寺養拙明禪師語錄-清-正明
-#+DATE: 2016-06-11 12:30:25
+#+DATE: 2018-05-12 10:25:13
 #+SOURCE: github.com/kanripo/KR6q0401 master 220050ed                
 
 <img:>

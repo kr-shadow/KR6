@@ -1,5 +1,5 @@
 #+TITLE: 法華三昧懺儀-隋-智顗
-#+DATE: 2016-06-11 12:28:08
+#+DATE: 2018-05-12 10:22:58
 #+SOURCE: github.com/kanripo/KR6d0191 master abd8dbb6                
 
 No. 1941 [cf. Nos. 1942-1944]

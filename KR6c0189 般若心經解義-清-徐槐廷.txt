@@ -1,5 +1,5 @@
 #+TITLE: 般若心經解義-清-徐槐廷
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:43
 #+SOURCE: github.com/kanripo/KR6c0189 master 572a8d42                
 No. 570
 般若心經解義

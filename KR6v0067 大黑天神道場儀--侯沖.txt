@@ -1,5 +1,5 @@
 #+TITLE: 大黑天神道場儀--侯沖
-#+DATE: 2016-06-11 12:31:01
+#+DATE: 2018-05-12 10:25:49
 #+SOURCE: github.com/kanripo/KR6v0067 master 922cfc7e                
 
 

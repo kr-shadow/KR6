@@ -1,5 +1,5 @@
 #+TITLE: 金剛頂瑜伽中發阿耨多羅三藐三菩提心論-唐-不空
-#+DATE: 2016-06-11 12:29:51
+#+DATE: 2018-05-12 10:24:38
 #+SOURCE: github.com/kanripo/KR6o0070 master f2c3d891                
 
 

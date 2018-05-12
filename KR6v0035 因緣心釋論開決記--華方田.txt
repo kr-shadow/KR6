@@ -1,5 +1,5 @@
 #+TITLE: 因緣心釋論開決記--華方田
-#+DATE: 2016-06-11 12:31:00
+#+DATE: 2018-05-12 10:25:48
 #+SOURCE: github.com/kanripo/KR6v0035 master 2654e402                
 
 

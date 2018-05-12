@@ -1,5 +1,5 @@
 #+TITLE: 辟支佛因緣論--失譯
-#+DATE: 2016-06-11 12:29:51
+#+DATE: 2018-05-12 10:24:37
 #+SOURCE: github.com/kanripo/KR6o0054 master 4267b6aa                
 
 

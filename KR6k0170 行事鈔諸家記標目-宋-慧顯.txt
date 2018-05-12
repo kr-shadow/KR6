@@ -1,5 +1,5 @@
 #+TITLE: 行事鈔諸家記標目-宋-慧顯
-#+DATE: 2016-06-11 12:29:27
+#+DATE: 2018-05-12 10:24:15
 #+SOURCE: github.com/kanripo/KR6k0170 master b6f204d7                
 No. 741
 行事鈔諸家記標目

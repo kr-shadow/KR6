@@ -1,5 +1,5 @@
 #+TITLE: 天台教典入藏考--方廣錩
-#+DATE: 2016-06-11 12:31:01
+#+DATE: 2018-05-12 10:25:49
 #+SOURCE: github.com/kanripo/KR6v0062 master db7eb5be                
 
 天台教典入藏考

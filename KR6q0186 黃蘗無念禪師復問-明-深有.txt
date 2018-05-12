@@ -1,5 +1,5 @@
 #+TITLE: 黃蘗無念禪師復問-明-深有
-#+DATE: 2016-06-11 12:30:12
+#+DATE: 2018-05-12 10:24:58
 #+SOURCE: github.com/kanripo/KR6q0186 master c2310617                
 
 ** 黃蘗無念禪師醒昏錄原序

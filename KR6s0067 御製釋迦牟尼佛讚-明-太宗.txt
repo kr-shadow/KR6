@@ -1,5 +1,5 @@
 #+TITLE: 御製釋迦牟尼佛讚-明-太宗
-#+DATE: 2016-06-11 12:30:55
+#+DATE: 2018-05-12 10:25:43
 #+SOURCE: github.com/kanripo/KR6s0067 master cb46dabb                
 御製釋迦牟尼佛讚
 

@@ -1,5 +1,5 @@
 #+TITLE: 師子素馱娑王斷肉經-唐-智嚴
-#+DATE: 2016-06-11 12:27:38
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0016 master 7eb90467                
 
 No. 164

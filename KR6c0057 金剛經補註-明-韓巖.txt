@@ -1,5 +1,5 @@
 #+TITLE: 金剛經補註-明-韓巖
-#+DATE: 2016-06-11 12:27:49
+#+DATE: 2018-05-12 10:22:39
 #+SOURCE: github.com/kanripo/KR6c0057 master 64b2cd2e                
 
 * No. 469-A

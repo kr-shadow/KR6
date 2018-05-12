@@ -1,5 +1,5 @@
 #+TITLE: 佛說七俱胝佛母心大准提陀羅尼經-唐-地婆訶羅
-#+DATE: 2016-06-11 12:29:00
+#+DATE: 2018-05-12 10:23:49
 #+SOURCE: github.com/kanripo/KR6j0284 master 0ac8d110                
 
 

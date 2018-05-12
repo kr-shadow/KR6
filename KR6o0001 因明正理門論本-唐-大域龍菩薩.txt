@@ -1,5 +1,5 @@
 #+TITLE: 因明正理門論本-唐-大域龍菩薩
-#+DATE: 2016-06-11 12:29:50
+#+DATE: 2018-05-12 10:24:36
 #+SOURCE: github.com/kanripo/KR6o0001 master 7a1c99ed                
 
 No. 1628 [No. 1629]

@@ -1,5 +1,5 @@
 #+TITLE: 山家義苑-宋-可觀
-#+DATE: 2016-06-11 12:28:10
+#+DATE: 2018-05-12 10:22:58
 #+SOURCE: github.com/kanripo/KR6d0232 master da277d21                
 No. 956
 山家義菀卷上

@@ -1,5 +1,5 @@
 #+TITLE: 賢首五教斷證三覺揀濫圖-清-續法
-#+DATE: 2016-06-11 12:28:23
+#+DATE: 2018-05-12 10:23:13
 #+SOURCE: github.com/kanripo/KR6e0144 master db2523c2                
 No. 1026
 賢首五教斷證三覺揀濫圖

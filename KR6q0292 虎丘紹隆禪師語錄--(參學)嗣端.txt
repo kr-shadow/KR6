@@ -1,5 +1,5 @@
 #+TITLE: 虎丘紹隆禪師語錄--(參學)嗣端
-#+DATE: 2016-06-11 12:30:19
+#+DATE: 2018-05-12 10:25:05
 #+SOURCE: github.com/kanripo/KR6q0292 master 1caa9284                
 
 

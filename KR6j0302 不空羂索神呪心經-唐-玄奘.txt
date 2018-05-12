@@ -1,5 +1,5 @@
 #+TITLE: 不空羂索神呪心經-唐-玄奘
-#+DATE: 2016-06-11 12:29:00
+#+DATE: 2018-05-12 10:23:50
 #+SOURCE: github.com/kanripo/KR6j0302 master 13d0bc2f                
 
 No. 1094 [Nos. 1093, 1095, 1099,

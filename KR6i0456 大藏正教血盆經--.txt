@@ -1,5 +1,5 @@
 #+TITLE: 大藏正教血盆經--
-#+DATE: 2016-06-11 12:28:50
+#+DATE: 2018-05-12 10:23:39
 #+SOURCE: github.com/kanripo/KR6i0456 master 5fb8700f                
 No. 23
 佛說大藏正教血盆經

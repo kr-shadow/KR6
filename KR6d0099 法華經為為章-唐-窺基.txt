@@ -1,5 +1,5 @@
 #+TITLE: 法華經為為章-唐-窺基
-#+DATE: 2016-06-11 12:28:04
+#+DATE: 2018-05-12 10:22:54
 #+SOURCE: github.com/kanripo/KR6d0099 master f8a80962                
 No. 633
 妙法蓮華經釋為為二章

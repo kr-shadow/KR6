@@ -1,5 +1,5 @@
 #+TITLE: 法華三昧行事運想補助儀-唐-湛然
-#+DATE: 2016-06-11 12:28:08
+#+DATE: 2018-05-12 10:22:58
 #+SOURCE: github.com/kanripo/KR6d0192 master 3cedb5fb                
 
 

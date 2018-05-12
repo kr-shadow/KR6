@@ -1,5 +1,5 @@
 #+TITLE: 壇溪梓舟船禪師語錄-明-船
-#+DATE: 2016-06-11 12:30:29
+#+DATE: 2018-05-12 10:25:19
 #+SOURCE: github.com/kanripo/KR6q0464 master 13ceee9c                
 
 * 梓舟船禪師語錄序

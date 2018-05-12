@@ -1,5 +1,5 @@
 #+TITLE: 般若心經概論-明-林兆恩
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0164 master 06873fe7                
 No. 545
 心經槩論

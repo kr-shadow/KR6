@@ -1,5 +1,5 @@
 #+TITLE: 佛說見正經-東晉-竺曇無蘭
-#+DATE: 2016-06-11 12:28:50
+#+DATE: 2018-05-12 10:23:40
 #+SOURCE: github.com/kanripo/KR6i0501 master b01a44a8                
 
 No. 796

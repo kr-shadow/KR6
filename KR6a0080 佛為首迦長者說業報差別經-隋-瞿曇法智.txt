@@ -1,5 +1,5 @@
 #+TITLE: 佛為首迦長者說業報差別經-隋-瞿曇法智
-#+DATE: 2016-06-11 12:27:35
+#+DATE: 2018-05-12 10:22:25
 #+SOURCE: github.com/kanripo/KR6a0080 master e7f5429a                
 
 

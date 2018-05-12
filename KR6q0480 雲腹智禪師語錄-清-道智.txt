@@ -1,5 +1,5 @@
 #+TITLE: 雲腹智禪師語錄-清-道智
-#+DATE: 2016-06-11 12:30:29
+#+DATE: 2018-05-12 10:25:20
 #+SOURCE: github.com/kanripo/KR6q0480 master 4a81c689                
 
 * 序

@@ -1,5 +1,5 @@
 #+TITLE: 仁王經科疏懸談-明-真貴
-#+DATE: 2016-06-11 12:27:53
+#+DATE: 2018-05-12 10:22:43
 #+SOURCE: github.com/kanripo/KR6c0212 master d61c32bc                
 No. 516
 仁王護國般若波羅蜜多經科疏懸譚

@@ -1,5 +1,5 @@
 #+TITLE: 迴向文--
-#+DATE: 2016-06-11 12:30:54
+#+DATE: 2018-05-12 10:25:42
 #+SOURCE: github.com/kanripo/KR6s0040 master 03431671                
 
 No. 2848

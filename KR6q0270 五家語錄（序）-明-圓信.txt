@@ -1,5 +1,5 @@
 #+TITLE: 五家語錄（序）-明-圓信
-#+DATE: 2016-06-11 12:30:18
+#+DATE: 2018-05-12 10:25:05
 #+SOURCE: github.com/kanripo/KR6q0270 master 9e38d8b9                
 
 * No. 1326-A

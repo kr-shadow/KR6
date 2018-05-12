@@ -1,5 +1,5 @@
 #+TITLE: 佛說一向出生菩薩經-隋-闍那崛多
-#+DATE: 2016-06-11 12:28:59
+#+DATE: 2018-05-12 10:23:48
 #+SOURCE: github.com/kanripo/KR6j0210 master d241e00a                
 
 No. 1017 [Nos. 1009, 1011-1016, 1018]

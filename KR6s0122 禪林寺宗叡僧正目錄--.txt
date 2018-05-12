@@ -1,5 +1,5 @@
 #+TITLE: 禪林寺宗叡僧正目錄--
-#+DATE: 2016-06-11 12:30:58
+#+DATE: 2018-05-12 10:25:46
 #+SOURCE: github.com/kanripo/KR6s0122 master e69b0ca5                
 
 No. 2174B

@@ -1,5 +1,5 @@
 #+TITLE: 菩薩瓔珞經-姚秦-竺佛念
-#+DATE: 2016-06-11 12:28:43
+#+DATE: 2018-05-12 10:23:33
 #+SOURCE: github.com/kanripo/KR6i0294 master a5aa09e7                
 
 No. 656

@@ -1,5 +1,5 @@
 #+TITLE: 攝大乘論釋-唐-世親菩薩
-#+DATE: 2016-06-11 12:29:46
+#+DATE: 2018-05-12 10:24:33
 #+SOURCE: github.com/kanripo/KR6n0064 master 57f52041                
 
 

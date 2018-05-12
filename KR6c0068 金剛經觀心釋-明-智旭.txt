@@ -1,5 +1,5 @@
 #+TITLE: 金剛經觀心釋-明-智旭
-#+DATE: 2016-06-11 12:27:49
+#+DATE: 2018-05-12 10:22:39
 #+SOURCE: github.com/kanripo/KR6c0068 master 7a0e729b                
 No. 480
 金剛般若波羅蜜經觀心釋

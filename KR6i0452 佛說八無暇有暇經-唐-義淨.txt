@@ -1,5 +1,5 @@
 #+TITLE: 佛說八無暇有暇經-唐-義淨
-#+DATE: 2016-06-11 12:28:49
+#+DATE: 2018-05-12 10:23:39
 #+SOURCE: github.com/kanripo/KR6i0452 master 269c2d6c                
 
 

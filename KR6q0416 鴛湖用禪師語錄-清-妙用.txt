@@ -1,5 +1,5 @@
 #+TITLE: 鴛湖用禪師語錄-清-妙用
-#+DATE: 2016-06-11 12:30:26
+#+DATE: 2018-05-12 10:25:16
 #+SOURCE: github.com/kanripo/KR6q0416 master 2e899d07                
 
 * 序

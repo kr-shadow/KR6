@@ -1,5 +1,5 @@
 #+TITLE: 發菩提心戒-遼-志仙
-#+DATE: 2016-06-11 12:28:23
+#+DATE: 2018-05-12 10:23:14
 #+SOURCE: github.com/kanripo/KR6e0159 master c082733e                
 發菩提心戒一本
 

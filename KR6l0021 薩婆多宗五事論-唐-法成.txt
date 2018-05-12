@@ -1,5 +1,5 @@
 #+TITLE: 薩婆多宗五事論-唐-法成
-#+DATE: 2016-06-11 12:29:35
+#+DATE: 2018-05-12 10:24:21
 #+SOURCE: github.com/kanripo/KR6l0021 master 43a54b41                
 
 No. 1556 [cf. No. 1555]

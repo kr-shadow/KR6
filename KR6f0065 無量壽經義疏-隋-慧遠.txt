@@ -1,5 +1,5 @@
 #+TITLE: 無量壽經義疏-隋-慧遠
-#+DATE: 2016-06-11 12:28:26
+#+DATE: 2018-05-12 10:23:17
 #+SOURCE: github.com/kanripo/KR6f0065 master e2900943                
 
 No. 1745 [cf. No. 360]

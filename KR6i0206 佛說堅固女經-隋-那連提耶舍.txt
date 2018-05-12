@@ -1,5 +1,5 @@
 #+TITLE: 佛說堅固女經-隋-那連提耶舍
-#+DATE: 2016-06-11 12:28:40
+#+DATE: 2018-05-12 10:23:30
 #+SOURCE: github.com/kanripo/KR6i0206 master d97a61b5                
 
 

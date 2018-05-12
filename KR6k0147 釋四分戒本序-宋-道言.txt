@@ -1,5 +1,5 @@
 #+TITLE: 釋四分戒本序-宋-道言
-#+DATE: 2016-06-11 12:29:24
+#+DATE: 2018-05-12 10:24:12
 #+SOURCE: github.com/kanripo/KR6k0147 master bd5bc27b                
 No. 715
 釋戒本序

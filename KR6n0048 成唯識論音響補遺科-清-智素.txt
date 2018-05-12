@@ -1,5 +1,5 @@
 #+TITLE: 成唯識論音響補遺科-清-智素
-#+DATE: 2016-06-11 12:29:45
+#+DATE: 2018-05-12 10:24:32
 #+SOURCE: github.com/kanripo/KR6n0048 master 49ee9512                
 
 * No. 825-A

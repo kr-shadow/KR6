@@ -1,5 +1,5 @@
 #+TITLE: 呪五首-唐-玄奘
-#+DATE: 2016-06-11 12:28:59
+#+DATE: 2018-05-12 10:23:48
 #+SOURCE: github.com/kanripo/KR6j0232 master aaea1b34                
 No. 1034 [cf. Nos. 1035, 1036,
  901(Fasc. 5)]

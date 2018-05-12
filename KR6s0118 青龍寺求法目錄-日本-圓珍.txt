@@ -1,5 +1,5 @@
 #+TITLE: 青龍寺求法目錄-日本-圓珍
-#+DATE: 2016-06-11 12:30:58
+#+DATE: 2018-05-12 10:25:46
 #+SOURCE: github.com/kanripo/KR6s0118 master 1a979a31                
 
 

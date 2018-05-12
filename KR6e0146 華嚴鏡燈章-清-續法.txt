@@ -1,5 +1,5 @@
 #+TITLE: 華嚴鏡燈章-清-續法
-#+DATE: 2016-06-11 12:28:23
+#+DATE: 2018-05-12 10:23:14
 #+SOURCE: github.com/kanripo/KR6e0146 master 2da15810                
 No. 1028
 華嚴鏡燈章

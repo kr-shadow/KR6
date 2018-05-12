@@ -1,5 +1,5 @@
 #+TITLE: 佛說阿惟越致遮經-西晉-竺法護
-#+DATE: 2016-06-11 12:28:04
+#+DATE: 2018-05-12 10:22:54
 #+SOURCE: github.com/kanripo/KR6d0105 master 0104a961                
 
 No. 266 [Nos. 267, 268]

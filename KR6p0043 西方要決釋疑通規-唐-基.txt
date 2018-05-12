@@ -1,5 +1,5 @@
 #+TITLE: 西方要決釋疑通規-唐-基
-#+DATE: 2016-06-11 12:29:55
+#+DATE: 2018-05-12 10:24:41
 #+SOURCE: github.com/kanripo/KR6p0043 master a365c4f0                
 
 

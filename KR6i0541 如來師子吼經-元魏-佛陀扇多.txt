@@ -1,5 +1,5 @@
 #+TITLE: 如來師子吼經-元魏-佛陀扇多
-#+DATE: 2016-06-11 12:28:51
+#+DATE: 2018-05-12 10:23:41
 #+SOURCE: github.com/kanripo/KR6i0541 master 62a6e757                
 
 

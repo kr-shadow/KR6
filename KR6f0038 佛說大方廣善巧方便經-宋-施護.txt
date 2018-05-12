@@ -1,5 +1,5 @@
 #+TITLE: 佛說大方廣善巧方便經-宋-施護
-#+DATE: 2016-06-11 12:28:25
+#+DATE: 2018-05-12 10:23:16
 #+SOURCE: github.com/kanripo/KR6f0038 master 93a3947f                
 
 No. 346 [Nos. 310(38), 345]

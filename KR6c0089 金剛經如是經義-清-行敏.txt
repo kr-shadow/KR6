@@ -1,5 +1,5 @@
 #+TITLE: 金剛經如是經義-清-行敏
-#+DATE: 2016-06-11 12:27:50
+#+DATE: 2018-05-12 10:22:40
 #+SOURCE: github.com/kanripo/KR6c0089 master a64176ef                
 No. 501金剛經如是經義卷上
 

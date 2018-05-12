@@ -1,5 +1,5 @@
 #+TITLE: 天台智者大師發願文-隋-智顗
-#+DATE: 2016-06-11 12:28:09
+#+DATE: 2018-05-12 10:22:58
 #+SOURCE: github.com/kanripo/KR6d0212 master cd881672                
 No. 913
 天台智者大師發願文

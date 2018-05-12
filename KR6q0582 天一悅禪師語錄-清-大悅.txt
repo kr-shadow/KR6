@@ -1,5 +1,5 @@
 #+TITLE: 天一悅禪師語錄-清-大悅
-#+DATE: 2016-06-11 12:30:34
+#+DATE: 2018-05-12 10:25:24
 #+SOURCE: github.com/kanripo/KR6q0582 master d533abf1                
 天一悅禪師語錄
 侍者學愚錄

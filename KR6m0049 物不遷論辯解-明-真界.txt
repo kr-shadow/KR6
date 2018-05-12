@@ -1,5 +1,5 @@
 #+TITLE: 物不遷論辯解-明-真界
-#+DATE: 2016-06-11 12:29:40
+#+DATE: 2018-05-12 10:24:26
 #+SOURCE: github.com/kanripo/KR6m0049 master 7ea44c65                
 
 * No. 880-A

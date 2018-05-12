@@ -1,5 +1,5 @@
 #+TITLE: 評金剛錍-宋-善熹
-#+DATE: 2016-06-11 12:28:22
+#+DATE: 2018-05-12 10:23:13
 #+SOURCE: github.com/kanripo/KR6e0137 master eceb7f63                
 No. 1018
 評金錍

@@ -1,5 +1,5 @@
 #+TITLE: 百法明門論論義-明-德清
-#+DATE: 2016-06-11 12:29:48
+#+DATE: 2018-05-12 10:24:34
 #+SOURCE: github.com/kanripo/KR6n0103 master eccaa2f0                
 No. 802
 百法論義

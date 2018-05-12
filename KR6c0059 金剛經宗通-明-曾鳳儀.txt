@@ -1,5 +1,5 @@
 #+TITLE: 金剛經宗通-明-曾鳳儀
-#+DATE: 2016-06-11 12:27:49
+#+DATE: 2018-05-12 10:22:39
 #+SOURCE: github.com/kanripo/KR6c0059 master 5c8d3dbb                
 
 * No. 471-A

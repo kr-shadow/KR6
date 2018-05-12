@@ -1,5 +1,5 @@
 #+TITLE: 觀音經玄義記條箇--
-#+DATE: 2016-06-11 12:27:59
+#+DATE: 2018-05-12 10:22:49
 #+SOURCE: github.com/kanripo/KR6d0051 master afc6d57d                
 
 * No. 641-A

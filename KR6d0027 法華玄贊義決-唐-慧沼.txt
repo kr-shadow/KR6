@@ -1,5 +1,5 @@
 #+TITLE: 法華玄贊義決-唐-慧沼
-#+DATE: 2016-06-11 12:27:58
+#+DATE: 2018-05-12 10:22:48
 #+SOURCE: github.com/kanripo/KR6d0027 master c96564d9                
 
 No. 1724 [cf. Nos. 262, 1723]

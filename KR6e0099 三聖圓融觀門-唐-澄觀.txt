@@ -1,5 +1,5 @@
 #+TITLE: 三聖圓融觀門-唐-澄觀
-#+DATE: 2016-06-11 12:28:20
+#+DATE: 2018-05-12 10:23:11
 #+SOURCE: github.com/kanripo/KR6e0099 master d054a9f9                
 
 No. 1882

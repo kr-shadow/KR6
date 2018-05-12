@@ -1,5 +1,5 @@
 #+TITLE: 般若波羅蜜多心經略疏-唐-法藏
-#+DATE: 2016-06-11 12:27:51
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0139 master 16433b32                
 
 

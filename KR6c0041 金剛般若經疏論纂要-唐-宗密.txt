@@ -1,5 +1,5 @@
 #+TITLE: 金剛般若經疏論纂要-唐-宗密
-#+DATE: 2016-06-11 12:27:48
+#+DATE: 2018-05-12 10:22:38
 #+SOURCE: github.com/kanripo/KR6c0041 master bfcfd485                
 
 No. 1701 [cf. No. 235]

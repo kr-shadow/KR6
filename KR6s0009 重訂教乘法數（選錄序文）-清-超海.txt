@@ -1,5 +1,5 @@
 #+TITLE: 重訂教乘法數（選錄序文）-清-超海
-#+DATE: 2016-06-11 12:30:48
+#+DATE: 2018-05-12 10:25:37
 #+SOURCE: github.com/kanripo/KR6s0009 master 655cc486                
 
 * 御製重訂教乘法數序　　　　　　辱一

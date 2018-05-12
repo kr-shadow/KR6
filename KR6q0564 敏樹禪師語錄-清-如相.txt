@@ -1,5 +1,5 @@
 #+TITLE: 敏樹禪師語錄-清-如相
-#+DATE: 2016-06-11 12:30:33
+#+DATE: 2018-05-12 10:25:23
 #+SOURCE: github.com/kanripo/KR6q0564 master d569b54b                
 
 ** 敏樹禪師語錄序

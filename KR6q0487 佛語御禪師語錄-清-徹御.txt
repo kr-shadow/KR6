@@ -1,5 +1,5 @@
 #+TITLE: 佛語御禪師語錄-清-徹御
-#+DATE: 2016-06-11 12:30:30
+#+DATE: 2018-05-12 10:25:20
 #+SOURCE: github.com/kanripo/KR6q0487 master c18d64ed                
 
 * 佛語御禪師語錄敘

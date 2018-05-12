@@ -1,5 +1,5 @@
 #+TITLE: 寶藏天女陀羅尼法--失譯
-#+DATE: 2016-06-11 12:29:04
+#+DATE: 2018-05-12 10:23:54
 #+SOURCE: github.com/kanripo/KR6j0513 master 342d4700                
 
 

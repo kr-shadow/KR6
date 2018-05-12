@@ -1,5 +1,5 @@
 #+TITLE: 緣生論-隋-欝楞迦
-#+DATE: 2016-06-11 12:29:51
+#+DATE: 2018-05-12 10:24:37
 #+SOURCE: github.com/kanripo/KR6o0056 master 231e2196                
 
 

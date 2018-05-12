@@ -1,5 +1,5 @@
 #+TITLE: 說矩里迦龍王像法--
-#+DATE: 2016-06-11 12:29:03
+#+DATE: 2018-05-12 10:23:52
 #+SOURCE: github.com/kanripo/KR6j0434 master 96115abf                
 
 

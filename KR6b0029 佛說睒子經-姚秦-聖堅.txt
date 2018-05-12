@@ -1,5 +1,5 @@
 #+TITLE: 佛說睒子經-姚秦-聖堅
-#+DATE: 2016-06-11 12:27:39
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0029 master 96fc6e6d                
 
 佛說睒子經

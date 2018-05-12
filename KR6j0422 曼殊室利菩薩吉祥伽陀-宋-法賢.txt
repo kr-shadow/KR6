@@ -1,5 +1,5 @@
 #+TITLE: 曼殊室利菩薩吉祥伽陀-宋-法賢
-#+DATE: 2016-06-11 12:29:03
+#+DATE: 2018-05-12 10:23:52
 #+SOURCE: github.com/kanripo/KR6j0422 master 4055d959                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 受歲經-西晉-竺法護
-#+DATE: 2016-06-11 12:27:34
+#+DATE: 2018-05-12 10:22:25
 #+SOURCE: github.com/kanripo/KR6a0050 master 4334d707                
 
 No. 50 [No. 26(89)]

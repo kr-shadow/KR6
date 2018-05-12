@@ -1,5 +1,5 @@
 #+TITLE: 彌勒菩薩所問經論-後魏-菩提流支
-#+DATE: 2016-06-11 12:28:27
+#+DATE: 2018-05-12 10:23:18
 #+SOURCE: github.com/kanripo/KR6f0103 master ec52ea2d                
 
 No. 1525

@@ -1,5 +1,5 @@
 #+TITLE: 賢聖集伽陀一百頌-宋-天息災
-#+DATE: 2016-06-11 12:29:54
+#+DATE: 2018-05-12 10:24:40
 #+SOURCE: github.com/kanripo/KR6o0141 master 21c1d78a                
 
 No. 1686

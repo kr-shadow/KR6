@@ -1,5 +1,5 @@
 #+TITLE: 佛說八大靈塔名號經-宋-法賢
-#+DATE: 2016-06-11 12:29:54
+#+DATE: 2018-05-12 10:24:40
 #+SOURCE: github.com/kanripo/KR6o0140 master 47c8fd94                
 
 No. 1685

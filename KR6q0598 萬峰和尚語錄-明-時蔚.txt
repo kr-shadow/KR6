@@ -1,5 +1,5 @@
 #+TITLE: 萬峰和尚語錄-明-時蔚
-#+DATE: 2016-06-11 12:30:35
+#+DATE: 2018-05-12 10:25:24
 #+SOURCE: github.com/kanripo/KR6q0598 master 7a4002cb                
 
 * 刊萬峰和尚語錄舊序

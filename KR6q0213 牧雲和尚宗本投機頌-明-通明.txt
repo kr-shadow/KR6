@@ -1,5 +1,5 @@
 #+TITLE: 牧雲和尚宗本投機頌-明-通明
-#+DATE: 2016-06-11 12:30:13
+#+DATE: 2018-05-12 10:25:00
 #+SOURCE: github.com/kanripo/KR6q0213 master ab8bfb2c                
 
 * 牧雲和尚宗本投機頌

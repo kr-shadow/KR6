@@ -1,5 +1,5 @@
 #+TITLE: 六即義-唐-行滿
-#+DATE: 2016-06-11 12:28:09
+#+DATE: 2018-05-12 10:22:58
 #+SOURCE: github.com/kanripo/KR6d0219 master 025cef45                
 No. 941
 六即義

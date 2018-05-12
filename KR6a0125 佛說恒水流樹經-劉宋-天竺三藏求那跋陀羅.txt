@@ -1,5 +1,5 @@
 #+TITLE: 佛說恒水流樹經-劉宋-天竺三藏求那跋陀羅
-#+DATE: 2016-06-11 12:27:36
+#+DATE: 2018-05-12 10:22:27
 #+SOURCE: github.com/kanripo/KR6a0125 master ae0f33f9                
 佛說恒水流樹經一卷
 

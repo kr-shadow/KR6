@@ -1,5 +1,5 @@
 #+TITLE: 傳教大師將來越州錄-日本-最澄
-#+DATE: 2016-06-11 12:30:58
+#+DATE: 2018-05-12 10:25:46
 #+SOURCE: github.com/kanripo/KR6s0106 master 25c403d9                
 
 No. 2160

@@ -1,5 +1,5 @@
 #+TITLE: 文殊師利發願經-東晉-佛陀跋陀羅
-#+DATE: 2016-06-11 12:28:17
+#+DATE: 2018-05-12 10:23:08
 #+SOURCE: github.com/kanripo/KR6e0045 master 47a793f8                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 佛說仁王般若波羅蜜經-姚秦-鳩摩羅什
-#+DATE: 2016-06-11 12:27:53
+#+DATE: 2018-05-12 10:22:43
 #+SOURCE: github.com/kanripo/KR6c0202 master 7e089261                
 
 No. 245 [No. 246]

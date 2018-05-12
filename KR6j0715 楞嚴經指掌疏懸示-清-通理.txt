@@ -1,5 +1,5 @@
 #+TITLE: 楞嚴經指掌疏懸示-清-通理
-#+DATE: 2016-06-11 12:29:12
+#+DATE: 2018-05-12 10:24:01
 #+SOURCE: github.com/kanripo/KR6j0715 master 8e3af62c                
 No. 307
 楞嚴經指掌疏懸示

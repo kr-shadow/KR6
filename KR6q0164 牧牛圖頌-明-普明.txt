@@ -1,5 +1,5 @@
 #+TITLE: 牧牛圖頌-明-普明
-#+DATE: 2016-06-11 12:30:11
+#+DATE: 2018-05-12 10:24:58
 #+SOURCE: github.com/kanripo/KR6q0164 master 3eab1e57                
 
 * 刊牧牛圖頌序

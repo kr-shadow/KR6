@@ -1,5 +1,5 @@
 #+TITLE: 受十善戒經--失譯
-#+DATE: 2016-06-11 12:29:22
+#+DATE: 2018-05-12 10:24:10
 #+SOURCE: github.com/kanripo/KR6k0108 master 5e70e286                
 
 

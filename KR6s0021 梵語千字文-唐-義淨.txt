@@ -1,5 +1,5 @@
 #+TITLE: 梵語千字文-唐-義淨
-#+DATE: 2016-06-11 12:30:53
+#+DATE: 2018-05-12 10:25:42
 #+SOURCE: github.com/kanripo/KR6s0021 master af228983                
 
 No. 2133A
@@ -211,7 +211,7 @@ No. 2133A
 
 儲安釜鑊
 
-(（？）)刀　(又仗􅭨)鎌珁(𤬪)瓮
+(（？）)刀　(又仗􅳺)鎌珁(𤬪)瓮
 
 斧箕繩索違
 
@@ -414,7 +414,7 @@ No. 2133A
 
 髓膿(又熟)瘡血周緣
 
-䏶腿􂆔膝　脛腂腡
+䏶腿􂌦膝　脛腂腡
 
 研手足頑痺
 
@@ -438,7 +438,7 @@ No. 2133A
 
 
 作　阿闍梨多　聞　三藏　法師　勝
-Kṛtir Ācārya-bahu-śruta-tripiṭa 􅭩 bhadanta-param:
+Kṛtir Ācārya-bahu-śruta-tripiṭa 􅳻 bhadanta-param:
 
 義天　之　福　生　母　父
 ārthadevasya yad atra puṇyaṁ tad bhavatu mātāpi:
@@ -605,9 +605,9 @@ yad atra kuśalaṁ jātaṁ tad me syād agrabodhaye
 真唐梵文字而製之。託名義淨者也。是實
 不思之甚也。按斯千字文之為義淨撰也。
 無所可疑。千字文後序曰。阿闍梨多聞三
-藏勝義天􅭪之所作而精
+藏勝義天􅳼之所作而精
 進天之所寫也。玄奘之梵名為解脫天
-􅭫或為大乘天[Mahāyāna-
+􅳽或為大乘天[Mahāyāna-
 deva]勝義天者蓋義淨之梵名也。千字文
 之內容亦證之者多多。如山庭蔽軒蓋。淨
 野標華柱(第一韻)之句。非見阿育王所建標柱

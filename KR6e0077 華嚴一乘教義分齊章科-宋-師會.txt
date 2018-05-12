@@ -1,5 +1,5 @@
 #+TITLE: 華嚴一乘教義分齊章科-宋-師會
-#+DATE: 2016-06-11 12:28:20
+#+DATE: 2018-05-12 10:23:10
 #+SOURCE: github.com/kanripo/KR6e0077 master df6e52ab                
 No. 997
 華嚴一乘教義分齊章科

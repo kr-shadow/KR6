@@ -1,5 +1,5 @@
 #+TITLE: 科始終心要-唐-湛然
-#+DATE: 2016-06-11 12:28:09
+#+DATE: 2018-05-12 10:22:58
 #+SOURCE: github.com/kanripo/KR6d0215 master f309a34a                
 始終心要
 唐天台沙門釋湛然述

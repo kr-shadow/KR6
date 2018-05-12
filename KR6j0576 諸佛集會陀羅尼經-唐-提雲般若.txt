@@ -1,5 +1,5 @@
 #+TITLE: 諸佛集會陀羅尼經-唐-提雲般若
-#+DATE: 2016-06-11 12:29:06
+#+DATE: 2018-05-12 10:23:55
 #+SOURCE: github.com/kanripo/KR6j0576 master e7a59795                
 
 

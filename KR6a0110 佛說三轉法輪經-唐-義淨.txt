@@ -1,5 +1,5 @@
 #+TITLE: 佛說三轉法輪經-唐-義淨
-#+DATE: 2016-06-11 12:27:36
+#+DATE: 2018-05-12 10:22:26
 #+SOURCE: github.com/kanripo/KR6a0110 master 664ffd36                
 
 

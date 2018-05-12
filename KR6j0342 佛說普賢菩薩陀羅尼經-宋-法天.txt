@@ -1,5 +1,5 @@
 #+TITLE: 佛說普賢菩薩陀羅尼經-宋-法天
-#+DATE: 2016-06-11 12:29:01
+#+DATE: 2018-05-12 10:23:51
 #+SOURCE: github.com/kanripo/KR6j0342 master ee386e01                
 
 

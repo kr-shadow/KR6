@@ -1,5 +1,5 @@
 #+TITLE: 消除一切閃電障難隨求如意陀羅尼經-宋-施護
-#+DATE: 2016-06-11 12:29:07
+#+DATE: 2018-05-12 10:23:56
 #+SOURCE: github.com/kanripo/KR6j0634 master 153f23f4                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 註華嚴法界觀門-唐-宗密
-#+DATE: 2016-06-11 12:28:20
+#+DATE: 2018-05-12 10:23:11
 #+SOURCE: github.com/kanripo/KR6e0101 master fd95a1c0                
 No. 1884
 

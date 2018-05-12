@@ -1,5 +1,5 @@
 #+TITLE: 百法明門論贅言-唐-明昱
-#+DATE: 2016-06-11 12:29:48
+#+DATE: 2018-05-12 10:24:34
 #+SOURCE: github.com/kanripo/KR6n0105 master b0b427b5                
 No. 804
 大乘百法明門論(本地分中略錄名數)贅言

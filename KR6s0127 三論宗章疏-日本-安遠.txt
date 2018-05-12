@@ -1,5 +1,5 @@
 #+TITLE: 三論宗章疏-日本-安遠
-#+DATE: 2016-06-11 12:30:58
+#+DATE: 2018-05-12 10:25:46
 #+SOURCE: github.com/kanripo/KR6s0127 master 75c807ab                
 
 

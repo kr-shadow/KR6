@@ -1,5 +1,5 @@
 #+TITLE: 摩訶般若鈔經-前秦-曇摩蜱
-#+DATE: 2016-06-11 12:27:47
+#+DATE: 2018-05-12 10:22:37
 #+SOURCE: github.com/kanripo/KR6c0012 master f4438d57                
 
 No. 226 [Nos. 220(4 or 5), 224, 225, 227,

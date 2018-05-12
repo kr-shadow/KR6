@@ -1,5 +1,5 @@
 #+TITLE: 群牛譬經-西晉-法炬
-#+DATE: 2016-06-11 12:27:41
+#+DATE: 2018-05-12 10:22:31
 #+SOURCE: github.com/kanripo/KR6b0072 master 915ec06f                
 
 No. 215

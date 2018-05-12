@@ -1,5 +1,5 @@
 #+TITLE: 烏芻澁明王儀軌梵字--
-#+DATE: 2016-06-11 12:29:03
+#+DATE: 2018-05-12 10:23:53
 #+SOURCE: github.com/kanripo/KR6j0454 master 48f20241                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 衣鉢名義章-宋-允堪
-#+DATE: 2016-06-11 12:29:29
+#+DATE: 2018-05-12 10:24:17
 #+SOURCE: github.com/kanripo/KR6k0212 master caf0abe3                
 No. 1098
 衣鉢名義章(并序)

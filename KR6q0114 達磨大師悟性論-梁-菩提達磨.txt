@@ -1,5 +1,5 @@
 #+TITLE: 達磨大師悟性論-梁-菩提達磨
-#+DATE: 2016-06-11 12:30:09
+#+DATE: 2018-05-12 10:24:55
 #+SOURCE: github.com/kanripo/KR6q0114 master dd3361e7                
 No. 1219
 達磨大師悟性論

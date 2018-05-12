@@ -1,5 +1,5 @@
 #+TITLE: 佛一百八名讚-宋-法天
-#+DATE: 2016-06-11 12:29:54
+#+DATE: 2018-05-12 10:24:40
 #+SOURCE: github.com/kanripo/KR6o0134 master 3f7a4182                
 
 No. 1679

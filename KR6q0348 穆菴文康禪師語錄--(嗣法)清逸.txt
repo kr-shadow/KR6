@@ -1,5 +1,5 @@
 #+TITLE: 穆菴文康禪師語錄--(嗣法)清逸
-#+DATE: 2016-06-11 12:30:21
+#+DATE: 2018-05-12 10:25:09
 #+SOURCE: github.com/kanripo/KR6q0348 master 1b2a84dd                
 No. 1415
 穆菴和尚語錄

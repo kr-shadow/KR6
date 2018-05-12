@@ -1,5 +1,5 @@
 #+TITLE: 妙色王因緣經-唐-義淨
-#+DATE: 2016-06-11 12:27:38
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0015 master 2c7ca666                
 
 No. 163

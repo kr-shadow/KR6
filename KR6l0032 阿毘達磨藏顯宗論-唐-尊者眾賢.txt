@@ -1,5 +1,5 @@
 #+TITLE: 阿毘達磨藏顯宗論-唐-尊者眾賢
-#+DATE: 2016-06-11 12:29:36
+#+DATE: 2018-05-12 10:24:22
 #+SOURCE: github.com/kanripo/KR6l0032 master 748998ec                
 
 No. 1563

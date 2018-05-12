@@ -1,5 +1,5 @@
 #+TITLE: 佛說九色鹿經-吳-支謙
-#+DATE: 2016-06-11 12:27:39
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0036 master cae39862                
 
 佛說九色鹿經

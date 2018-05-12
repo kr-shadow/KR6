@@ -1,5 +1,5 @@
 #+TITLE: 佛說寶積三昧文殊師利菩薩問法身經-後漢-安世高
-#+DATE: 2016-06-11 12:28:26
+#+DATE: 2018-05-12 10:23:17
 #+SOURCE: github.com/kanripo/KR6f0048 master 4f46c841                
 
 

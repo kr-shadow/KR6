@@ -1,5 +1,5 @@
 #+TITLE: 大方廣如來藏經-唐-不空
-#+DATE: 2016-06-11 12:28:44
+#+DATE: 2018-05-12 10:23:34
 #+SOURCE: github.com/kanripo/KR6i0324 master 7c6a42da                
 
 No. 667 [No. 666]

@@ -1,5 +1,5 @@
 #+TITLE: 佛說㮈女祇域因緣經-後漢-安世高
-#+DATE: 2016-06-11 12:28:40
+#+DATE: 2018-05-12 10:23:30
 #+SOURCE: github.com/kanripo/KR6i0184 master 80c0e6fd                
 
 No. 553 [No. 554]

@@ -1,5 +1,5 @@
 #+TITLE: 蕤呬耶經-唐-不空
-#+DATE: 2016-06-11 12:28:56
+#+DATE: 2018-05-12 10:23:45
 #+SOURCE: github.com/kanripo/KR6j0068 master 5eb15407                
 
 No. 897

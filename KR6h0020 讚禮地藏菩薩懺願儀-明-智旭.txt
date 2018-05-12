@@ -1,5 +1,5 @@
 #+TITLE: 讚禮地藏菩薩懺願儀-明-智旭
-#+DATE: 2016-06-11 12:28:33
+#+DATE: 2018-05-12 10:23:23
 #+SOURCE: github.com/kanripo/KR6h0020 master 8ee51749                
 No. 1486
 讚禮地藏菩薩懺願儀

@@ -1,5 +1,5 @@
 #+TITLE: 灌頂王喻經-宋-施護
-#+DATE: 2016-06-11 12:27:41
+#+DATE: 2018-05-12 10:22:31
 #+SOURCE: github.com/kanripo/KR6b0075 master 847ba9bd                
 
 No. 218

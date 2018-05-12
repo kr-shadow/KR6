@@ -1,5 +1,5 @@
 #+TITLE: 佛說觀自在菩薩如意心陀羅尼呪經-唐-義淨
-#+DATE: 2016-06-11 12:29:00
+#+DATE: 2018-05-12 10:23:49
 #+SOURCE: github.com/kanripo/KR6j0288 master c0a454f4                
 
 

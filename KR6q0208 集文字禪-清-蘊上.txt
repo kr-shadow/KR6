@@ -1,5 +1,5 @@
 #+TITLE: 集文字禪-清-蘊上
-#+DATE: 2016-06-11 12:30:13
+#+DATE: 2018-05-12 10:25:00
 #+SOURCE: github.com/kanripo/KR6q0208 master f6ad6fc1                
 
 ** 集文字禪序

@@ -1,5 +1,5 @@
 #+TITLE: 順中論-元魏-龍樹菩薩
-#+DATE: 2016-06-11 12:29:38
+#+DATE: 2018-05-12 10:24:24
 #+SOURCE: github.com/kanripo/KR6m0003 master b1bb6490                
 
 

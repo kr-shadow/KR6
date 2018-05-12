@@ -1,5 +1,5 @@
 #+TITLE: 大集會正法經-宋-施護
-#+DATE: 2016-06-11 12:28:33
+#+DATE: 2018-05-12 10:23:24
 #+SOURCE: github.com/kanripo/KR6h0034 master ca8da08f                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 佛為心王菩薩說頭陀經（附註疏）--惠辯禪師
-#+DATE: 2016-06-11 12:30:59
+#+DATE: 2018-05-12 10:25:48
 #+SOURCE: github.com/kanripo/KR6v0009 master 1919f1d1                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 般若心經註講-清-行敏
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:43
 #+SOURCE: github.com/kanripo/KR6c0187 master 102dca29                
 No. 568
 般若波羅蜜多心經

@@ -1,5 +1,5 @@
 #+TITLE: 南天竺國菩提達摩禪師觀門--
-#+DATE: 2016-06-11 12:30:09
+#+DATE: 2018-05-12 10:24:55
 #+SOURCE: github.com/kanripo/KR6q0104 master 983ad039                
 
 No. 2832

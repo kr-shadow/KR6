@@ -1,5 +1,5 @@
 #+TITLE: 勝初瑜伽儀軌真言--
-#+DATE: 2016-06-11 12:29:01
+#+DATE: 2018-05-12 10:23:51
 #+SOURCE: github.com/kanripo/KR6j0335 master 8c9f3c70                
 
 No. 1120B

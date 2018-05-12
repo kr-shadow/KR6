@@ -1,5 +1,5 @@
 #+TITLE: 佛使比丘迦旃延說法沒盡偈百二十章--失譯
-#+DATE: 2016-06-11 12:30:36
+#+DATE: 2018-05-12 10:25:26
 #+SOURCE: github.com/kanripo/KR6r0004 master 99bb621a                
 
 

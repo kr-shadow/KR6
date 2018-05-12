@@ -1,5 +1,5 @@
 #+TITLE: 楞嚴經義疏注經科-宋-子璿
-#+DATE: 2016-06-11 12:29:08
+#+DATE: 2018-05-12 10:23:57
 #+SOURCE: github.com/kanripo/KR6j0674 master 60fbb8e8                
 No. 265
 大佛頂首楞嚴經科

@@ -1,5 +1,5 @@
 #+TITLE: 佛說花積樓閣陀羅尼經-宋-施護
-#+DATE: 2016-06-11 12:29:06
+#+DATE: 2018-05-12 10:23:55
 #+SOURCE: github.com/kanripo/KR6j0589 master 32229c87                
 
 No. 1359 [Nos. 1356-1358]

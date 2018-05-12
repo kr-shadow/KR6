@@ -1,5 +1,5 @@
 #+TITLE: 證道歌註-宋-知訥
-#+DATE: 2016-06-11 12:30:11
+#+DATE: 2018-05-12 10:24:58
 #+SOURCE: github.com/kanripo/KR6q0178 master e8e422d7                
 
 * No. 1292-A

@@ -1,5 +1,5 @@
 #+TITLE: 佛阿毘曇經出家相品-陳-真諦
-#+DATE: 2016-06-11 12:29:20
+#+DATE: 2018-05-12 10:24:08
 #+SOURCE: github.com/kanripo/KR6k0071 master 38c184b7                
 
 No. 1482

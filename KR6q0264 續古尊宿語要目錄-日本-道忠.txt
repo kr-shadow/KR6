@@ -1,5 +1,5 @@
 #+TITLE: 續古尊宿語要目錄-日本-道忠
-#+DATE: 2016-06-11 12:30:18
+#+DATE: 2018-05-12 10:25:04
 #+SOURCE: github.com/kanripo/KR6q0264 master bd42d8d6                
 No. 1317
 續刊古尊宿語要目錄　(龍華新寫)

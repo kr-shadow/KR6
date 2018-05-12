@@ -1,5 +1,5 @@
 #+TITLE: 造像量度經-清-工布查布
-#+DATE: 2016-06-11 12:29:07
+#+DATE: 2018-05-12 10:23:56
 #+SOURCE: github.com/kanripo/KR6j0659 master 403ea3a6                
 No. 28
 佛說造像量度經

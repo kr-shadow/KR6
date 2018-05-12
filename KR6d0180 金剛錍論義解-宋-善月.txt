@@ -1,5 +1,5 @@
 #+TITLE: 金剛錍論義解-宋-善月
-#+DATE: 2016-06-11 12:28:08
+#+DATE: 2018-05-12 10:22:57
 #+SOURCE: github.com/kanripo/KR6d0180 master e5394c33                
 No. 936
 金剛錍義解之中

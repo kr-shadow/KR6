@@ -1,5 +1,5 @@
 #+TITLE: 佛說法印經-宋-施護
-#+DATE: 2016-06-11 12:27:36
+#+DATE: 2018-05-12 10:22:26
 #+SOURCE: github.com/kanripo/KR6a0104 master 0cb9fff1                
 
 

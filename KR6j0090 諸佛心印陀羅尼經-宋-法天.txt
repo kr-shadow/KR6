@@ -1,5 +1,5 @@
 #+TITLE: 諸佛心印陀羅尼經-宋-法天
-#+DATE: 2016-06-11 12:28:56
+#+DATE: 2018-05-12 10:23:46
 #+SOURCE: github.com/kanripo/KR6j0090 master a9c2697b                
 
 

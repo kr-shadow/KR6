@@ -1,5 +1,5 @@
 #+TITLE: 淨土紺珠-清-德真
-#+DATE: 2016-06-11 12:29:58
+#+DATE: 2018-05-12 10:24:45
 #+SOURCE: github.com/kanripo/KR6p0121 master 0d5edfe2                
 
 * No. 1202-A

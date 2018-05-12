@@ -1,5 +1,5 @@
 #+TITLE: 梵網經玄義-明-智旭
-#+DATE: 2016-06-11 12:29:21
+#+DATE: 2018-05-12 10:24:09
 #+SOURCE: github.com/kanripo/KR6k0096 master b8657ebc                
 No. 693
 佛說梵網經菩薩心地品玄義

@@ -1,5 +1,5 @@
 #+TITLE: 朝宗禪師語錄-明-通忍
-#+DATE: 2016-06-11 12:30:29
+#+DATE: 2018-05-12 10:25:19
 #+SOURCE: github.com/kanripo/KR6q0474 master 3f883eba                
 
 * 重刻朝宗禪師語錄緣起

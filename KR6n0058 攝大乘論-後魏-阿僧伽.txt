@@ -1,5 +1,5 @@
 #+TITLE: 攝大乘論-後魏-阿僧伽
-#+DATE: 2016-06-11 12:29:46
+#+DATE: 2018-05-12 10:24:32
 #+SOURCE: github.com/kanripo/KR6n0058 master 291aaec8                
 
 No. 1592 [Nos. 1593, 1594; cf. Nos. 1595-1598]

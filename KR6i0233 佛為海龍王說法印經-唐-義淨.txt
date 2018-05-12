@@ -1,5 +1,5 @@
 #+TITLE: 佛為海龍王說法印經-唐-義淨
-#+DATE: 2016-06-11 12:28:41
+#+DATE: 2018-05-12 10:23:31
 #+SOURCE: github.com/kanripo/KR6i0233 master 704a3736                
 
 

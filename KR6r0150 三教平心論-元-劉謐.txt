@@ -1,5 +1,5 @@
 #+TITLE: 三教平心論-元-劉謐
-#+DATE: 2016-06-11 12:30:44
+#+DATE: 2018-05-12 10:25:33
 #+SOURCE: github.com/kanripo/KR6r0150 master 810f63e5                
 
 No. 2117

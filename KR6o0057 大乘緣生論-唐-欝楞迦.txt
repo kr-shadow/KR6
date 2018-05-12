@@ -1,5 +1,5 @@
 #+TITLE: 大乘緣生論-唐-欝楞迦
-#+DATE: 2016-06-11 12:29:51
+#+DATE: 2018-05-12 10:24:37
 #+SOURCE: github.com/kanripo/KR6o0057 master 6cbb76ba                
 
 No. 1653 [No. 1652]

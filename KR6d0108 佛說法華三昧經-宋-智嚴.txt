@@ -1,5 +1,5 @@
 #+TITLE: 佛說法華三昧經-宋-智嚴
-#+DATE: 2016-06-11 12:28:04
+#+DATE: 2018-05-12 10:22:54
 #+SOURCE: github.com/kanripo/KR6d0108 master d273232a                
 
 

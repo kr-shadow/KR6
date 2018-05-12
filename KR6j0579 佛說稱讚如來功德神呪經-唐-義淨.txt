@@ -1,5 +1,5 @@
 #+TITLE: 佛說稱讚如來功德神呪經-唐-義淨
-#+DATE: 2016-06-11 12:29:06
+#+DATE: 2018-05-12 10:23:55
 #+SOURCE: github.com/kanripo/KR6j0579 master f07f3967                
 
 

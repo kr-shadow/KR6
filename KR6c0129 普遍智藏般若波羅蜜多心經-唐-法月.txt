@@ -1,5 +1,5 @@
 #+TITLE: 普遍智藏般若波羅蜜多心經-唐-法月
-#+DATE: 2016-06-11 12:27:51
+#+DATE: 2018-05-12 10:22:41
 #+SOURCE: github.com/kanripo/KR6c0129 master 53826999                
 
 

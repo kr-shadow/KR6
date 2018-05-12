@@ -1,5 +1,5 @@
 #+TITLE: 廣釋菩提心論-宋-蓮華戒菩薩
-#+DATE: 2016-06-11 12:29:51
+#+DATE: 2018-05-12 10:24:38
 #+SOURCE: github.com/kanripo/KR6o0069 master fda40ee6                
 
 

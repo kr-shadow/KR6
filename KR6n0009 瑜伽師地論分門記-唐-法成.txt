@@ -1,5 +1,5 @@
 #+TITLE: 瑜伽師地論分門記-唐-法成
-#+DATE: 2016-06-11 12:29:41
+#+DATE: 2018-05-12 10:24:28
 #+SOURCE: github.com/kanripo/KR6n0009 master 7454dd6a                
 
 No. 2801 [cf. No. 1579]

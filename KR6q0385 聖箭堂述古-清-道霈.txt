@@ -1,5 +1,5 @@
 #+TITLE: 聖箭堂述古-清-道霈
-#+DATE: 2016-06-11 12:30:23
+#+DATE: 2018-05-12 10:25:12
 #+SOURCE: github.com/kanripo/KR6q0385 master fadcd5b8                
 
 * No. 1455-A

@@ -1,5 +1,5 @@
 #+TITLE: 因明入正理論疏-唐-窺基
-#+DATE: 2016-06-11 12:29:50
+#+DATE: 2018-05-12 10:24:36
 #+SOURCE: github.com/kanripo/KR6o0008 master c1ee9013                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 修行本起經-後漢-竺大力
-#+DATE: 2016-06-11 12:27:39
+#+DATE: 2018-05-12 10:22:29
 #+SOURCE: github.com/kanripo/KR6b0040 master 5828db9a                
 
 No. 184

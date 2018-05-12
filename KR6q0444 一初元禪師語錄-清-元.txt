@@ -1,5 +1,5 @@
 #+TITLE: 一初元禪師語錄-清-元
-#+DATE: 2016-06-11 12:30:27
+#+DATE: 2018-05-12 10:25:18
 #+SOURCE: github.com/kanripo/KR6q0444 master 7aa00377                
 
 ** 一初和尚語錄序

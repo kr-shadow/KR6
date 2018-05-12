@@ -1,5 +1,5 @@
 #+TITLE: 普賢觀經義疏科--
-#+DATE: 2016-06-11 12:28:05
+#+DATE: 2018-05-12 10:22:54
 #+SOURCE: github.com/kanripo/KR6d0122 master 3626742a                
 No. 649
 觀普賢菩薩行法經義疏科

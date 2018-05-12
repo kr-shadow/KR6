@@ -1,5 +1,5 @@
 #+TITLE: 無明慧性禪師語錄--(侍者)妙儼
-#+DATE: 2016-06-11 12:30:20
+#+DATE: 2018-05-12 10:25:06
 #+SOURCE: github.com/kanripo/KR6q0312 master 35f17e66                
 
 大宋無明慧性禪師語錄

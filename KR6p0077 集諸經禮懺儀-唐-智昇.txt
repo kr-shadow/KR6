@@ -1,5 +1,5 @@
 #+TITLE: 集諸經禮懺儀-唐-智昇
-#+DATE: 2016-06-11 12:29:57
+#+DATE: 2018-05-12 10:24:43
 #+SOURCE: github.com/kanripo/KR6p0077 master 9838dd49                
 
 No. 1982

@@ -1,5 +1,5 @@
 #+TITLE: 《瑜伽師地論》披尋記敘--韓清淨
-#+DATE: 2016-06-11 12:31:00
+#+DATE: 2018-05-12 10:25:48
 #+SOURCE: github.com/kanripo/KR6v0029 master 92ed0f38                
 
 

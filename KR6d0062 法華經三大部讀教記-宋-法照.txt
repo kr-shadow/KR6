@@ -1,5 +1,5 @@
 #+TITLE: 法華經三大部讀教記-宋-法照
-#+DATE: 2016-06-11 12:28:00
+#+DATE: 2018-05-12 10:22:49
 #+SOURCE: github.com/kanripo/KR6d0062 master 976eda9a                
 
 * No. 585-A

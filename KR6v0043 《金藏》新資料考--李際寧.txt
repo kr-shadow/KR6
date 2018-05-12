@@ -1,5 +1,5 @@
 #+TITLE: 《金藏》新資料考--李際寧
-#+DATE: 2016-06-11 12:31:00
+#+DATE: 2018-05-12 10:25:49
 #+SOURCE: github.com/kanripo/KR6v0043 master dcdfb15e                
 
 《金藏》新資料考

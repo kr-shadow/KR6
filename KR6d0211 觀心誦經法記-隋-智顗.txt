@@ -1,5 +1,5 @@
 #+TITLE: 觀心誦經法記-隋-智顗
-#+DATE: 2016-06-11 12:28:09
+#+DATE: 2018-05-12 10:22:58
 #+SOURCE: github.com/kanripo/KR6d0211 master 2fa8eda0                
 No. 912
 觀心誦經法記

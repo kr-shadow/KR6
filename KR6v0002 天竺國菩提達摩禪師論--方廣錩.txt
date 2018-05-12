@@ -1,5 +1,5 @@
 #+TITLE: 天竺國菩提達摩禪師論--方廣錩
-#+DATE: 2016-06-11 12:30:59
+#+DATE: 2018-05-12 10:25:48
 #+SOURCE: github.com/kanripo/KR6v0002 master 6108eda5                
 
 

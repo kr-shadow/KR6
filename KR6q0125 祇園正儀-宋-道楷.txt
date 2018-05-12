@@ -1,5 +1,5 @@
 #+TITLE: 祇園正儀-宋-道楷
-#+DATE: 2016-06-11 12:30:09
+#+DATE: 2018-05-12 10:24:56
 #+SOURCE: github.com/kanripo/KR6q0125 master 7d1167fa                
 No. 1233
 祇園正儀

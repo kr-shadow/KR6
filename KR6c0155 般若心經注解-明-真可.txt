@@ -1,5 +1,5 @@
 #+TITLE: 般若心經注解-明-真可
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0155 master ed626a9c                
 No. 536
 般若波羅蜜多心經注解

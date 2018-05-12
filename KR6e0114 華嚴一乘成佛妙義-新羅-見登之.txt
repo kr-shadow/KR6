@@ -1,5 +1,5 @@
 #+TITLE: 華嚴一乘成佛妙義-新羅-見登之
-#+DATE: 2016-06-11 12:28:21
+#+DATE: 2018-05-12 10:23:12
 #+SOURCE: github.com/kanripo/KR6e0114 master f9371d28                
 
 No. 1890

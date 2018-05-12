@@ -1,5 +1,5 @@
 #+TITLE: 商主天子所問經-隋-闍那崛多
-#+DATE: 2016-06-11 12:28:40
+#+DATE: 2018-05-12 10:23:31
 #+SOURCE: github.com/kanripo/KR6i0224 master ee649362                
 
 No. 591

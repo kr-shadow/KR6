@@ -1,5 +1,5 @@
 #+TITLE: 五蘊觀-唐-澄觀
-#+DATE: 2016-06-11 12:28:22
+#+DATE: 2018-05-12 10:23:13
 #+SOURCE: github.com/kanripo/KR6e0129 master 6d68e895                
 No. 1004
 五蘊觀

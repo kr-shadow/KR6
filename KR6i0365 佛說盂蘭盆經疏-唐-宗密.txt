@@ -1,5 +1,5 @@
 #+TITLE: 佛說盂蘭盆經疏-唐-宗密
-#+DATE: 2016-06-11 12:28:47
+#+DATE: 2018-05-12 10:23:37
 #+SOURCE: github.com/kanripo/KR6i0365 master a2726460                
 
 No. 1792 [cf. No. 685]

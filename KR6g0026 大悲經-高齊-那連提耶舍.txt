@@ -1,5 +1,5 @@
 #+TITLE: 大悲經-高齊-那連提耶舍
-#+DATE: 2016-06-11 12:28:31
+#+DATE: 2018-05-12 10:23:21
 #+SOURCE: github.com/kanripo/KR6g0026 master d6ae2051                
 
 No. 380

@@ -1,5 +1,5 @@
 #+TITLE: 金胎兩界師資相承-唐-海雲
-#+DATE: 2016-06-11 12:29:15
+#+DATE: 2018-05-12 10:24:03
 #+SOURCE: github.com/kanripo/KR6j0748 master 70cd81b3                
 No. 1073
 金胎兩界師相承

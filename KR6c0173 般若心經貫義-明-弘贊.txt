@@ -1,5 +1,5 @@
 #+TITLE: 般若心經貫義-明-弘贊
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0173 master d76bf2b9                
 No. 554
 心經貫義

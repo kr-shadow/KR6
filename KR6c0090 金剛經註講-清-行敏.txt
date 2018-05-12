@@ -1,5 +1,5 @@
 #+TITLE: 金剛經註講-清-行敏
-#+DATE: 2016-06-11 12:27:50
+#+DATE: 2018-05-12 10:22:40
 #+SOURCE: github.com/kanripo/KR6c0090 master 414d56c6                
 No. 502
 金剛般若波羅蜜經註講卷上

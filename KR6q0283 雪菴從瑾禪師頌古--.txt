@@ -1,5 +1,5 @@
 #+TITLE: 雪菴從瑾禪師頌古--
-#+DATE: 2016-06-11 12:30:19
+#+DATE: 2018-05-12 10:25:05
 #+SOURCE: github.com/kanripo/KR6q0283 master 8ea8e463                
 No. 1348
 雪庵從瑾禪師頌古集

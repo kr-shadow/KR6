@@ -1,5 +1,5 @@
 #+TITLE: 觀音經普門品膚說-清-靈耀
-#+DATE: 2016-06-11 12:27:59
+#+DATE: 2018-05-12 10:22:49
 #+SOURCE: github.com/kanripo/KR6d0057 master 7ea950d5                
 
 * No. 647-A

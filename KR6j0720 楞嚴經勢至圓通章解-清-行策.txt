@@ -1,5 +1,5 @@
 #+TITLE: 楞嚴經勢至圓通章解-清-行策
-#+DATE: 2016-06-11 12:29:13
+#+DATE: 2018-05-12 10:24:02
 #+SOURCE: github.com/kanripo/KR6j0720 master a251710a                
 No. 312
 首楞嚴經勢至圓通章解

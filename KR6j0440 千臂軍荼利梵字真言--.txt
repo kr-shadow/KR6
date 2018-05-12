@@ -1,5 +1,5 @@
 #+TITLE: 千臂軍荼利梵字真言--
-#+DATE: 2016-06-11 12:29:03
+#+DATE: 2018-05-12 10:23:53
 #+SOURCE: github.com/kanripo/KR6j0440 master 0a9de72f                
 
 

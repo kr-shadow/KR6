@@ -1,5 +1,5 @@
 #+TITLE: 佛說十一面觀世音神呪經-北周-耶舍崛多
-#+DATE: 2016-06-11 12:29:00
+#+DATE: 2018-05-12 10:23:49
 #+SOURCE: github.com/kanripo/KR6j0276 master 9ba6754d                
 
 

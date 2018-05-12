@@ -1,5 +1,5 @@
 #+TITLE: 觀所緣緣論會釋-明-明昱
-#+DATE: 2016-06-11 12:29:48
+#+DATE: 2018-05-12 10:24:35
 #+SOURCE: github.com/kanripo/KR6n0114 master d0a4e45a                
 No. 830
 觀所緣緣論會釋

@@ -1,5 +1,5 @@
 #+TITLE: 黃龍四家錄（序）-宋-秀人錢密
-#+DATE: 2016-06-11 12:30:18
+#+DATE: 2018-05-12 10:25:05
 #+SOURCE: github.com/kanripo/KR6q0276 master df78a163                
 
 * No. 1340-A

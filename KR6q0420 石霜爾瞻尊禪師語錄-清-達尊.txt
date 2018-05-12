@@ -1,5 +1,5 @@
 #+TITLE: 石霜爾瞻尊禪師語錄-清-達尊
-#+DATE: 2016-06-11 12:30:26
+#+DATE: 2018-05-12 10:25:16
 #+SOURCE: github.com/kanripo/KR6q0420 master c393f249                
 
 * 爾瞻禪師語錄敘

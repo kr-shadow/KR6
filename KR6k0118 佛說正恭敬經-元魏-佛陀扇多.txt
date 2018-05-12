@@ -1,5 +1,5 @@
 #+TITLE: 佛說正恭敬經-元魏-佛陀扇多
-#+DATE: 2016-06-11 12:29:22
+#+DATE: 2018-05-12 10:24:10
 #+SOURCE: github.com/kanripo/KR6k0118 master bf9e8640                
 
 

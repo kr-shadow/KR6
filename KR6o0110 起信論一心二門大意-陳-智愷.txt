@@ -1,5 +1,5 @@
 #+TITLE: 起信論一心二門大意-陳-智愷
-#+DATE: 2016-06-11 12:29:53
+#+DATE: 2018-05-12 10:24:39
 #+SOURCE: github.com/kanripo/KR6o0110 master c790c42d                
 No. 754
 起信論一心二門大意

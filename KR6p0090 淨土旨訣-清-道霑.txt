@@ -1,5 +1,5 @@
 #+TITLE: 淨土旨訣-清-道霑
-#+DATE: 2016-06-11 12:29:57
+#+DATE: 2018-05-12 10:24:43
 #+SOURCE: github.com/kanripo/KR6p0090 master 823618bd                
 
 * No. 1171-A

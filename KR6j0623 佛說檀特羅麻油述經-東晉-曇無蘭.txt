@@ -1,5 +1,5 @@
 #+TITLE: 佛說檀特羅麻油述經-東晉-曇無蘭
-#+DATE: 2016-06-11 12:29:07
+#+DATE: 2018-05-12 10:23:56
 #+SOURCE: github.com/kanripo/KR6j0623 master 8a1d17de                
 
 No. 1391

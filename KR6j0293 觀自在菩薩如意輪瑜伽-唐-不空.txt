@@ -1,5 +1,5 @@
 #+TITLE: 觀自在菩薩如意輪瑜伽-唐-不空
-#+DATE: 2016-06-11 12:29:00
+#+DATE: 2018-05-12 10:23:50
 #+SOURCE: github.com/kanripo/KR6j0293 master ea6a12bc                
 
 

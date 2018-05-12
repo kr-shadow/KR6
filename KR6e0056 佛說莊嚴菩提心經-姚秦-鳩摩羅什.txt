@@ -1,5 +1,5 @@
 #+TITLE: 佛說莊嚴菩提心經-姚秦-鳩摩羅什
-#+DATE: 2016-06-11 12:28:17
+#+DATE: 2018-05-12 10:23:08
 #+SOURCE: github.com/kanripo/KR6e0056 master 514c5a5c                
 
 No. 307

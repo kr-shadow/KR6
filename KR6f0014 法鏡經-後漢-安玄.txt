@@ -1,5 +1,5 @@
 #+TITLE: 法鏡經-後漢-安玄
-#+DATE: 2016-06-11 12:28:25
+#+DATE: 2018-05-12 10:23:16
 #+SOURCE: github.com/kanripo/KR6f0014 master 6b7bc6db                
 
 No. 322 [Nos. 310(19), 323]

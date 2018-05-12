@@ -1,5 +1,5 @@
 #+TITLE: 佛說無言童子經-西晉-竺法護
-#+DATE: 2016-06-11 12:28:32
+#+DATE: 2018-05-12 10:23:23
 #+SOURCE: github.com/kanripo/KR6h0005 master 9fcbe01c                
 
 No. 401 [No. 397(6)]

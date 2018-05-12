@@ -1,5 +1,5 @@
 #+TITLE: 正宗心印後續聯芳-明-善燦
-#+DATE: 2016-06-11 12:30:05
+#+DATE: 2018-05-12 10:24:52
 #+SOURCE: github.com/kanripo/KR6q0047 master 0e4b5f04                
 No. 1617
 正宗心印後續聯芳

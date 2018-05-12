@@ -1,5 +1,5 @@
 #+TITLE: 西歸直指-清-周夢顏
-#+DATE: 2016-06-11 12:29:57
+#+DATE: 2018-05-12 10:24:44
 #+SOURCE: github.com/kanripo/KR6p0092 master 3b916362                
 
 * No. 1173-A

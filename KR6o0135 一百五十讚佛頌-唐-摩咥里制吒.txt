@@ -1,5 +1,5 @@
 #+TITLE: 一百五十讚佛頌-唐-摩咥里制吒
-#+DATE: 2016-06-11 12:29:54
+#+DATE: 2018-05-12 10:24:40
 #+SOURCE: github.com/kanripo/KR6o0135 master 7760e7b1                
 
 No. 1680

@@ -1,5 +1,5 @@
 #+TITLE: 投子義青禪師語錄--(嗣法)道楷
-#+DATE: 2016-06-11 12:30:22
+#+DATE: 2018-05-12 10:25:09
 #+SOURCE: github.com/kanripo/KR6q0357 master d925f110                
 No. 1424
 舒州投子山妙續大師語錄

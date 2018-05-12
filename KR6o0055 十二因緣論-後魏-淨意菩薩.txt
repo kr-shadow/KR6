@@ -1,5 +1,5 @@
 #+TITLE: 十二因緣論-後魏-淨意菩薩
-#+DATE: 2016-06-11 12:29:51
+#+DATE: 2018-05-12 10:24:37
 #+SOURCE: github.com/kanripo/KR6o0055 master 83c6ace5                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 般若心經小談-明-觀衡
-#+DATE: 2016-06-11 12:27:52
+#+DATE: 2018-05-12 10:22:42
 #+SOURCE: github.com/kanripo/KR6c0175 master 5b5d22b5                
 No. 556
 心經小談

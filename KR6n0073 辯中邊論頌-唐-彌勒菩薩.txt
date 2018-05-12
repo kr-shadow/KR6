@@ -1,5 +1,5 @@
 #+TITLE: 辯中邊論頌-唐-彌勒菩薩
-#+DATE: 2016-06-11 12:29:47
+#+DATE: 2018-05-12 10:24:33
 #+SOURCE: github.com/kanripo/KR6n0073 master 7dcd01cb                
 No. 1601 [cf. Nos. 1599, 1600]
 《辯中邊論頌》一卷

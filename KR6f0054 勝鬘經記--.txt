@@ -1,5 +1,5 @@
 #+TITLE: 勝鬘經記--
-#+DATE: 2016-06-11 12:28:26
+#+DATE: 2018-05-12 10:23:17
 #+SOURCE: github.com/kanripo/KR6f0054 master bafab4ba                
 No. 2761 [cf. No. 353]
 勝鬘義記

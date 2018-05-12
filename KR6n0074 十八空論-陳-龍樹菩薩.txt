@@ -1,5 +1,5 @@
 #+TITLE: 十八空論-陳-龍樹菩薩
-#+DATE: 2016-06-11 12:29:47
+#+DATE: 2018-05-12 10:24:33
 #+SOURCE: github.com/kanripo/KR6n0074 master 7f1b644d                
 
 

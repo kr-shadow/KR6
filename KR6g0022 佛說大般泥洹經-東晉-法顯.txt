@@ -1,5 +1,5 @@
 #+TITLE: 佛說大般泥洹經-東晉-法顯
-#+DATE: 2016-06-11 12:28:30
+#+DATE: 2018-05-12 10:23:21
 #+SOURCE: github.com/kanripo/KR6g0022 master d885ea1e                
 
 No. 376 [Nos. 374(1-6), 375(1-18)]

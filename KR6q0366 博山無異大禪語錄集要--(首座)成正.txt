@@ -1,5 +1,5 @@
 #+TITLE: 博山無異大禪語錄集要--(首座)成正
-#+DATE: 2016-06-11 12:30:22
+#+DATE: 2018-05-12 10:25:10
 #+SOURCE: github.com/kanripo/KR6q0366 master 778d6cd7                
 
 * No. 1436-A
